@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'quiz_screen.dart';
-
+import 'level_screen.dart';
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
@@ -74,7 +74,7 @@ class HomeScreen extends StatelessWidget {
           context,
 
           MaterialPageRoute(
-            builder: (_) => QuizScreen(
+            builder: (_) => LevelScreen(
               category: title.toLowerCase(),
             ),
           ),

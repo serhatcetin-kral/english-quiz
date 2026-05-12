@@ -1,15 +1,19 @@
 import 'package:flutter/material.dart';
 
 import '../models/quiz_question.dart';
+import '../models/quiz_result.dart';
 import '../services/quiz_service.dart';
-
+import 'result_screen.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+import 'dart:convert';
 class QuizScreen extends StatefulWidget {
-
   final String category;
+  final String level;
 
   const QuizScreen({
     super.key,
     required this.category,
+    required this.level,
   });
 
   @override
@@ -20,10 +24,11 @@ class _QuizScreenState extends State<QuizScreen> {
 
   List<QuizQuestion> questions = [];
 
-  int currentIndex = 0;
-  int score = 0;
+  List<String?> selectedAnswers = [];
 
   bool loading = true;
+
+  int currentIndex = 0;
 
   @override
   void initState() {
@@ -36,20 +41,87 @@ class _QuizScreenState extends State<QuizScreen> {
     questions =
     await QuizService.loadQuestions(
       widget.category,
+      widget.level,
     );
+
+    questions.shuffle();
+
+    selectedAnswers =
+        List.filled(
+          questions.length,
+          null,
+        );
+
+    await loadSavedProgress();
 
     setState(() {
       loading = false;
     });
   }
+  Future<void> saveProgress() async {
 
-  void checkAnswer(String selected) {
+    final prefs =
+    await SharedPreferences.getInstance();
 
-    if (selected ==
-        questions[currentIndex].answer) {
+    await prefs.setString(
+      'current_category',
+      widget.category,
+    );
 
-      score++;
+    await prefs.setInt(
+      'current_index',
+      currentIndex,
+    );
+
+    await prefs.setString(
+      'selected_answers',
+      jsonEncode(selectedAnswers),
+    );
+  }
+  Future<void> loadSavedProgress() async {
+
+    final prefs =
+    await SharedPreferences.getInstance();
+
+    final savedCategory =
+    prefs.getString(
+      'current_category',
+    );
+
+    if (savedCategory != widget.category) {
+      return;
     }
+
+    currentIndex =
+        prefs.getInt(
+          'current_index',
+        ) ?? 0;
+
+    final savedAnswers =
+    prefs.getString(
+      'selected_answers',
+    );
+
+    if (savedAnswers != null) {
+
+      final decoded =
+      List<String?>.from(
+        jsonDecode(savedAnswers),
+      );
+
+      selectedAnswers = decoded;
+    }
+  }
+  void selectAnswer(String answer) {
+    setState(() {
+      selectedAnswers[currentIndex] =
+          answer;
+    });
+
+    saveProgress();
+  }
+
+  void nextQuestion() {
 
     if (currentIndex <
         questions.length - 1) {
@@ -57,41 +129,83 @@ class _QuizScreenState extends State<QuizScreen> {
       setState(() {
         currentIndex++;
       });
+      saveProgress();
+    }
+  }
 
-    } else {
+  void previousQuestion() {
 
-      showDialog(
-        context: context,
-        builder: (_) => AlertDialog(
-          title: const Text('Quiz Finished'),
+    if (currentIndex > 0) {
 
-          content: Text(
-            'Your Score: $score/${questions.length}',
-          ),
+      setState(() {
+        currentIndex--;
+      });
+      saveProgress();
+    }
+  }
 
-          actions: [
+  Future<void> finishQuiz() async {
 
-            TextButton(
-              onPressed: () {
-                Navigator.pop(context);
-                Navigator.pop(context);
-              },
+    final prefs =
+        await SharedPreferences.getInstance();
 
-              child: const Text('OK'),
-            )
-          ],
+    await prefs.remove('current_category');
+    await prefs.remove('current_index');
+    await prefs.remove('selected_answers');
+
+    int score = 0;
+
+    List<QuizResult> results = [];
+
+    for (int i = 0;
+    i < questions.length;
+    i++) {
+
+      final question = questions[i];
+
+      final selected =
+          selectedAnswers[i] ?? '';
+
+      final isCorrect =
+          selected ==
+              question.answer;
+
+      if (isCorrect) {
+        score++;
+      }
+
+      results.add(
+
+        QuizResult(
+          question: question,
+          selectedAnswer: selected,
+          isCorrect: isCorrect,
         ),
       );
     }
+
+    Navigator.pushReplacement(
+      context,
+
+      MaterialPageRoute(
+        builder: (_) => ResultScreen(
+          score: score,
+          total: questions.length,
+          results: results,
+        ),
+      ),
+    );
   }
 
   @override
   Widget build(BuildContext context) {
 
     if (loading) {
+
       return const Scaffold(
         body: Center(
-          child: CircularProgressIndicator(),
+          child:
+          CircularProgressIndicator(),
         ),
       );
     }
@@ -102,11 +216,15 @@ class _QuizScreenState extends State<QuizScreen> {
     return Scaffold(
 
       appBar: AppBar(
-        title: Text(widget.category),
+        title: Text(
+          widget.category.toUpperCase(),
+        ),
+        centerTitle: true,
       ),
 
       body: Padding(
-        padding: const EdgeInsets.all(16),
+        padding:
+        const EdgeInsets.all(16),
 
         child: Column(
 
@@ -115,31 +233,63 @@ class _QuizScreenState extends State<QuizScreen> {
 
           children: [
 
+            LinearProgressIndicator(
+              value:
+              (currentIndex + 1) /
+                  questions.length,
+            ),
+
+            const SizedBox(height: 20),
+
             Text(
               'Question ${currentIndex + 1}/${questions.length}',
 
               style: const TextStyle(
                 fontSize: 18,
-                fontWeight: FontWeight.bold,
+                fontWeight:
+                FontWeight.bold,
               ),
             ),
 
-            const SizedBox(height: 30),
+            const SizedBox(height: 24),
 
-            Text(
-              question.question,
+            Card(
 
-              style: const TextStyle(
-                fontSize: 24,
-                fontWeight: FontWeight.bold,
+              elevation: 5,
+
+              shape:
+              RoundedRectangleBorder(
+                borderRadius:
+                BorderRadius.circular(20),
+              ),
+
+              child: Padding(
+                padding:
+                const EdgeInsets.all(20),
+
+                child: Text(
+                  question.question,
+
+                  style:
+                  const TextStyle(
+                    fontSize: 24,
+                    fontWeight:
+                    FontWeight.bold,
+                  ),
+                ),
               ),
             ),
 
-            const SizedBox(height: 30),
+            const SizedBox(height: 24),
 
             ...question.options.map((option) {
 
+              final selected =
+                  selectedAnswers[currentIndex]
+                      == option;
+
               return Padding(
+
                 padding:
                 const EdgeInsets.only(
                   bottom: 12,
@@ -148,23 +298,96 @@ class _QuizScreenState extends State<QuizScreen> {
                 child: ElevatedButton(
 
                   onPressed: () {
-                    checkAnswer(option);
+                    selectAnswer(option);
                   },
 
-                  child: Padding(
+                  style:
+                  ElevatedButton.styleFrom(
+
+                    backgroundColor:
+                    selected
+                        ? Colors.blue
+                        : null,
+
+                    foregroundColor:
+                    selected
+                        ? Colors.white
+                        : null,
+
                     padding:
                     const EdgeInsets.all(16),
 
-                    child: Text(
-                      option,
-                      style: const TextStyle(
-                        fontSize: 18,
-                      ),
+                    shape:
+                    RoundedRectangleBorder(
+                      borderRadius:
+                      BorderRadius.circular(16),
+                    ),
+                  ),
+
+                  child: Text(
+                    option,
+
+                    style:
+                    const TextStyle(
+                      fontSize: 18,
                     ),
                   ),
                 ),
               );
             }),
+
+            const Spacer(),
+
+            Row(
+
+              children: [
+
+                Expanded(
+
+                  child: ElevatedButton(
+
+                    onPressed:
+                    currentIndex == 0
+                        ? null
+                        : previousQuestion,
+
+                    child:
+                    const Text('Previous'),
+                  ),
+                ),
+
+                const SizedBox(width: 12),
+
+                Expanded(
+
+                  child:
+                  currentIndex ==
+                      questions.length - 1
+
+                      ? ElevatedButton(
+
+                    onPressed:
+                    finishQuiz,
+
+                    child:
+                    const Text(
+                      'Finish',
+                    ),
+                  )
+
+                      : ElevatedButton(
+
+                    onPressed:
+                    nextQuestion,
+
+                    child:
+                    const Text(
+                      'Next',
+                    ),
+                  ),
+                ),
+              ],
+            ),
           ],
         ),
       ),

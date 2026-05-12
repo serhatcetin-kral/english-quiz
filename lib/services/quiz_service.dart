@@ -1,23 +1,33 @@
 import 'dart:convert';
+
 import 'package:flutter/services.dart';
 
 import '../models/quiz_question.dart';
 
 class QuizService {
 
-  static Future<List<QuizQuestion>> loadQuestions(
+  static Future<List<QuizQuestion>>
+  loadQuestions(
+
       String category,
+      String level,
+
       ) async {
 
     final String data =
     await rootBundle.loadString(
-      'assets/data/$category.json',
+
+      'assets/data/$category/$level.json',
     );
 
-    final List jsonResult = json.decode(data);
+    final List jsonResult =
+    json.decode(data);
 
     return jsonResult
-        .map((e) => QuizQuestion.fromJson(e))
+        .map(
+          (e) =>
+          QuizQuestion.fromJson(e),
+    )
         .toList();
   }
 }
