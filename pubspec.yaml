@@ -35,3 +35,6 @@ flutter:
     - assets/icons/
     - assets/sounds/
     - assets/data/vocabulary/
+    - assets/data/grammar/
+    - assets/data/spelling/
+    - assets/data/kids/

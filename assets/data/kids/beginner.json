@@ -1,0 +1,303 @@
+[
+  {
+    "question": "Which animal says 'Meow'? 🐾",
+    "options": [
+      "🐶 Dog",
+      "🐱 Cat",
+      "🐮 Cow",
+      "🦆 Duck"
+    ],
+    "answer": "🐱 Cat"
+  },
+  {
+    "question": "What color is the sky? ☁️",
+    "options": [
+      "🔵 Blue",
+      "🟢 Green",
+      "🟣 Purple",
+      "⚫ Black"
+    ],
+    "answer": "🔵 Blue"
+  },
+  {
+    "question": "How many legs does a spider have? 🕷️",
+    "options": [
+      "4️⃣",
+      "6️⃣",
+      "8️⃣",
+      "🔟"
+    ],
+    "answer": "8️⃣"
+  },
+  {
+    "question": "Which fruit is yellow? 🍎🍌🍇",
+    "options": [
+      "🍎 Apple",
+      "🍌 Banana",
+      "🍇 Grape",
+      "🍒 Cherry"
+    ],
+    "answer": "🍌 Banana"
+  },
+  {
+    "question": "Which animal is very big and has a trunk? 🐘",
+    "options": [
+      "🐱 Cat",
+      "🐘 Elephant",
+      "🦆 Duck",
+      "🐰 Rabbit"
+    ],
+    "answer": "🐘 Elephant"
+  },
+  {
+    "question": "What do bees make? 🐝",
+    "options": [
+      "🥛 Milk",
+      "🍯 Honey",
+      "🍞 Bread",
+      "🧃 Juice"
+    ],
+    "answer": "🍯 Honey"
+  },
+  {
+    "question": "Which shape has 3 sides? 🔺",
+    "options": [
+      "⚪ Circle",
+      "🟦 Square",
+      "🔺 Triangle",
+      "▭ Rectangle"
+    ],
+    "answer": "🔺 Triangle"
+  },
+  {
+    "question": "Which animal can fly? 🕊️",
+    "options": [
+      "🐟 Fish",
+      "🐦 Bird",
+      "🐶 Dog",
+      "🐮 Cow"
+    ],
+    "answer": "🐦 Bird"
+  },
+  {
+    "question": "What color are strawberries? 🍓",
+    "options": [
+      "🔵 Blue",
+      "🟡 Yellow",
+      "🔴 Red",
+      "🟢 Green"
+    ],
+    "answer": "🔴 Red"
+  },
+  {
+    "question": "Which number comes after 9? 🔢",
+    "options": [
+      "8️⃣",
+      "🔟",
+      "1️⃣1️⃣",
+      "7️⃣"
+    ],
+    "answer": "🔟"
+  }
+,
+  {
+    "question": "Which animal says 'Moo'? 🐄",
+    "options": [
+      "🐱 Cat",
+      "🐶 Dog",
+      "🐮 Cow",
+      "🐸 Frog"
+    ],
+    "answer": "🐮 Cow"
+  },
+  {
+    "question": "Which animal jumps and says 'Ribbit'? 🐸",
+    "options": [
+      "🐰 Rabbit",
+      "🐸 Frog",
+      "🐵 Monkey",
+      "🦁 Lion"
+    ],
+    "answer": "🐸 Frog"
+  },
+  {
+    "question": "Which fruit is red? 🍎",
+    "options": [
+      "🍌 Banana",
+      "🍎 Apple",
+      "🥝 Kiwi",
+      "🍇 Grape"
+    ],
+    "answer": "🍎 Apple"
+  },
+  {
+    "question": "Which animal is called the king of the jungle? 🦁",
+    "options": [
+      "🐱 Cat",
+      "🐘 Elephant",
+      "🦁 Lion",
+      "🐻 Bear"
+    ],
+    "answer": "🦁 Lion"
+  },
+  {
+    "question": "Which shape is round? ⚪",
+    "options": [
+      "🔺 Triangle",
+      "⚪ Circle",
+      "🟦 Square",
+      "▭ Rectangle"
+    ],
+    "answer": "⚪ Circle"
+  },
+  {
+    "question": "Which animal swims in the ocean? 🌊",
+    "options": [
+      "🐟 Fish",
+      "🐶 Dog",
+      "🐱 Cat",
+      "🐰 Rabbit"
+    ],
+    "answer": "🐟 Fish"
+  },
+  {
+    "question": "What color is a banana? 🍌",
+    "options": [
+      "🔴 Red",
+      "🟢 Green",
+      "🟡 Yellow",
+      "🔵 Blue"
+    ],
+    "answer": "🟡 Yellow"
+  },
+  {
+    "question": "Which animal has a long neck? 🦒",
+    "options": [
+      "🐘 Elephant",
+      "🦒 Giraffe",
+      "🐻 Bear",
+      "🐷 Pig"
+    ],
+    "answer": "🦒 Giraffe"
+  },
+  {
+    "question": "Which vehicle flies in the sky? ✈️",
+    "options": [
+      "🚗 Car",
+      "🚲 Bicycle",
+      "✈️ Airplane",
+      "🚂 Train"
+    ],
+    "answer": "✈️ Airplane"
+  },
+  {
+    "question": "Which number is bigger? 🔢",
+    "options": [
+      "2️⃣",
+      "5️⃣",
+      "9️⃣",
+      "4️⃣"
+    ],
+    "answer": "9️⃣"
+  },
+  {
+    "question": "Which animal likes carrots? 🥕",
+    "options": [
+      "🐰 Rabbit",
+      "🐶 Dog",
+      "🐱 Cat",
+      "🐻 Bear"
+    ],
+    "answer": "🐰 Rabbit"
+  },
+  {
+    "question": "What do we wear on our feet? 👣",
+    "options": [
+      "🧢 Hat",
+      "👟 Shoes",
+      "🧤 Gloves",
+      "🕶️ Glasses"
+    ],
+    "answer": "👟 Shoes"
+  },
+  {
+    "question": "Which animal is black and white? 🐼",
+    "options": [
+      "🐯 Tiger",
+      "🐼 Panda",
+      "🦁 Lion",
+      "🐵 Monkey"
+    ],
+    "answer": "🐼 Panda"
+  },
+  {
+    "question": "What do we use to tell time? ⏰",
+    "options": [
+      "📚 Book",
+      "🕰️ Clock",
+      "🍽️ Plate",
+      "🧸 Toy"
+    ],
+    "answer": "🕰️ Clock"
+  },
+  {
+    "question": "Which animal can swing in trees? 🌴",
+    "options": [
+      "🐵 Monkey",
+      "🐘 Elephant",
+      "🐟 Fish",
+      "🐰 Rabbit"
+    ],
+    "answer": "🐵 Monkey"
+  },
+  {
+    "question": "What color is grass? 🌱",
+    "options": [
+      "🔴 Red",
+      "🟢 Green",
+      "🔵 Blue",
+      "⚫ Black"
+    ],
+    "answer": "🟢 Green"
+  },
+  {
+    "question": "Which animal has stripes? 🐯",
+    "options": [
+      "🐼 Panda",
+      "🐯 Tiger",
+      "🐶 Dog",
+      "🐵 Monkey"
+    ],
+    "answer": "🐯 Tiger"
+  },
+  {
+    "question": "Which food is sweet? 🍭",
+    "options": [
+      "🍭 Candy",
+      "🍋 Lemon",
+      "🥦 Broccoli",
+      "🌶️ Pepper"
+    ],
+    "answer": "🍭 Candy"
+  },
+  {
+    "question": "Which object gives light at night? 🌙",
+    "options": [
+      "💡 Lamp",
+      "📚 Book",
+      "🍎 Apple",
+      "🪑 Chair"
+    ],
+    "answer": "💡 Lamp"
+  },
+  {
+    "question": "Which animal has a shell? 🐢",
+    "options": [
+      "🐢 Turtle",
+      "🐰 Rabbit",
+      "🐶 Dog",
+      "🦁 Lion"
+    ],
+    "answer": "🐢 Turtle"
+  }
+]
