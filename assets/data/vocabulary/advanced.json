@@ -1,0 +1,203 @@
+[
+  {
+    "question": "What does 'inevitable' mean?",
+    "options": ["Certain to happen", "Very avoidable", "Very dangerous", "Very expensive"],
+    "answer": "Certain to happen"
+  },
+  {
+    "question": "What is the meaning of 'controversial'?",
+    "options": ["Causing disagreement", "Very peaceful", "Very simple", "Very popular"],
+    "answer": "Causing disagreement"
+  },
+  {
+    "question": "What does 'sophisticated' mean?",
+    "options": ["Advanced and refined", "Very weak", "Very cheap", "Very old-fashioned"],
+    "answer": "Advanced and refined"
+  },
+  {
+    "question": "What is the meaning of 'reluctant'?",
+    "options": ["Unwilling", "Very excited", "Very confident", "Very relaxed"],
+    "answer": "Unwilling"
+  },
+  {
+    "question": "What does 'underestimate' mean?",
+    "options": ["Judge as smaller or less important", "Overreact strongly", "Explain clearly", "Completely forget"],
+    "answer": "Judge as smaller or less important"
+  },
+  {
+    "question": "What is the meaning of 'comprehensive'?",
+    "options": ["Complete and detailed", "Very short", "Very confusing", "Very weak"],
+    "answer": "Complete and detailed"
+  },
+  {
+    "question": "What does 'justify' mean?",
+    "options": ["Give a good reason", "Avoid responsibility", "Hide information", "Refuse politely"],
+    "answer": "Give a good reason"
+  },
+  {
+    "question": "What is the opposite of 'flexible'?",
+    "options": ["Rigid", "Gentle", "Bright", "Helpful"],
+    "answer": "Rigid"
+  },
+  {
+    "question": "What does 'allocate' mean?",
+    "options": ["Distribute for a purpose", "Destroy completely", "Hide secretly", "Travel quickly"],
+    "answer": "Distribute for a purpose"
+  },
+  {
+    "question": "What is the meaning of 'persistent'?",
+    "options": ["Continuing despite difficulty", "Very lazy", "Very temporary", "Very careless"],
+    "answer": "Continuing despite difficulty"
+  },
+  {
+    "question": "What does 'exaggerate' mean?",
+    "options": ["Make something seem larger", "Reduce importance", "Explain carefully", "Forget quickly"],
+    "answer": "Make something seem larger"
+  },
+  {
+    "question": "What is the meaning of 'vulnerable'?",
+    "options": ["Easily harmed", "Very powerful", "Very successful", "Very intelligent"],
+    "answer": "Easily harmed"
+  },
+  {
+    "question": "What does 'eliminate' mean?",
+    "options": ["Remove completely", "Create carefully", "Protect strongly", "Build slowly"],
+    "answer": "Remove completely"
+  },
+  {
+    "question": "What is the meaning of 'ambitious'?",
+    "options": ["Wanting success strongly", "Very tired", "Very shy", "Very relaxed"],
+    "answer": "Wanting success strongly"
+  },
+  {
+    "question": "What does 'cooperate' mean?",
+    "options": ["Work together", "Fight continuously", "Avoid responsibility", "Speak aggressively"],
+    "answer": "Work together"
+  },
+  {
+    "question": "What is the meaning of 'accurate'?",
+    "options": ["Correct and precise", "Very noisy", "Very weak", "Very confusing"],
+    "answer": "Correct and precise"
+  },
+  {
+    "question": "What does 'consequence' mean?",
+    "options": ["Result of an action", "Beginning of a story", "Type of machine", "Hidden message"],
+    "answer": "Result of an action"
+  },
+  {
+    "question": "What is the meaning of 'artificial'?",
+    "options": ["Made by humans", "Naturally grown", "Very old", "Very dangerous"],
+    "answer": "Made by humans"
+  },
+  {
+    "question": "What does 'interpret' mean?",
+    "options": ["Explain the meaning", "Destroy suddenly", "Forget completely", "Hide carefully"],
+    "answer": "Explain the meaning"
+  },
+  {
+    "question": "What is the meaning of 'efficient'?",
+    "options": ["Working well without waste", "Very weak", "Very lazy", "Very slow"],
+    "answer": "Working well without waste"
+  }
+,
+  {
+    "question": "What does 'manipulate' mean?",
+    "options": ["Control skillfully or unfairly", "Explain honestly", "Travel carefully", "Study quietly"],
+    "answer": "Control skillfully or unfairly"
+  },
+  {
+    "question": "What is the meaning of 'nevertheless'?",
+    "options": ["Despite that", "Because of that", "Immediately", "In conclusion"],
+    "answer": "Despite that"
+  },
+  {
+    "question": "What does 'anticipate' mean?",
+    "options": ["Expect in advance", "Forget completely", "Destroy carefully", "Avoid responsibility"],
+    "answer": "Expect in advance"
+  },
+  {
+    "question": "What is the meaning of 'ethical'?",
+    "options": ["Morally right", "Very expensive", "Scientifically impossible", "Extremely dangerous"],
+    "answer": "Morally right"
+  },
+  {
+    "question": "What does 'contradict' mean?",
+    "options": ["Express the opposite", "Strongly support", "Quietly explain", "Carefully repeat"],
+    "answer": "Express the opposite"
+  },
+  {
+    "question": "What is the meaning of 'substantial'?",
+    "options": ["Large and important", "Very temporary", "Very weak", "Very tiny"],
+    "answer": "Large and important"
+  },
+  {
+    "question": "What does 'distinguish' mean?",
+    "options": ["Recognize differences", "Hide completely", "Travel quickly", "Destroy suddenly"],
+    "answer": "Recognize differences"
+  },
+  {
+    "question": "What is the meaning of 'conventional'?",
+    "options": ["Traditional and common", "Highly unusual", "Scientifically impossible", "Extremely risky"],
+    "answer": "Traditional and common"
+  },
+  {
+    "question": "What does 'inefficient' mean?",
+    "options": ["Not working effectively", "Working perfectly", "Very intelligent", "Very powerful"],
+    "answer": "Not working effectively"
+  },
+  {
+    "question": "What is the meaning of 'phenomenon'?",
+    "options": ["An observable event", "A dangerous machine", "A financial document", "A scientific tool"],
+    "answer": "An observable event"
+  },
+  {
+    "question": "What does 'speculate' mean?",
+    "options": ["Guess without complete evidence", "Explain clearly", "Forget intentionally", "Refuse politely"],
+    "answer": "Guess without complete evidence"
+  },
+  {
+    "question": "What is the meaning of 'widespread'?",
+    "options": ["Existing in many places", "Very secret", "Very weak", "Very temporary"],
+    "answer": "Existing in many places"
+  },
+  {
+    "question": "What does 'dominate' mean?",
+    "options": ["Control or influence strongly", "Avoid responsibility", "Speak softly", "Listen carefully"],
+    "answer": "Control or influence strongly"
+  },
+  {
+    "question": "What is the meaning of 'crucial'?",
+    "options": ["Extremely important", "Very optional", "Very confusing", "Very ordinary"],
+    "answer": "Extremely important"
+  },
+  {
+    "question": "What does 'retain' mean?",
+    "options": ["Keep or continue to have", "Throw away immediately", "Destroy completely", "Forget quickly"],
+    "answer": "Keep or continue to have"
+  },
+  {
+    "question": "What is the meaning of 'fluctuate'?",
+    "options": ["Rise and fall irregularly", "Remain completely stable", "Move very slowly", "Break suddenly"],
+    "answer": "Rise and fall irregularly"
+  },
+  {
+    "question": "What does 'infer' mean?",
+    "options": ["Reach a conclusion from evidence", "Travel unexpectedly", "Speak aggressively", "Hide secretly"],
+    "answer": "Reach a conclusion from evidence"
+  },
+  {
+    "question": "What is the meaning of 'obsolete'?",
+    "options": ["No longer useful", "Highly modern", "Very expensive", "Scientifically proven"],
+    "answer": "No longer useful"
+  },
+  {
+    "question": "What does 'reinforce' mean?",
+    "options": ["Strengthen or support", "Destroy completely", "Forget intentionally", "Reduce importance"],
+    "answer": "Strengthen or support"
+  },
+  {
+    "question": "What is the meaning of 'mutual'?",
+    "options": ["Shared by both sides", "Completely independent", "Scientifically impossible", "Very temporary"],
+    "answer": "Shared by both sides"
+  }
+]

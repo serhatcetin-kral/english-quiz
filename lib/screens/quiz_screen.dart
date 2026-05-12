@@ -64,8 +64,8 @@ class _QuizScreenState extends State<QuizScreen> {
     await SharedPreferences.getInstance();
 
     await prefs.setString(
-      'current_category',
-      widget.category,
+      'current_level',
+      widget.level,
     );
 
     await prefs.setInt(
@@ -87,8 +87,15 @@ class _QuizScreenState extends State<QuizScreen> {
     prefs.getString(
       'current_category',
     );
+    final savedLevel =
+    prefs.getString(
+      'current_level',
+    );
 
-    if (savedCategory != widget.category) {
+    if (
+    savedCategory != widget.category ||
+        savedLevel != widget.level
+    ) {
       return;
     }
 
@@ -150,6 +157,7 @@ class _QuizScreenState extends State<QuizScreen> {
         await SharedPreferences.getInstance();
 
     await prefs.remove('current_category');
+    await prefs.remove('current_level');
     await prefs.remove('current_index');
     await prefs.remove('selected_answers');
 

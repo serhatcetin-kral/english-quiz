@@ -17,7 +17,8 @@ class QuizService {
     final String data =
     await rootBundle.loadString(
 
-      'assets/data/$category/$level.json',
+       'assets/data/$category/$level.json',
+     // 'assets/data/vocabulary/beginner.json',
     );
 
     final List jsonResult =
