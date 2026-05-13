@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'level_screen.dart';
-
+import 'settings_screen.dart';
 class HomeScreen extends StatelessWidget {
 
   const HomeScreen({super.key});
@@ -15,6 +15,29 @@ class HomeScreen extends StatelessWidget {
       const Color(0xFFF5F7FB),
 
       appBar: AppBar(
+        actions: [
+
+          IconButton(
+
+            onPressed: () {
+
+              Navigator.push(
+
+                context,
+
+                MaterialPageRoute(
+
+                  builder:
+                      (_) =>
+                  const SettingsScreen(),
+                ),
+              );
+            },
+
+            icon:
+            const Icon(Icons.settings),
+          ),
+        ],
 
         elevation: 0,
 
@@ -23,14 +46,22 @@ class HomeScreen extends StatelessWidget {
 
         centerTitle: true,
 
-        title: const Text(
+        title: Text(
 
           'English Quiz',
 
           style: TextStyle(
-            color: Colors.black,
+
+            color:
+            Theme.of(context)
+                .textTheme
+                .bodyLarge
+                ?.color,
+
             fontSize: 28,
-            fontWeight: FontWeight.bold,
+
+            fontWeight:
+            FontWeight.bold,
           ),
         ),
       ),

@@ -1,3 +1,4 @@
+import 'package:english_quiz/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'screens/splash_screen.dart';
 import 'package:flutter/services.dart';
@@ -19,12 +20,42 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+
       debugShowCheckedModeBanner: false,
+
       title: 'English Quiz',
+
       theme: ThemeData(
+        appBarTheme: const AppBarTheme(
+          centerTitle: true,
+        ),
+        brightness: Brightness.light,
+
         primarySwatch: Colors.blue,
-        fontFamily: 'Roboto',
+
+        scaffoldBackgroundColor:
+        const Color(0xFFF5F7FB),
+
+        fontFamily: 'Poppins',
       ),
+
+      darkTheme: ThemeData(
+        appBarTheme: const AppBarTheme(
+          centerTitle: true,
+        ),
+        brightness: Brightness.dark,
+
+        scaffoldBackgroundColor:
+        const Color(0xFF121212),
+
+        cardColor:
+        const Color(0xFF1E1E1E),
+
+        fontFamily: 'Poppins',
+      ),
+
+      themeMode: ThemeMode.light,
+
       home: const SplashScreen(),
     );
   }

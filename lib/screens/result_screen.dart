@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 
+import 'package:confetti/confetti.dart';
+
 import '../models/quiz_result.dart';
 
 import 'home_screen.dart';
 
-class ResultScreen extends StatelessWidget {
+class ResultScreen extends StatefulWidget {
 
   final int score;
 
@@ -24,28 +26,82 @@ class ResultScreen extends StatelessWidget {
   });
 
   @override
+  State<ResultScreen> createState() =>
+      _ResultScreenState();
+}
+
+class _ResultScreenState
+    extends State<ResultScreen> {
+
+  late ConfettiController
+  _controller;
+
+  @override
+  void initState() {
+
+    super.initState();
+
+    _controller =
+        ConfettiController(
+
+          duration:
+          const Duration(seconds: 3),
+        );
+
+    final percentage =
+    ((widget.score /
+        widget.total) * 100);
+
+    if (percentage >= 70) {
+      _controller.play();
+    }
+  }
+
+  @override
+  void dispose() {
+
+    _controller.dispose();
+
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
 
     final percentage =
-    ((score / total) * 100)
+    ((widget.score /
+        widget.total) * 100)
         .toInt();
 
-    String message = '👏 Good Job!';
+    String message =
+        '👏 Good Job!';
 
     if (percentage >= 90) {
-      message = '🎉 Excellent!';
+
+      message =
+      '🎉 Excellent!';
+
     } else if (percentage >= 70) {
-      message = '🔥 Great Work!';
+
+      message =
+      '🔥 Great Work!';
+
     } else if (percentage >= 50) {
-      message = '🙂 Keep Practicing!';
+
+      message =
+      '🙂 Keep Practicing!';
+
     } else {
-      message = '💪 Don\'t Give Up!';
+
+      message =
+      '💪 Don\'t Give Up!';
     }
 
     return Scaffold(
 
       backgroundColor:
-      const Color(0xFFF5F7FB),
+      Theme.of(context)
+          .scaffoldBackgroundColor,
 
       appBar: AppBar(
 
@@ -60,367 +116,425 @@ class ResultScreen extends StatelessWidget {
         elevation: 0,
       ),
 
-      body: Padding(
+      body: Stack(
 
-        padding:
-        const EdgeInsets.all(16),
+        children: [
 
-        child: Column(
+          Align(
 
-          children: [
+            alignment:
+            Alignment.topCenter,
 
-            Container(
+            child: ConfettiWidget(
 
-              width: 180,
-              height: 180,
+              confettiController:
+              _controller,
 
-              decoration: BoxDecoration(
+              blastDirectionality:
+              BlastDirectionality.explosive,
 
-                shape: BoxShape.circle,
+              shouldLoop: false,
 
-                gradient: LinearGradient(
+              emissionFrequency:
+              0.05,
 
-                  colors: percentage >= 70
+              numberOfParticles: 20,
 
-                      ? [
-                    Colors.green,
-                    Colors.greenAccent,
-                  ]
-
-                      : [
-                    Colors.orange,
-                    Colors.deepOrange,
-                  ],
-                ),
-
-                boxShadow: [
-
-                  BoxShadow(
-
-                    color:
-                    Colors.black.withOpacity(0.15),
-
-                    blurRadius: 20,
-
-                    offset:
-                    const Offset(0, 8),
-                  ),
-                ],
-              ),
-
-              child: Center(
-
-                child: Column(
-
-                  mainAxisAlignment:
-                  MainAxisAlignment.center,
-
-                  children: [
-
-                    Text(
-
-                      '$score/$total',
-
-                      style:
-                      const TextStyle(
-
-                        color: Colors.white,
-
-                        fontSize: 40,
-
-                        fontWeight:
-                        FontWeight.bold,
-                      ),
-                    ),
-
-                    const SizedBox(height: 6),
-
-                    Text(
-
-                      '$percentage%',
-
-                      style:
-                      const TextStyle(
-
-                        color: Colors.white,
-
-                        fontSize: 24,
-
-                        fontWeight:
-                        FontWeight.w600,
-                      ),
-                    ),
-                  ],
-                ),
-              ),
+              gravity: 0.2,
             ),
+          ),
 
-            const SizedBox(height: 24),
+          Padding(
 
-            Text(
+            padding:
+            const EdgeInsets.all(16),
 
-              message,
+            child: Column(
 
-              style: const TextStyle(
+              children: [
 
-                fontSize: 28,
+                Container(
 
-                fontWeight:
-                FontWeight.bold,
-              ),
-            ),
+                  width: 180,
+                  height: 180,
 
-            const SizedBox(height: 30),
+                  decoration:
+                  BoxDecoration(
 
-            Expanded(
+                    shape:
+                    BoxShape.circle,
 
-              child: ListView.builder(
+                    gradient:
+                    LinearGradient(
 
-                itemCount:
-                results.length,
+                      colors:
+                      percentage >= 70
 
-                itemBuilder:
-                    (context, index) {
+                          ? [
+                        Colors.green,
+                        Colors.greenAccent,
+                      ]
 
-                  final result =
-                  results[index];
-
-                  return Container(
-
-                    margin:
-                    const EdgeInsets.only(
-                      bottom: 16,
-                    ),
-
-                    padding:
-                    const EdgeInsets.all(18),
-
-                    decoration:
-                    BoxDecoration(
-
-                      color: Colors.white,
-
-                      borderRadius:
-                      BorderRadius.circular(24),
-
-                      boxShadow: [
-
-                        BoxShadow(
-
-                          color:
-                          Colors.black.withOpacity(0.05),
-
-                          blurRadius: 12,
-
-                          offset:
-                          const Offset(0, 5),
-                        ),
+                          : [
+                        Colors.orange,
+                        Colors.deepOrange,
                       ],
                     ),
 
+                    boxShadow: [
+
+                      BoxShadow(
+
+                        color:
+                        Colors.black.withOpacity(0.15),
+
+                        blurRadius: 20,
+
+                        offset:
+                        const Offset(0, 8),
+                      ),
+                    ],
+                  ),
+
+                  child: Center(
+
                     child: Column(
 
-                      crossAxisAlignment:
-                      CrossAxisAlignment.start,
+                      mainAxisAlignment:
+                      MainAxisAlignment.center,
 
                       children: [
 
-                        Row(
+                        Text(
 
-                          children: [
+                          '${widget.score}/${widget.total}',
 
-                            Icon(
+                          style:
+                          const TextStyle(
 
-                              result.isCorrect
+                            color:
+                            Colors.white,
 
-                                  ? Icons.check_circle
+                            fontSize: 40,
 
-                                  : Icons.cancel,
+                            fontWeight:
+                            FontWeight.bold,
+                          ),
+                        ),
+
+                        const SizedBox(
+                          height: 6,
+                        ),
+
+                        Text(
+
+                          '$percentage%',
+
+                          style:
+                          const TextStyle(
+
+                            color:
+                            Colors.white,
+
+                            fontSize: 24,
+
+                            fontWeight:
+                            FontWeight.w600,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                ),
+
+                const SizedBox(height: 24),
+
+                Text(
+
+                  message,
+
+                  style:
+                  TextStyle(
+
+                    fontSize: 28,
+
+                    fontWeight:
+                    FontWeight.bold,
+
+                    color:
+                    Theme.of(context)
+                        .textTheme
+                        .bodyLarge
+                        ?.color,
+                  ),
+                ),
+
+                const SizedBox(height: 30),
+
+                Expanded(
+
+                  child: ListView.builder(
+
+                    itemCount:
+                    widget.results.length,
+
+                    itemBuilder:
+                        (context, index) {
+
+                      final result =
+                      widget.results[index];
+
+                      return Container(
+
+                        margin:
+                        const EdgeInsets.only(
+                          bottom: 16,
+                        ),
+
+                        padding:
+                        const EdgeInsets.all(18),
+
+                        decoration:
+                        BoxDecoration(
+
+                          color:
+                          Theme.of(context)
+                              .cardColor,
+
+                          borderRadius:
+                          BorderRadius.circular(24),
+
+                          boxShadow: [
+
+                            BoxShadow(
 
                               color:
-                              result.isCorrect
+                              Colors.black.withOpacity(0.05),
 
-                                  ? Colors.green
+                              blurRadius: 12,
 
-                                  : Colors.red,
-                            ),
-
-                            const SizedBox(width: 10),
-
-                            Expanded(
-
-                              child: Text(
-
-                                result.question.question,
-
-                                style:
-                                const TextStyle(
-
-                                  fontSize: 18,
-
-                                  fontWeight:
-                                  FontWeight.bold,
-                                ),
-                              ),
+                              offset:
+                              const Offset(0, 5),
                             ),
                           ],
                         ),
 
-                        const SizedBox(height: 14),
+                        child: Column(
 
-                        Text(
+                          crossAxisAlignment:
+                          CrossAxisAlignment.start,
 
-                          'Your Answer: ${result.selectedAnswer}',
+                          children: [
 
-                          style: TextStyle(
+                            Row(
 
-                            fontSize: 16,
+                              children: [
 
-                            color:
-                            result.isCorrect
+                                Icon(
 
-                                ? Colors.green
+                                  result.isCorrect
 
-                                : Colors.red,
-                          ),
-                        ),
+                                      ? Icons.check_circle
 
-                        if (!result.isCorrect)
+                                      : Icons.cancel,
 
-                          Padding(
+                                  color:
+                                  result.isCorrect
 
-                            padding:
-                            const EdgeInsets.only(
-                              top: 8,
+                                      ? Colors.green
+
+                                      : Colors.red,
+                                ),
+
+                                const SizedBox(
+                                  width: 10,
+                                ),
+
+                                Expanded(
+
+                                  child: Text(
+
+                                    result.question.question,
+
+                                    style:
+                                    TextStyle(
+
+                                      fontSize: 18,
+
+                                      fontWeight:
+                                      FontWeight.bold,
+
+                                      color:
+                                      Theme.of(context)
+                                          .textTheme
+                                          .bodyLarge
+                                          ?.color,
+                                    ),
+                                  ),
+                                ),
+                              ],
                             ),
 
-                            child: Text(
+                            const SizedBox(
+                              height: 14,
+                            ),
 
-                              'Correct Answer: ${result.question.answer}',
+                            Text(
+
+                              'Your Answer: ${result.selectedAnswer}',
 
                               style:
-                              const TextStyle(
+                              TextStyle(
 
                                 fontSize: 16,
 
                                 color:
-                                Colors.green,
+                                result.isCorrect
 
-                                fontWeight:
-                                FontWeight.w600,
+                                    ? Colors.green
+
+                                    : Colors.red,
                               ),
                             ),
-                          ),
-                      ],
-                    ),
-                  );
-                },
-              ),
-            ),
 
-            const SizedBox(height: 16),
+                            if (!result.isCorrect)
 
-            Row(
+                              Padding(
 
-              children: [
+                                padding:
+                                const EdgeInsets.only(
+                                  top: 8,
+                                ),
 
-                Expanded(
+                                child: Text(
 
-                  child:
-                  ElevatedButton.icon(
+                                  'Correct Answer: ${result.question.answer}',
 
-                    onPressed: () {
+                                  style:
+                                  const TextStyle(
 
-                      Navigator.pushAndRemoveUntil(
+                                    fontSize: 16,
 
-                        context,
+                                    color:
+                                    Colors.green,
 
-                        MaterialPageRoute(
-
-                          builder:
-                              (_) =>
-                          const HomeScreen(),
+                                    fontWeight:
+                                    FontWeight.w600,
+                                  ),
+                                ),
+                              ),
+                          ],
                         ),
-
-                            (route) => false,
                       );
                     },
-
-                    icon:
-                    const Icon(Icons.home),
-
-                    label:
-                    const Text('Home'),
-
-                    style:
-                    ElevatedButton.styleFrom(
-
-                      padding:
-                      const EdgeInsets.symmetric(
-                        vertical: 16,
-                      ),
-
-                      backgroundColor:
-                      Colors.grey.shade300,
-
-                      foregroundColor:
-                      Colors.black,
-
-                      shape:
-                      RoundedRectangleBorder(
-
-                        borderRadius:
-                        BorderRadius.circular(18),
-                      ),
-                    ),
                   ),
                 ),
 
-                const SizedBox(width: 14),
+                const SizedBox(height: 16),
 
-                Expanded(
+                Row(
 
-                  child:
-                  ElevatedButton.icon(
+                  children: [
 
-                    onPressed: () {
+                    Expanded(
 
-                      Navigator.pop(context);
-                    },
+                      child:
+                      ElevatedButton.icon(
 
-                    icon:
-                    const Icon(Icons.refresh),
+                        onPressed: () {
 
-                    label:
-                    const Text('Retry'),
+                          Navigator.pushAndRemoveUntil(
 
-                    style:
-                    ElevatedButton.styleFrom(
+                            context,
 
-                      padding:
-                      const EdgeInsets.symmetric(
-                        vertical: 16,
-                      ),
+                            MaterialPageRoute(
 
-                      backgroundColor:
-                      Colors.blue,
+                              builder:
+                                  (_) =>
+                              const HomeScreen(),
+                            ),
 
-                      foregroundColor:
-                      Colors.white,
+                                (route) => false,
+                          );
+                        },
 
-                      shape:
-                      RoundedRectangleBorder(
+                        icon:
+                        const Icon(Icons.home),
 
-                        borderRadius:
-                        BorderRadius.circular(18),
+                        label:
+                        const Text('Home'),
+
+                        style:
+                        ElevatedButton.styleFrom(
+
+                          padding:
+                          const EdgeInsets.symmetric(
+                            vertical: 16,
+                          ),
+
+                          backgroundColor:
+                          Colors.grey.shade300,
+
+                          foregroundColor:
+                          Colors.black,
+
+                          shape:
+                          RoundedRectangleBorder(
+
+                            borderRadius:
+                            BorderRadius.circular(18),
+                          ),
+                        ),
                       ),
                     ),
-                  ),
+
+                    const SizedBox(width: 14),
+
+                    Expanded(
+
+                      child:
+                      ElevatedButton.icon(
+
+                        onPressed: () {
+
+                          Navigator.pop(context);
+                        },
+
+                        icon:
+                        const Icon(Icons.refresh),
+
+                        label:
+                        const Text('Retry'),
+
+                        style:
+                        ElevatedButton.styleFrom(
+
+                          padding:
+                          const EdgeInsets.symmetric(
+                            vertical: 16,
+                          ),
+
+                          backgroundColor:
+                          Colors.blue,
+
+                          foregroundColor:
+                          Colors.white,
+
+                          shape:
+                          RoundedRectangleBorder(
+
+                            borderRadius:
+                            BorderRadius.circular(18),
+                          ),
+                        ),
+                      ),
+                    ),
+                  ],
                 ),
               ],
             ),
-          ],
-        ),
+          ),
+        ],
       ),
     );
   }

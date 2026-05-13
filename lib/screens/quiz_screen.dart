@@ -347,8 +347,9 @@ class _QuizScreenState extends State<QuizScreen> {
               const EdgeInsets.all(24),
 
               decoration: BoxDecoration(
-
-                color: Colors.white,
+                color:
+                Theme.of(context)
+                    .cardColor,
 
                 borderRadius:
                 BorderRadius.circular(28),
@@ -453,7 +454,7 @@ class _QuizScreenState extends State<QuizScreen> {
 
                     question.question,
 
-                    style: const TextStyle(
+                    style: TextStyle(
 
                       fontSize: 28,
 
@@ -461,6 +462,12 @@ class _QuizScreenState extends State<QuizScreen> {
                       FontWeight.bold,
 
                       height: 1.3,
+
+                      color:
+                      Theme.of(context)
+                          .textTheme
+                          .bodyLarge
+                          ?.color,
                     ),
                   ),
                 ],
