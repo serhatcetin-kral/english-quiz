@@ -45,6 +45,9 @@ class _QuizScreenState extends State<QuizScreen> {
     );
 
     questions.shuffle();
+    for (var question in questions) {
+      question.options.shuffle();
+    }
 
     selectedAnswers =
         List.filled(
@@ -218,6 +221,18 @@ class _QuizScreenState extends State<QuizScreen> {
       );
     }
 
+    if (questions.isEmpty ||
+        currentIndex >= questions.length) {
+
+      return const Scaffold(
+        body: Center(
+          child: CircularProgressIndicator(),
+        ),
+      );
+    }
+    if (currentIndex >= questions.length) {
+      currentIndex = questions.length - 1;
+    }
     final question =
     questions[currentIndex];
 
@@ -241,10 +256,73 @@ class _QuizScreenState extends State<QuizScreen> {
 
           children: [
 
-            LinearProgressIndicator(
-              value:
-              (currentIndex + 1) /
-                  questions.length,
+            Column(
+
+              crossAxisAlignment:
+              CrossAxisAlignment.start,
+
+              children: [
+
+                Row(
+
+                  mainAxisAlignment:
+                  MainAxisAlignment.spaceBetween,
+
+                  children: [
+
+                    Text(
+
+                      'Question ${currentIndex + 1}/${questions.length}',
+
+                      style: const TextStyle(
+
+                        fontSize: 18,
+
+                        fontWeight:
+                        FontWeight.bold,
+                      ),
+                    ),
+
+                    Text(
+
+                      '${(((currentIndex + 1) / questions.length) * 100).toInt()}%',
+
+                      style: const TextStyle(
+
+                        fontSize: 16,
+
+                        fontWeight:
+                        FontWeight.w600,
+                      ),
+                    ),
+                  ],
+                ),
+
+                const SizedBox(height: 12),
+
+                ClipRRect(
+
+                  borderRadius:
+                  BorderRadius.circular(20),
+
+                  child: LinearProgressIndicator(
+
+                    value:
+                    (currentIndex + 1) /
+                        questions.length,
+
+                    minHeight: 10,
+
+                    backgroundColor:
+                    Colors.grey.shade300,
+
+                    valueColor:
+                    const AlwaysStoppedAnimation(
+                      Colors.blue,
+                    ),
+                  ),
+                ),
+              ],
             ),
 
             const SizedBox(height: 20),
@@ -261,76 +339,131 @@ class _QuizScreenState extends State<QuizScreen> {
 
             const SizedBox(height: 24),
 
-            Card(
+            Container(
 
-              elevation: 5,
+              width: double.infinity,
 
-              shape:
-              RoundedRectangleBorder(
+              padding:
+              const EdgeInsets.all(24),
+
+              decoration: BoxDecoration(
+
+                color: Colors.white,
+
                 borderRadius:
-                BorderRadius.circular(20),
+                BorderRadius.circular(28),
+
+                boxShadow: [
+
+                  BoxShadow(
+
+                    color:
+                    Colors.black.withOpacity(0.08),
+
+                    blurRadius: 18,
+
+                    offset:
+                    const Offset(0, 8),
+                  ),
+                ],
               ),
 
-              child: Padding(
-                padding:
-                const EdgeInsets.all(20),
+              child: Column(
 
-                child: Column(
+                crossAxisAlignment:
+                CrossAxisAlignment.start,
 
-                  crossAxisAlignment:
-                  CrossAxisAlignment.start,
+                children: [
 
-                  children: [
+                  if (question.story != null)
 
-                    if (question.story != null)
+                    Container(
 
-                      Container(
+                      width: double.infinity,
 
-                        width: double.infinity,
-
-                        padding:
-                        const EdgeInsets.all(16),
-
-                        margin:
-                        const EdgeInsets.only(
-                          bottom: 20,
-                        ),
-
-                        decoration: BoxDecoration(
-
-                          color:
-                          Colors.deepPurple.shade50,
-
-                          borderRadius:
-                          BorderRadius.circular(16),
-                        ),
-
-                        child: Text(
-
-                          question.story!,
-
-                          style:
-                          const TextStyle(
-                            fontSize: 18,
-                            height: 1.5,
-                            fontWeight:
-                            FontWeight.w500,
-                          ),
-                        ),
+                      margin:
+                      const EdgeInsets.only(
+                        bottom: 24,
                       ),
 
-                    Text(
-                      question.question,
+                      padding:
+                      const EdgeInsets.all(18),
 
-                      style:
-                      const TextStyle(
-                        fontSize: 24,
-                        fontWeight:
-                        FontWeight.bold,
+                      decoration: BoxDecoration(
+
+                        color:
+                        Colors.deepPurple.shade50,
+
+                        borderRadius:
+                        BorderRadius.circular(20),
+                      ),
+
+                      child: Text(
+
+                        question.story!,
+
+                        style: const TextStyle(
+
+                          fontSize: 18,
+
+                          height: 1.6,
+
+                          fontWeight:
+                          FontWeight.w500,
+                        ),
                       ),
                     ),
-                  ],
-                ),
+
+                  Container(
+
+                    padding:
+                    const EdgeInsets.symmetric(
+                      horizontal: 14,
+                      vertical: 8,
+                    ),
+
+                    decoration: BoxDecoration(
+
+                      color:
+                      Colors.blue.shade50,
+
+                      borderRadius:
+                      BorderRadius.circular(14),
+                    ),
+
+                    child: const Text(
+
+                      'QUESTION',
+
+                      style: TextStyle(
+
+                        color: Colors.blue,
+
+                        fontWeight:
+                        FontWeight.bold,
+
+                        letterSpacing: 1,
+                      ),
+                    ),
+                  ),
+
+                  const SizedBox(height: 20),
+
+                  Text(
+
+                    question.question,
+
+                    style: const TextStyle(
+
+                      fontSize: 28,
+
+                      fontWeight:
+                      FontWeight.bold,
+
+                      height: 1.3,
+                    ),
+                  ),
+                ],
               ),
             ),
 
@@ -392,55 +525,124 @@ class _QuizScreenState extends State<QuizScreen> {
 
             const Spacer(),
 
-            Row(
+            Padding(
 
-              children: [
+              padding:
+              const EdgeInsets.only(
+                bottom: 20,
+                top: 10,
+              ),
 
-                Expanded(
+              child: Row(
 
-                  child: ElevatedButton(
+                mainAxisAlignment:
+                MainAxisAlignment.center,
+
+                children: [
+
+                  ElevatedButton.icon(
 
                     onPressed:
-                    currentIndex == 0
-                        ? null
-                        : previousQuestion,
+                    currentIndex > 0
+                        ? previousQuestion
+                        : null,
 
-                    child:
+                    icon:
+                    const Icon(Icons.arrow_back),
+
+                    label:
                     const Text('Previous'),
-                  ),
-                ),
 
-                const SizedBox(width: 12),
+                    style:
+                    ElevatedButton.styleFrom(
 
-                Expanded(
+                      elevation: 0,
 
-                  child:
-                  currentIndex ==
-                      questions.length - 1
+                      padding:
+                      const EdgeInsets.symmetric(
+                        horizontal: 18,
+                        vertical: 12,
+                      ),
 
-                      ? ElevatedButton(
+                      backgroundColor:
+                      Colors.grey.shade200,
 
-                    onPressed:
-                    finishQuiz,
+                      foregroundColor:
+                      Colors.black87,
 
-                    child:
-                    const Text(
-                      'Finish',
-                    ),
-                  )
+                      shape:
+                      RoundedRectangleBorder(
 
-                      : ElevatedButton(
-
-                    onPressed:
-                    nextQuestion,
-
-                    child:
-                    const Text(
-                      'Next',
+                        borderRadius:
+                        BorderRadius.circular(16),
+                      ),
                     ),
                   ),
-                ),
-              ],
+
+                  const SizedBox(width: 20),
+
+                  ElevatedButton.icon(
+
+                    onPressed:
+
+                    currentIndex ==
+                        questions.length - 1
+
+                        ? finishQuiz
+
+                        : nextQuestion,
+
+                    icon:
+
+                    Icon(
+
+                      currentIndex ==
+                          questions.length - 1
+
+                          ? Icons.check
+
+                          : Icons.arrow_forward,
+                    ),
+
+                    label:
+
+                    Text(
+
+                      currentIndex ==
+                          questions.length - 1
+
+                          ? 'Finish'
+
+                          : 'Next',
+                    ),
+
+                    style:
+                    ElevatedButton.styleFrom(
+
+                      elevation: 0,
+
+                      padding:
+                      const EdgeInsets.symmetric(
+                        horizontal: 20,
+                        vertical: 12,
+                      ),
+
+                      backgroundColor:
+                      Colors.blue,
+
+                      foregroundColor:
+                      Colors.white,
+
+                      shape:
+                      RoundedRectangleBorder(
+
+                        borderRadius:
+                        BorderRadius.circular(16),
+                      ),
+                    ),
+                  ),
+                ],
+              ),
             ),
           ],
         ),
