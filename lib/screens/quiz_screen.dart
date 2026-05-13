@@ -275,15 +275,61 @@ class _QuizScreenState extends State<QuizScreen> {
                 padding:
                 const EdgeInsets.all(20),
 
-                child: Text(
-                  question.question,
+                child: Column(
 
-                  style:
-                  const TextStyle(
-                    fontSize: 24,
-                    fontWeight:
-                    FontWeight.bold,
-                  ),
+                  crossAxisAlignment:
+                  CrossAxisAlignment.start,
+
+                  children: [
+
+                    if (question.story != null)
+
+                      Container(
+
+                        width: double.infinity,
+
+                        padding:
+                        const EdgeInsets.all(16),
+
+                        margin:
+                        const EdgeInsets.only(
+                          bottom: 20,
+                        ),
+
+                        decoration: BoxDecoration(
+
+                          color:
+                          Colors.deepPurple.shade50,
+
+                          borderRadius:
+                          BorderRadius.circular(16),
+                        ),
+
+                        child: Text(
+
+                          question.story!,
+
+                          style:
+                          const TextStyle(
+                            fontSize: 18,
+                            height: 1.5,
+                            fontWeight:
+                            FontWeight.w500,
+                          ),
+                        ),
+                      ),
+
+                    Text(
+                      question.question,
+
+                      style:
+                      const TextStyle(
+                        fontSize: 24,
+                        fontWeight:
+                        FontWeight.bold,
+                      ),
+                    ),
+                  ],
                 ),
               ),
             ),

@@ -1,0 +1,403 @@
+[
+  {
+    "question": "What does 'bring about' mean?",
+    "options": [
+      "Prevent something",
+      "Cause something to happen",
+      "Hide information",
+      "Leave suddenly"
+    ],
+    "answer": "Cause something to happen"
+  },
+  {
+    "question": "What does 'brush up on' mean?",
+    "options": [
+      "Forget a skill",
+      "Improve knowledge or skill",
+      "Avoid studying",
+      "Clean a room"
+    ],
+    "answer": "Improve knowledge or skill"
+  },
+  {
+    "question": "What does 'come down with' mean?",
+    "options": [
+      "Recover quickly",
+      "Become sick",
+      "Travel abroad",
+      "Win a prize"
+    ],
+    "answer": "Become sick"
+  },
+  {
+    "question": "What does 'drop by' mean?",
+    "options": [
+      "Visit briefly",
+      "Move permanently",
+      "Cancel plans",
+      "Throw something away"
+    ],
+    "answer": "Visit briefly"
+  },
+  {
+    "question": "What does 'fall for' mean?",
+    "options": [
+      "Avoid completely",
+      "Be tricked or fall in love",
+      "Reject an idea",
+      "Forget someone"
+    ],
+    "answer": "Be tricked or fall in love"
+  },
+  {
+    "question": "What does 'get across' mean?",
+    "options": [
+      "Fail to communicate",
+      "Successfully communicate an idea",
+      "Travel overseas",
+      "Close a meeting"
+    ],
+    "answer": "Successfully communicate an idea"
+  },
+  {
+    "question": "What does 'get by' mean?",
+    "options": [
+      "Live with enough resources",
+      "Become rich quickly",
+      "Lose everything",
+      "Travel alone"
+    ],
+    "answer": "Live with enough resources"
+  },
+  {
+    "question": "What does 'give away' mean?",
+    "options": [
+      "Keep secretly",
+      "Reveal or donate something",
+      "Buy something expensive",
+      "Ignore information"
+    ],
+    "answer": "Reveal or donate something"
+  },
+  {
+    "question": "What does 'look down on' mean?",
+    "options": [
+      "Respect deeply",
+      "Consider someone inferior",
+      "Help someone kindly",
+      "Speak politely"
+    ],
+    "answer": "Consider someone inferior"
+  },
+  {
+    "question": "What does 'make up for' mean?",
+    "options": [
+      "Compensate for something",
+      "Destroy evidence",
+      "Forget a mistake",
+      "Avoid responsibility"
+    ],
+    "answer": "Compensate for something"
+  },
+  {
+    "question": "What does 'pass away' mean?",
+    "options": [
+      "Travel abroad",
+      "Die",
+      "Fall asleep",
+      "Disappear temporarily"
+    ],
+    "answer": "Die"
+  },
+  {
+    "question": "What does 'pull off' mean?",
+    "options": [
+      "Fail completely",
+      "Succeed in doing something difficult",
+      "Cancel a trip",
+      "Remove clothing"
+    ],
+    "answer": "Succeed in doing something difficult"
+  },
+  {
+    "question": "What does 'put up with' mean?",
+    "options": [
+      "Enjoy greatly",
+      "Tolerate something annoying",
+      "Destroy something",
+      "Complain loudly"
+    ],
+    "answer": "Tolerate something annoying"
+  },
+  {
+    "question": "What does 'rule out' mean?",
+    "options": [
+      "Consider possible",
+      "Eliminate an option",
+      "Accept immediately",
+      "Write new rules"
+    ],
+    "answer": "Eliminate an option"
+  },
+  {
+    "question": "What does 'see through' mean?",
+    "options": [
+      "Be deceived",
+      "Understand the truth about someone",
+      "Ignore evidence",
+      "Travel by plane"
+    ],
+    "answer": "Understand the truth about someone"
+  },
+  {
+    "question": "What does 'stand up for' mean?",
+    "options": [
+      "Defend or support",
+      "Sit quietly",
+      "Avoid arguments",
+      "Leave a meeting"
+    ],
+    "answer": "Defend or support"
+  },
+  {
+    "question": "What does 'turn out' mean?",
+    "options": [
+      "Become or result",
+      "Close the lights",
+      "Reject an offer",
+      "Travel overseas"
+    ],
+    "answer": "Become or result"
+  },
+  {
+    "question": "What does 'wear out' mean?",
+    "options": [
+      "Become unusable from use",
+      "Look fashionable",
+      "Repair clothing",
+      "Wash carefully"
+    ],
+    "answer": "Become unusable from use"
+  },
+  {
+    "question": "What does 'work through' mean?",
+    "options": [
+      "Avoid a problem",
+      "Deal with something gradually",
+      "Forget responsibilities",
+      "Travel continuously"
+    ],
+    "answer": "Deal with something gradually"
+  },
+  {
+    "question": "What does 'zero in on' mean?",
+    "options": [
+      "Ignore completely",
+      "Focus closely on something",
+      "Travel randomly",
+      "Lose concentration"
+    ],
+    "answer": "Focus closely on something"
+  }
+,
+  {
+    "question": "What does 'phase out' mean?",
+    "options": [
+      "Introduce quickly",
+      "Gradually stop using something",
+      "Repair completely",
+      "Hide information"
+    ],
+    "answer": "Gradually stop using something"
+  },
+  {
+    "question": "What does 'iron out' mean?",
+    "options": [
+      "Create problems",
+      "Resolve difficulties",
+      "Ignore mistakes",
+      "Wash clothes"
+    ],
+    "answer": "Resolve difficulties"
+  },
+  {
+    "question": "What does 'crack down on' mean?",
+    "options": [
+      "Become less strict",
+      "Take stronger action against something",
+      "Avoid responsibility",
+      "Celebrate success"
+    ],
+    "answer": "Take stronger action against something"
+  },
+  {
+    "question": "What does 'frown upon' mean?",
+    "options": [
+      "Strongly approve",
+      "Disapprove of something",
+      "Laugh at someone",
+      "Ignore rules"
+    ],
+    "answer": "Disapprove of something"
+  },
+  {
+    "question": "What does 'boil down to' mean?",
+    "options": [
+      "Complicate something",
+      "Reduce to the main point",
+      "Cook food slowly",
+      "Avoid discussion"
+    ],
+    "answer": "Reduce to the main point"
+  },
+  {
+    "question": "What does 'branch out' mean?",
+    "options": [
+      "Limit activities",
+      "Expand into new areas",
+      "Close a business",
+      "Avoid change"
+    ],
+    "answer": "Expand into new areas"
+  },
+  {
+    "question": "What does 'carry out' mean?",
+    "options": [
+      "Cancel plans",
+      "Perform or complete something",
+      "Forget responsibilities",
+      "Travel abroad"
+    ],
+    "answer": "Perform or complete something"
+  },
+  {
+    "question": "What does 'come under' mean?",
+    "options": [
+      "Receive criticism or attack",
+      "Win a competition",
+      "Avoid attention",
+      "Become stronger"
+    ],
+    "answer": "Receive criticism or attack"
+  },
+  {
+    "question": "What does 'fall through' mean?",
+    "options": [
+      "Succeed perfectly",
+      "Fail to happen",
+      "Travel safely",
+      "Improve slowly"
+    ],
+    "answer": "Fail to happen"
+  },
+  {
+    "question": "What does 'go through with' mean?",
+    "options": [
+      "Cancel a plan",
+      "Actually do something planned",
+      "Forget completely",
+      "Hide evidence"
+    ],
+    "answer": "Actually do something planned"
+  },
+  {
+    "question": "What does 'hold back' mean?",
+    "options": [
+      "Express openly",
+      "Restrain or prevent",
+      "Move forward quickly",
+      "Forget emotions"
+    ],
+    "answer": "Restrain or prevent"
+  },
+  {
+    "question": "What does 'live up to' mean?",
+    "options": [
+      "Fail expectations",
+      "Meet expectations",
+      "Ignore responsibilities",
+      "Travel constantly"
+    ],
+    "answer": "Meet expectations"
+  },
+  {
+    "question": "What does 'look into' mean?",
+    "options": [
+      "Ignore a situation",
+      "Investigate something",
+      "Destroy documents",
+      "Travel overseas"
+    ],
+    "answer": "Investigate something"
+  },
+  {
+    "question": "What does 'move forward' mean?",
+    "options": [
+      "Make progress",
+      "Stay unchanged",
+      "Avoid action",
+      "Forget goals"
+    ],
+    "answer": "Make progress"
+  },
+  {
+    "question": "What does 'play down' mean?",
+    "options": [
+      "Emphasize strongly",
+      "Make something seem less important",
+      "Celebrate loudly",
+      "Completely ignore"
+    ],
+    "answer": "Make something seem less important"
+  },
+  {
+    "question": "What does 'pull through' mean?",
+    "options": [
+      "Fail completely",
+      "Recover from difficulty",
+      "Avoid problems",
+      "Travel abroad"
+    ],
+    "answer": "Recover from difficulty"
+  },
+  {
+    "question": "What does 'run out of' mean?",
+    "options": [
+      "Gain more of something",
+      "Have no more left",
+      "Hide resources",
+      "Share everything"
+    ],
+    "answer": "Have no more left"
+  },
+  {
+    "question": "What does 'set aside' mean?",
+    "options": [
+      "Spend immediately",
+      "Save for a purpose",
+      "Forget permanently",
+      "Throw away"
+    ],
+    "answer": "Save for a purpose"
+  },
+  {
+    "question": "What does 'step down' mean?",
+    "options": [
+      "Accept more power",
+      "Resign from a position",
+      "Travel downstairs",
+      "Become more famous"
+    ],
+    "answer": "Resign from a position"
+  },
+  {
+    "question": "What does 'sum up' mean?",
+    "options": [
+      "Complicate information",
+      "Briefly summarize",
+      "Hide details",
+      "Cancel a discussion"
+    ],
+    "answer": "Briefly summarize"
+  }
+]

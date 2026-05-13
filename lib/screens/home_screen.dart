@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'quiz_screen.dart';
+
 import 'level_screen.dart';
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -52,6 +52,18 @@ class HomeScreen extends StatelessWidget {
               'Kids',
               Icons.child_care,
               Colors.purple,
+            ),
+            _buildCategory(
+              context,
+              'Reading',
+              Icons.menu_book,
+              Colors.deepPurple,
+            ),
+            _buildCategory(
+              context,
+              'Phrasal Verbs',
+              Icons.record_voice_over,
+              Colors.teal,
             ),
           ],
         ),

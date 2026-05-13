@@ -1,0 +1,278 @@
+[
+  {
+    "story": "During his first year as a manager, Daniel believed that strict rules were the best way to improve productivity. However, over time he realized that listening to employees and building trust created a far more positive and efficient workplace.",
+    "question": "What did Daniel eventually realize?",
+    "options": [
+      "Strict rules are always best",
+      "Trust and communication improve workplaces",
+      "Employees dislike teamwork",
+      "Managers should avoid listening"
+    ],
+    "answer": "Trust and communication improve workplaces"
+  },
+  {
+    "story": "Sophia spent years chasing perfection in every aspect of her life. Although she achieved success academically and professionally, she often felt exhausted and unhappy. Eventually, she learned that accepting mistakes was essential for personal growth.",
+    "question": "What lesson did Sophia learn?",
+    "options": [
+      "Perfection guarantees happiness",
+      "Mistakes are necessary for growth",
+      "Success should be avoided",
+      "Work is more important than health"
+    ],
+    "answer": "Mistakes are necessary for growth"
+  },
+  {
+    "story": "A small local bookstore struggled to compete with large online companies. Instead of lowering prices, the owner focused on creating a welcoming atmosphere, hosting community events, and building strong relationships with customers.",
+    "question": "How did the bookstore remain competitive?",
+    "options": [
+      "By closing the store",
+      "By reducing prices drastically",
+      "By building community relationships",
+      "By selling electronics"
+    ],
+    "answer": "By building community relationships"
+  },
+  {
+    "story": "Liam always avoided difficult conversations because he feared conflict. However, unresolved problems gradually damaged his friendships. Eventually, he understood that honest communication was necessary even when uncomfortable.",
+    "question": "Why did Liam change his attitude toward difficult conversations?",
+    "options": [
+      "Because conflict disappeared naturally",
+      "Because avoiding problems damaged relationships",
+      "Because friends stopped talking completely",
+      "Because honesty is always easy"
+    ],
+    "answer": "Because avoiding problems damaged relationships"
+  },
+  {
+    "story": "Researchers discovered that short breaks during work hours can improve focus and creativity. Employees who regularly rested for a few minutes often performed better than those who worked continuously without stopping.",
+    "question": "What did researchers discover?",
+    "options": [
+      "Working continuously is always better",
+      "Short breaks can improve performance",
+      "Creativity depends only on intelligence",
+      "Employees dislike resting"
+    ],
+    "answer": "Short breaks can improve performance"
+  },
+  {
+    "story": "Emma dreamed of becoming a professional musician, but she faced constant criticism from people who doubted her abilities. Instead of giving up, she used the criticism as motivation to practice harder.",
+    "question": "How did Emma respond to criticism?",
+    "options": [
+      "She quit music",
+      "She ignored practice",
+      "She used criticism as motivation",
+      "She avoided performing"
+    ],
+    "answer": "She used criticism as motivation"
+  },
+  {
+    "story": "Many scientists believe that curiosity plays a crucial role in innovation. People who ask questions and explore unfamiliar ideas are often more likely to develop creative solutions to problems.",
+    "question": "According to the passage, what contributes to innovation?",
+    "options": [
+      "Avoiding questions",
+      "Curiosity and exploration",
+      "Working alone permanently",
+      "Following routines only"
+    ],
+    "answer": "Curiosity and exploration"
+  },
+  {
+    "story": "Nathan spent years focusing only on his career, believing success would automatically bring happiness. Eventually, he realized that meaningful relationships and personal health were equally important.",
+    "question": "What realization did Nathan have?",
+    "options": [
+      "Career success solves everything",
+      "Health and relationships also matter",
+      "Work should always come first",
+      "Success is unimportant"
+    ],
+    "answer": "Health and relationships also matter"
+  },
+  {
+    "story": "A famous athlete admitted in an interview that failure taught her more than victory ever did. She explained that losses forced her to analyze weaknesses and improve continuously.",
+    "question": "Why did the athlete value failure?",
+    "options": [
+      "Because failure ends competition",
+      "Because failure encourages improvement",
+      "Because victories are meaningless",
+      "Because losing is enjoyable"
+    ],
+    "answer": "Because failure encourages improvement"
+  },
+  {
+    "story": "As technology becomes more advanced, concerns about privacy continue to grow. Many experts argue that companies should be more transparent about how they collect and use personal data.",
+    "question": "What concern is discussed in the passage?",
+    "options": [
+      "Sports injuries",
+      "Environmental pollution",
+      "Privacy and personal data",
+      "Transportation costs"
+    ],
+    "answer": "Privacy and personal data"
+  }
+,
+  {
+    "story": "For many years, Clara believed multitasking made her more productive. However, after studying productivity research, she realized that constantly switching between tasks reduced both efficiency and concentration.",
+    "question": "What did Clara eventually realize?",
+    "options": [
+      "Multitasking improves concentration",
+      "Switching tasks can reduce productivity",
+      "Research is unnecessary",
+      "Working slowly is always better"
+    ],
+    "answer": "Switching tasks can reduce productivity"
+  },
+  {
+    "story": "The company initially ignored customer complaints about its products. Over time, negative reviews spread online, damaging the company's reputation and reducing sales significantly.",
+    "question": "What caused the company's sales to decrease?",
+    "options": [
+      "Customer loyalty",
+      "Ignoring customer complaints",
+      "Lower advertising costs",
+      "Improved product quality"
+    ],
+    "answer": "Ignoring customer complaints"
+  },
+  {
+    "story": "Olivia noticed that people often became more open-minded after traveling abroad. Experiencing different cultures helped them challenge stereotypes and understand perspectives different from their own.",
+    "question": "According to the passage, what can traveling encourage?",
+    "options": [
+      "Fear of differences",
+      "Open-mindedness",
+      "Isolation",
+      "Avoiding communication"
+    ],
+    "answer": "Open-mindedness"
+  },
+  {
+    "story": "Despite failing several times, Marcus continued working on his invention. Many people doubted him, but he believed persistence was more important than immediate success.",
+    "question": "What quality did Marcus value most?",
+    "options": [
+      "Luck",
+      "Popularity",
+      "Persistence",
+      "Competition"
+    ],
+    "answer": "Persistence"
+  },
+  {
+    "story": "Some experts believe social media has changed the way people communicate. While it allows instant connection across the world, it can also reduce face-to-face interaction.",
+    "question": "What concern about social media is mentioned?",
+    "options": [
+      "It is too expensive",
+      "It reduces face-to-face interaction",
+      "It prevents global communication",
+      "It eliminates technology"
+    ],
+    "answer": "It reduces face-to-face interaction"
+  },
+  {
+    "story": "After years of working in a stressful environment, Ethan realized that financial success meant little if it came at the cost of his mental health and personal happiness.",
+    "question": "What did Ethan learn?",
+    "options": [
+      "Money guarantees happiness",
+      "Mental health is also important",
+      "Stress improves life quality",
+      "Work should replace personal life"
+    ],
+    "answer": "Mental health is also important"
+  },
+  {
+    "story": "The scientist's theory was initially criticized by many experts. Years later, new evidence proved that several of her ideas had been correct all along.",
+    "question": "What eventually happened to the scientist's theory?",
+    "options": [
+      "It was forgotten immediately",
+      "It was proven correct by new evidence",
+      "It became less important",
+      "It was rejected permanently"
+    ],
+    "answer": "It was proven correct by new evidence"
+  },
+  {
+    "story": "Many successful entrepreneurs emphasize the importance of adaptability. Markets, technology, and customer needs constantly change, and businesses that fail to adjust often struggle to survive.",
+    "question": "Why is adaptability important for businesses?",
+    "options": [
+      "Because change is constant",
+      "Because customers never change",
+      "Because technology is unimportant",
+      "Because markets always remain stable"
+    ],
+    "answer": "Because change is constant"
+  },
+  {
+    "story": "During the economic crisis, small local businesses faced serious challenges. Some survived by focusing on personalized customer service and community support instead of competing only on price.",
+    "question": "How did some local businesses survive?",
+    "options": [
+      "By ignoring customers",
+      "By focusing only on low prices",
+      "By emphasizing service and community support",
+      "By closing their stores"
+    ],
+    "answer": "By emphasizing service and community support"
+  },
+  {
+    "story": "Sophia discovered that confidence does not mean never feeling afraid. Instead, it means taking action despite uncertainty and fear.",
+    "question": "How does the passage define confidence?",
+    "options": [
+      "Never feeling fear",
+      "Avoiding difficult situations",
+      "Acting despite fear",
+      "Always succeeding"
+    ],
+    "answer": "Acting despite fear"
+  },
+  {
+    "story": "As artificial intelligence becomes more advanced, some experts worry about the ethical consequences of relying too heavily on automated decision-making systems.",
+    "question": "What concern is discussed regarding artificial intelligence?",
+    "options": [
+      "It improves weather",
+      "It creates ethical concerns",
+      "It reduces electricity use",
+      "It eliminates computers"
+    ],
+    "answer": "It creates ethical concerns"
+  },
+  {
+    "story": "The artist refused to copy popular trends even when it would have increased profits. She believed originality and personal expression were more valuable than short-term success.",
+    "question": "Why did the artist reject popular trends?",
+    "options": [
+      "She disliked art",
+      "She valued originality",
+      "She wanted less success",
+      "She avoided creativity"
+    ],
+    "answer": "She valued originality"
+  },
+  {
+    "story": "Researchers found that students who regularly reviewed material over time remembered information much better than those who studied only the night before exams.",
+    "question": "What study method was shown to be more effective?",
+    "options": [
+      "Last-minute studying",
+      "Regular review over time",
+      "Avoiding practice",
+      "Studying once"
+    ],
+    "answer": "Regular review over time"
+  },
+  {
+    "story": "Although technology provides convenience, some people argue that constant notifications and digital distractions make it harder to focus deeply on important tasks.",
+    "question": "What problem related to technology is mentioned?",
+    "options": [
+      "Technology is too slow",
+      "Digital distractions reduce focus",
+      "Notifications improve concentration",
+      "People avoid technology completely"
+    ],
+    "answer": "Digital distractions reduce focus"
+  },
+  {
+    "story": "After losing an important competition, Maya realized that her fear of failure had prevented her from taking creative risks. She decided that future growth would require greater courage and experimentation.",
+    "question": "What lesson did Maya learn?",
+    "options": [
+      "Creativity should always be avoided",
+      "Fear of failure can limit growth",
+      "Competitions are meaningless",
+      "Risk-taking always guarantees success"
+    ],
+    "answer": "Fear of failure can limit growth"
+  }
+]
