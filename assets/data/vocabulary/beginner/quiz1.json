@@ -1,0 +1,53 @@
+[
+  {
+    "question": "What is the meaning of 'happy'?",
+    "options": ["Sad", "Joyful", "Angry", "Cold"],
+    "answer": "Joyful"
+  },
+  {
+    "question": "What is the opposite of 'hot'?",
+    "options": ["Warm", "Cold", "Big", "Tall"],
+    "answer": "Cold"
+  },
+  {
+    "question": "What does 'fast' mean?",
+    "options": ["Quick", "Slow", "Heavy", "Small"],
+    "answer": "Quick"
+  },
+  {
+    "question": "What is the meaning of 'small'?",
+    "options": ["Tiny", "Huge", "Wide", "Long"],
+    "answer": "Tiny"
+  },
+  {
+    "question": "Which word means 'not sad'?",
+    "options": ["Happy", "Angry", "Dirty", "Weak"],
+    "answer": "Happy"
+  },
+  {
+    "question": "What is the opposite of 'big'?",
+    "options": ["Tiny", "Large", "Tall", "Fat"],
+    "answer": "Tiny"
+  },
+  {
+    "question": "What does 'clean' mean?",
+    "options": ["Not dirty", "Very loud", "Very cold", "Very small"],
+    "answer": "Not dirty"
+  },
+  {
+    "question": "What is the opposite of 'young'?",
+    "options": ["Old", "Fast", "Happy", "Strong"],
+    "answer": "Old"
+  },
+  {
+    "question": "What does 'begin' mean?",
+    "options": ["Start", "Finish", "Sleep", "Lose"],
+    "answer": "Start"
+  },
+  {
+    "question": "What is the opposite of 'open'?",
+    "options": ["Closed", "Wide", "Tall", "Far"],
+    "answer": "Closed"
+  }
+
+]

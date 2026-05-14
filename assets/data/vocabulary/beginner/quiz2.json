@@ -1,0 +1,51 @@
+[{
+  "question": "What does 'near' mean?",
+  "options": ["Close", "Far", "Late", "Wrong"],
+  "answer": "Close"
+},
+  {
+    "question": "What is the opposite of 'strong'?",
+    "options": ["Weak", "Tall", "Fast", "Clean"],
+    "answer": "Weak"
+  },
+  {
+    "question": "What does 'friend' mean?",
+    "options": ["Companion", "Enemy", "Teacher", "Doctor"],
+    "answer": "Companion"
+  },
+  {
+    "question": "What is the opposite of 'rich'?",
+    "options": ["Poor", "Tall", "Smart", "Quiet"],
+    "answer": "Poor"
+  },
+  {
+    "question": "What does 'safe' mean?",
+    "options": ["Not dangerous", "Very noisy", "Very dirty", "Very weak"],
+    "answer": "Not dangerous"
+  },
+  {
+    "question": "What is the opposite of 'easy'?",
+    "options": ["Hard", "Simple", "Clear", "Warm"],
+    "answer": "Hard"
+  },
+  {
+    "question": "What does 'laugh' mean?",
+    "options": ["Smile loudly", "Cry", "Sleep", "Jump"],
+    "answer": "Smile loudly"
+  },
+  {
+    "question": "What is the meaning of 'hungry'?",
+    "options": ["Wanting food", "Wanting sleep", "Feeling cold", "Feeling sad"],
+    "answer": "Wanting food"
+  },
+  {
+    "question": "What is the opposite of 'day'?",
+    "options": ["Night", "Morning", "Light", "Sun"],
+    "answer": "Night"
+  },
+  {
+    "question": "What does 'beautiful' mean?",
+    "options": ["Pretty", "Ugly", "Dirty", "Weak"],
+    "answer": "Pretty"
+  }
+  ]

@@ -11,14 +11,15 @@ class QuizService {
 
       String category,
       String level,
-
+      {String quizNumber = 'quiz1'} // bu originalinde yok
       ) async {
 
     final String data =
     await rootBundle.loadString(
-        'assets/data/${category.replaceAll(' ', '_')}/$level.json'
+       // 'assets/data/${category.replaceAll(' ', '_')}/$level.json'
       // 'assets/data/$category/$level.json',
      // 'assets/data/vocabulary/beginner.json',
+      'assets/data/$category/$level/$quizNumber.json'
     );
 
     final List jsonResult =

@@ -30,13 +30,24 @@ flutter:
 
   uses-material-design: true
 
+#  assets:
+#    - assets/images/
+#    - assets/icons/
+#    - assets/sounds/
+##    - assets/data/vocabulary/beginner
+#    - assets/data/grammar/
+#    - assets/data/spelling/
+#    - assets/data/kids/
+#    - assets/data/reading/
+#    - assets/data/phrasal_verbs/
+#    - assets/data/
   assets:
-    - assets/images/
-    - assets/icons/
-    - assets/sounds/
-    - assets/data/vocabulary/
-    - assets/data/grammar/
-    - assets/data/spelling/
-    - assets/data/kids/
-    - assets/data/reading/
-    - assets/data/phrasal_verbs/
+    - assets/data/vocabulary/beginner/
+    - assets/data/vocabulary/intermediate/
+    - assets/data/vocabulary/advanced/
+    - assets/data/phrasal_verbs/beginner/
+    - assets/data/phrasal_verbs/intermediate/
+    - assets/data/phrasal_verbs/advanced/
+    - assets/data/reading/beginner/
+    - assets/data/reading/intermediate/
+    - assets/data/reading/advanced/

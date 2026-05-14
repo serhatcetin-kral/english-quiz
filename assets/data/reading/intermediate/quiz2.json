@@ -1,0 +1,112 @@
+[
+  {
+    "story": "Kevin always arrived late to school because he stayed up too late playing video games. After receiving several warnings from his teacher, he decided to change his routine and started sleeping earlier.",
+    "question": "Why did Kevin begin sleeping earlier?",
+    "options": [
+      "He disliked school",
+      "His teacher warned him",
+      "He bought new games",
+      "His friends told him to"
+    ],
+    "answer": "His teacher warned him"
+  },
+  {
+    "story": "Mia volunteered at the animal shelter every Saturday. She helped feed the animals, cleaned their spaces, and played with them. Over time, she learned how important patience and responsibility are.",
+    "question": "What did Mia learn from volunteering?",
+    "options": [
+      "How to avoid work",
+      "Patience and responsibility",
+      "How to train wild animals",
+      "How to become famous"
+    ],
+    "answer": "Patience and responsibility"
+  },
+  {
+    "story": "A strong storm caused the electricity to go out in the town. Without internet or television, Noah and his family spent the evening telling stories and playing board games together.",
+    "question": "What did Noah's family do during the power outage?",
+    "options": [
+      "Watched television",
+      "Used the internet",
+      "Played games and told stories",
+      "Left the town"
+    ],
+    "answer": "Played games and told stories"
+  },
+  {
+    "story": "Sophia practiced the violin for many years before performing in front of a large audience. Although she felt nervous at first, the audience applauded loudly after her performance.",
+    "question": "Why did the audience applaud?",
+    "options": [
+      "Because Sophia stopped early",
+      "Because they enjoyed her performance",
+      "Because the concert was canceled",
+      "Because they were leaving"
+    ],
+    "answer": "Because they enjoyed her performance"
+  },
+  {
+    "story": "Jacob wanted to improve his English skills, so he started reading short stories every night. After several months, he noticed that he could understand movies and conversations much more easily.",
+    "question": "How did Jacob improve his English?",
+    "options": [
+      "By avoiding practice",
+      "By reading every night",
+      "By watching sports",
+      "By changing schools"
+    ],
+    "answer": "By reading every night"
+  },
+  {
+    "story": "Emma forgot her umbrella at home before leaving for school. When it started raining heavily in the afternoon, her friend shared an umbrella with her on the way home.",
+    "question": "How did Emma get home in the rain?",
+    "options": [
+      "She ran home alone",
+      "She waited at school",
+      "Her friend shared an umbrella",
+      "She called a taxi"
+    ],
+    "answer": "Her friend shared an umbrella"
+  },
+  {
+    "story": "The local community planted dozens of trees near the playground. They hoped the trees would provide shade, cleaner air, and a better environment for children in the future.",
+    "question": "Why did the community plant trees?",
+    "options": [
+      "To build houses",
+      "To improve the environment",
+      "To create parking spaces",
+      "To sell wood"
+    ],
+    "answer": "To improve the environment"
+  },
+  {
+    "story": "Lucas accidentally broke his sister's favorite mug while cleaning the kitchen. Instead of hiding the truth, he apologized honestly and offered to replace it.",
+    "question": "What did Lucas do after breaking the mug?",
+    "options": [
+      "He hid the pieces",
+      "He blamed someone else",
+      "He apologized and offered to replace it",
+      "He ignored the problem"
+    ],
+    "answer": "He apologized and offered to replace it"
+  },
+  {
+    "story": "Ava joined the school basketball team even though she had little experience. At first, she struggled during practice, but her teammates supported her and helped her improve.",
+    "question": "Why did Ava improve at basketball?",
+    "options": [
+      "She stopped practicing",
+      "Her teammates supported her",
+      "She changed teams",
+      "She played alone"
+    ],
+    "answer": "Her teammates supported her"
+  },
+  {
+    "story": "During the camping trip, the students learned how to build a fire safely, cook outdoors, and work together as a team. Many students said the experience taught them independence.",
+    "question": "What did students learn during the camping trip?",
+    "options": [
+      "Only cooking",
+      "Only sports",
+      "Teamwork and independence",
+      "How to avoid responsibilities"
+    ],
+    "answer": "Teamwork and independence"
+  }
+]

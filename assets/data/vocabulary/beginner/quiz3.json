@@ -1,0 +1,53 @@
+[
+  {
+    "question": "What is the opposite of 'full'?",
+    "options": ["Empty", "Big", "Heavy", "Slow"],
+    "answer": "Empty"
+  },
+  {
+    "question": "What does 'quiet' mean?",
+    "options": ["Not loud", "Very fast", "Very strong", "Very bright"],
+    "answer": "Not loud"
+  },
+  {
+    "question": "What is the meaning of 'smart'?",
+    "options": ["Clever", "Lazy", "Weak", "Cold"],
+    "answer": "Clever"
+  },
+  {
+    "question": "What is the opposite of 'correct'?",
+    "options": ["Wrong", "Clear", "Simple", "Smart"],
+    "answer": "Wrong"
+  },
+  {
+    "question": "What does 'arrive' mean?",
+    "options": ["Reach a place", "Leave", "Sleep", "Forget"],
+    "answer": "Reach a place"
+  },
+  {
+    "question": "What is the meaning of 'famous'?",
+    "options": ["Known by many people", "Very small", "Very cold", "Very weak"],
+    "answer": "Known by many people"
+  },
+  {
+    "question": "What is the opposite of 'early'?",
+    "options": ["Late", "Fast", "Soon", "Close"],
+    "answer": "Late"
+  },
+  {
+    "question": "What does 'expensive' mean?",
+    "options": ["Costs a lot", "Very cheap", "Very small", "Very easy"],
+    "answer": "Costs a lot"
+  },
+  {
+    "question": "What is the opposite of 'inside'?",
+    "options": ["Outside", "Near", "Below", "After"],
+    "answer": "Outside"
+  },
+  {
+    "question": "What does 'remember' mean?",
+    "options": ["Not forget", "Lose", "Hide", "Run"],
+    "answer": "Not forget"
+  }
+
+]

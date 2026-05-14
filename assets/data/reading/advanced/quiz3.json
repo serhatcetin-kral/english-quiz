@@ -1,0 +1,80 @@
+[
+
+  {
+    "story": "During the economic crisis, small local businesses faced serious challenges. Some survived by focusing on personalized customer service and community support instead of competing only on price.",
+    "question": "How did some local businesses survive?",
+    "options": [
+      "By ignoring customers",
+      "By focusing only on low prices",
+      "By emphasizing service and community support",
+      "By closing their stores"
+    ],
+    "answer": "By emphasizing service and community support"
+  },
+  {
+    "story": "Sophia discovered that confidence does not mean never feeling afraid. Instead, it means taking action despite uncertainty and fear.",
+    "question": "How does the passage define confidence?",
+    "options": [
+      "Never feeling fear",
+      "Avoiding difficult situations",
+      "Acting despite fear",
+      "Always succeeding"
+    ],
+    "answer": "Acting despite fear"
+  },
+  {
+    "story": "As artificial intelligence becomes more advanced, some experts worry about the ethical consequences of relying too heavily on automated decision-making systems.",
+    "question": "What concern is discussed regarding artificial intelligence?",
+    "options": [
+      "It improves weather",
+      "It creates ethical concerns",
+      "It reduces electricity use",
+      "It eliminates computers"
+    ],
+    "answer": "It creates ethical concerns"
+  },
+  {
+    "story": "The artist refused to copy popular trends even when it would have increased profits. She believed originality and personal expression were more valuable than short-term success.",
+    "question": "Why did the artist reject popular trends?",
+    "options": [
+      "She disliked art",
+      "She valued originality",
+      "She wanted less success",
+      "She avoided creativity"
+    ],
+    "answer": "She valued originality"
+  },
+  {
+    "story": "Researchers found that students who regularly reviewed material over time remembered information much better than those who studied only the night before exams.",
+    "question": "What study method was shown to be more effective?",
+    "options": [
+      "Last-minute studying",
+      "Regular review over time",
+      "Avoiding practice",
+      "Studying once"
+    ],
+    "answer": "Regular review over time"
+  },
+  {
+    "story": "Although technology provides convenience, some people argue that constant notifications and digital distractions make it harder to focus deeply on important tasks.",
+    "question": "What problem related to technology is mentioned?",
+    "options": [
+      "Technology is too slow",
+      "Digital distractions reduce focus",
+      "Notifications improve concentration",
+      "People avoid technology completely"
+    ],
+    "answer": "Digital distractions reduce focus"
+  },
+  {
+    "story": "After losing an important competition, Maya realized that her fear of failure had prevented her from taking creative risks. She decided that future growth would require greater courage and experimentation.",
+    "question": "What lesson did Maya learn?",
+    "options": [
+      "Creativity should always be avoided",
+      "Fear of failure can limit growth",
+      "Competitions are meaningless",
+      "Risk-taking always guarantees success"
+    ],
+    "answer": "Fear of failure can limit growth"
+  }
+]

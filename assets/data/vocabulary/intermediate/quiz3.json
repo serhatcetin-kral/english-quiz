@@ -1,0 +1,53 @@
+[
+  {
+    "question": "What does 'avoid' mean?",
+    "options": ["Stay away from", "Move toward", "Accept", "Protect"],
+    "answer": "Stay away from"
+  },
+  {
+    "question": "What is the opposite of 'create'?",
+    "options": ["Destroy", "Build", "Design", "Improve"],
+    "answer": "Destroy"
+  },
+  {
+    "question": "What does 'require' mean?",
+    "options": ["Need", "Refuse", "Hide", "Forget"],
+    "answer": "Need"
+  },
+  {
+    "question": "What is the meaning of 'fortunate'?",
+    "options": ["Lucky", "Unhappy", "Poor", "Weak"],
+    "answer": "Lucky"
+  },
+  {
+    "question": "What does 'increase' mean?",
+    "options": ["Become larger", "Become smaller", "Disappear", "Break"],
+    "answer": "Become larger"
+  },
+
+  {
+    "question": "What does 'motivate' mean?",
+    "options": ["Encourage someone", "Make someone sleep", "Hide something", "Forget something"],
+    "answer": "Encourage someone"
+  },
+  {
+    "question": "What is the meaning of 'predict'?",
+    "options": ["Say what may happen", "Travel quickly", "Speak loudly", "Break something"],
+    "answer": "Say what may happen"
+  },
+  {
+    "question": "What does 'participate' mean?",
+    "options": ["Take part in something", "Leave a place", "Lose interest", "Forget information"],
+    "answer": "Take part in something"
+  },
+  {
+    "question": "What is the meaning of 'confuse'?",
+    "options": ["Make unclear", "Make happy", "Make stronger", "Make cleaner"],
+    "answer": "Make unclear"
+  },
+  {
+    "question": "What does 'encounter' mean?",
+    "options": ["Meet unexpectedly", "Run away", "Forget completely", "Hide carefully"],
+    "answer": "Meet unexpectedly"
+  }
+]

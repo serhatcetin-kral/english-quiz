@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'phase out' mean?",
+    "options": [
+      "Introduce quickly",
+      "Gradually stop using something",
+      "Repair completely",
+      "Hide information"
+    ],
+    "answer": "Gradually stop using something"
+  },
+  {
+    "question": "What does 'iron out' mean?",
+    "options": [
+      "Create problems",
+      "Resolve difficulties",
+      "Ignore mistakes",
+      "Wash clothes"
+    ],
+    "answer": "Resolve difficulties"
+  },
+  {
+    "question": "What does 'crack down on' mean?",
+    "options": [
+      "Become less strict",
+      "Take stronger action against something",
+      "Avoid responsibility",
+      "Celebrate success"
+    ],
+    "answer": "Take stronger action against something"
+  },
+  {
+    "question": "What does 'frown upon' mean?",
+    "options": [
+      "Strongly approve",
+      "Disapprove of something",
+      "Laugh at someone",
+      "Ignore rules"
+    ],
+    "answer": "Disapprove of something"
+  },
+  {
+    "question": "What does 'boil down to' mean?",
+    "options": [
+      "Complicate something",
+      "Reduce to the main point",
+      "Cook food slowly",
+      "Avoid discussion"
+    ],
+    "answer": "Reduce to the main point"
+  },
+  {
+    "question": "What does 'branch out' mean?",
+    "options": [
+      "Limit activities",
+      "Expand into new areas",
+      "Close a business",
+      "Avoid change"
+    ],
+    "answer": "Expand into new areas"
+  },
+  {
+    "question": "What does 'carry out' mean?",
+    "options": [
+      "Cancel plans",
+      "Perform or complete something",
+      "Forget responsibilities",
+      "Travel abroad"
+    ],
+    "answer": "Perform or complete something"
+  },
+  {
+    "question": "What does 'come under' mean?",
+    "options": [
+      "Receive criticism or attack",
+      "Win a competition",
+      "Avoid attention",
+      "Become stronger"
+    ],
+    "answer": "Receive criticism or attack"
+  },
+  {
+    "question": "What does 'fall through' mean?",
+    "options": [
+      "Succeed perfectly",
+      "Fail to happen",
+      "Travel safely",
+      "Improve slowly"
+    ],
+    "answer": "Fail to happen"
+  },
+  {
+    "question": "What does 'go through with' mean?",
+    "options": [
+      "Cancel a plan",
+      "Actually do something planned",
+      "Forget completely",
+      "Hide evidence"
+    ],
+    "answer": "Actually do something planned"
+  }
+]

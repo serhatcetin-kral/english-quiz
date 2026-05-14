@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'pass away' mean?",
+    "options": [
+      "Travel abroad",
+      "Die",
+      "Fall asleep",
+      "Disappear temporarily"
+    ],
+    "answer": "Die"
+  },
+  {
+    "question": "What does 'pull off' mean?",
+    "options": [
+      "Fail completely",
+      "Succeed in doing something difficult",
+      "Cancel a trip",
+      "Remove clothing"
+    ],
+    "answer": "Succeed in doing something difficult"
+  },
+  {
+    "question": "What does 'put up with' mean?",
+    "options": [
+      "Enjoy greatly",
+      "Tolerate something annoying",
+      "Destroy something",
+      "Complain loudly"
+    ],
+    "answer": "Tolerate something annoying"
+  },
+  {
+    "question": "What does 'rule out' mean?",
+    "options": [
+      "Consider possible",
+      "Eliminate an option",
+      "Accept immediately",
+      "Write new rules"
+    ],
+    "answer": "Eliminate an option"
+  },
+  {
+    "question": "What does 'see through' mean?",
+    "options": [
+      "Be deceived",
+      "Understand the truth about someone",
+      "Ignore evidence",
+      "Travel by plane"
+    ],
+    "answer": "Understand the truth about someone"
+  },
+  {
+    "question": "What does 'stand up for' mean?",
+    "options": [
+      "Defend or support",
+      "Sit quietly",
+      "Avoid arguments",
+      "Leave a meeting"
+    ],
+    "answer": "Defend or support"
+  },
+  {
+    "question": "What does 'turn out' mean?",
+    "options": [
+      "Become or result",
+      "Close the lights",
+      "Reject an offer",
+      "Travel overseas"
+    ],
+    "answer": "Become or result"
+  },
+  {
+    "question": "What does 'wear out' mean?",
+    "options": [
+      "Become unusable from use",
+      "Look fashionable",
+      "Repair clothing",
+      "Wash carefully"
+    ],
+    "answer": "Become unusable from use"
+  },
+  {
+    "question": "What does 'work through' mean?",
+    "options": [
+      "Avoid a problem",
+      "Deal with something gradually",
+      "Forget responsibilities",
+      "Travel continuously"
+    ],
+    "answer": "Deal with something gradually"
+  },
+  {
+    "question": "What does 'zero in on' mean?",
+    "options": [
+      "Ignore completely",
+      "Focus closely on something",
+      "Travel randomly",
+      "Lose concentration"
+    ],
+    "answer": "Focus closely on something"
+  }
+]

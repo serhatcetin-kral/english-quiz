@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'bring about' mean?",
+    "options": [
+      "Prevent something",
+      "Cause something to happen",
+      "Hide information",
+      "Leave suddenly"
+    ],
+    "answer": "Cause something to happen"
+  },
+  {
+    "question": "What does 'brush up on' mean?",
+    "options": [
+      "Forget a skill",
+      "Improve knowledge or skill",
+      "Avoid studying",
+      "Clean a room"
+    ],
+    "answer": "Improve knowledge or skill"
+  },
+  {
+    "question": "What does 'come down with' mean?",
+    "options": [
+      "Recover quickly",
+      "Become sick",
+      "Travel abroad",
+      "Win a prize"
+    ],
+    "answer": "Become sick"
+  },
+  {
+    "question": "What does 'drop by' mean?",
+    "options": [
+      "Visit briefly",
+      "Move permanently",
+      "Cancel plans",
+      "Throw something away"
+    ],
+    "answer": "Visit briefly"
+  },
+  {
+    "question": "What does 'fall for' mean?",
+    "options": [
+      "Avoid completely",
+      "Be tricked or fall in love",
+      "Reject an idea",
+      "Forget someone"
+    ],
+    "answer": "Be tricked or fall in love"
+  },
+  {
+    "question": "What does 'get across' mean?",
+    "options": [
+      "Fail to communicate",
+      "Successfully communicate an idea",
+      "Travel overseas",
+      "Close a meeting"
+    ],
+    "answer": "Successfully communicate an idea"
+  },
+  {
+    "question": "What does 'get by' mean?",
+    "options": [
+      "Live with enough resources",
+      "Become rich quickly",
+      "Lose everything",
+      "Travel alone"
+    ],
+    "answer": "Live with enough resources"
+  },
+  {
+    "question": "What does 'give away' mean?",
+    "options": [
+      "Keep secretly",
+      "Reveal or donate something",
+      "Buy something expensive",
+      "Ignore information"
+    ],
+    "answer": "Reveal or donate something"
+  },
+  {
+    "question": "What does 'look down on' mean?",
+    "options": [
+      "Respect deeply",
+      "Consider someone inferior",
+      "Help someone kindly",
+      "Speak politely"
+    ],
+    "answer": "Consider someone inferior"
+  },
+  {
+    "question": "What does 'make up for' mean?",
+    "options": [
+      "Compensate for something",
+      "Destroy evidence",
+      "Forget a mistake",
+      "Avoid responsibility"
+    ],
+    "answer": "Compensate for something"
+  }
+]

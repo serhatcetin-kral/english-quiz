@@ -1,0 +1,106 @@
+[
+
+
+
+
+  {
+    "question": "What does 'hold back' mean?",
+    "options": [
+      "Express openly",
+      "Restrain or prevent",
+      "Move forward quickly",
+      "Forget emotions"
+    ],
+    "answer": "Restrain or prevent"
+  },
+  {
+    "question": "What does 'live up to' mean?",
+    "options": [
+      "Fail expectations",
+      "Meet expectations",
+      "Ignore responsibilities",
+      "Travel constantly"
+    ],
+    "answer": "Meet expectations"
+  },
+  {
+    "question": "What does 'look into' mean?",
+    "options": [
+      "Ignore a situation",
+      "Investigate something",
+      "Destroy documents",
+      "Travel overseas"
+    ],
+    "answer": "Investigate something"
+  },
+  {
+    "question": "What does 'move forward' mean?",
+    "options": [
+      "Make progress",
+      "Stay unchanged",
+      "Avoid action",
+      "Forget goals"
+    ],
+    "answer": "Make progress"
+  },
+  {
+    "question": "What does 'play down' mean?",
+    "options": [
+      "Emphasize strongly",
+      "Make something seem less important",
+      "Celebrate loudly",
+      "Completely ignore"
+    ],
+    "answer": "Make something seem less important"
+  },
+  {
+    "question": "What does 'pull through' mean?",
+    "options": [
+      "Fail completely",
+      "Recover from difficulty",
+      "Avoid problems",
+      "Travel abroad"
+    ],
+    "answer": "Recover from difficulty"
+  },
+  {
+    "question": "What does 'run out of' mean?",
+    "options": [
+      "Gain more of something",
+      "Have no more left",
+      "Hide resources",
+      "Share everything"
+    ],
+    "answer": "Have no more left"
+  },
+  {
+    "question": "What does 'set aside' mean?",
+    "options": [
+      "Spend immediately",
+      "Save for a purpose",
+      "Forget permanently",
+      "Throw away"
+    ],
+    "answer": "Save for a purpose"
+  },
+  {
+    "question": "What does 'step down' mean?",
+    "options": [
+      "Accept more power",
+      "Resign from a position",
+      "Travel downstairs",
+      "Become more famous"
+    ],
+    "answer": "Resign from a position"
+  },
+  {
+    "question": "What does 'sum up' mean?",
+    "options": [
+      "Complicate information",
+      "Briefly summarize",
+      "Hide details",
+      "Cancel a discussion"
+    ],
+    "answer": "Briefly summarize"
+  }
+]

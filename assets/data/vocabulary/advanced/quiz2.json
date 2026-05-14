@@ -1,0 +1,52 @@
+
+[{
+  "question": "What does 'exaggerate' mean?",
+  "options": ["Make something seem larger", "Reduce importance", "Explain carefully", "Forget quickly"],
+  "answer": "Make something seem larger"
+},
+{
+"question": "What is the meaning of 'vulnerable'?",
+"options": ["Easily harmed", "Very powerful", "Very successful", "Very intelligent"],
+"answer": "Easily harmed"
+},
+{
+"question": "What does 'eliminate' mean?",
+"options": ["Remove completely", "Create carefully", "Protect strongly", "Build slowly"],
+"answer": "Remove completely"
+},
+{
+"question": "What is the meaning of 'ambitious'?",
+"options": ["Wanting success strongly", "Very tired", "Very shy", "Very relaxed"],
+"answer": "Wanting success strongly"
+},
+{
+"question": "What does 'cooperate' mean?",
+"options": ["Work together", "Fight continuously", "Avoid responsibility", "Speak aggressively"],
+"answer": "Work together"
+},
+{
+"question": "What is the meaning of 'accurate'?",
+"options": ["Correct and precise", "Very noisy", "Very weak", "Very confusing"],
+"answer": "Correct and precise"
+},
+{
+"question": "What does 'consequence' mean?",
+"options": ["Result of an action", "Beginning of a story", "Type of machine", "Hidden message"],
+"answer": "Result of an action"
+},
+{
+"question": "What is the meaning of 'artificial'?",
+"options": ["Made by humans", "Naturally grown", "Very old", "Very dangerous"],
+"answer": "Made by humans"
+},
+{
+"question": "What does 'interpret' mean?",
+"options": ["Explain the meaning", "Destroy suddenly", "Forget completely", "Hide carefully"],
+"answer": "Explain the meaning"
+},
+{
+"question": "What is the meaning of 'efficient'?",
+"options": ["Working well without waste", "Very weak", "Very lazy", "Very slow"],
+"answer": "Working well without waste"
+}
+  ]

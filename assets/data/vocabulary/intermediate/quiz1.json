@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does 'generous' mean?",
+    "options": ["Willing to give", "Very angry", "Very lazy", "Very weak"],
+    "answer": "Willing to give"
+  },
+  {
+    "question": "What is the opposite of 'ancient'?",
+    "options": ["Modern", "Old", "Heavy", "Large"],
+    "answer": "Modern"
+  },
+  {
+    "question": "What does 'confident' mean?",
+    "options": ["Sure of yourself", "Very scared", "Very sad", "Very tired"],
+    "answer": "Sure of yourself"
+  },
+  {
+    "question": "What is the meaning of 'efficient'?",
+    "options": ["Working well", "Very slow", "Very noisy", "Very weak"],
+    "answer": "Working well"
+  },
+  {
+    "question": "What does 'rare' mean?",
+    "options": ["Not common", "Very easy", "Very fast", "Very bright"],
+    "answer": "Not common"
+  },
+  {
+    "question": "What is the opposite of 'accept'?",
+    "options": ["Refuse", "Allow", "Open", "Receive"],
+    "answer": "Refuse"
+  },
+  {
+    "question": "What does 'observe' mean?",
+    "options": ["Watch carefully", "Run away", "Speak loudly", "Forget quickly"],
+    "answer": "Watch carefully"
+  },
+  {
+    "question": "What is the meaning of 'fragile'?",
+    "options": ["Easily broken", "Very strong", "Very large", "Very loud"],
+    "answer": "Easily broken"
+  },
+  {
+    "question": "What does 'curious' mean?",
+    "options": ["Wanting to learn", "Very angry", "Very tired", "Very quiet"],
+    "answer": "Wanting to learn"
+  },
+  {
+    "question": "What is the opposite of 'include'?",
+    "options": ["Exclude", "Accept", "Invite", "Protect"],
+    "answer": "Exclude"
+  }
+]

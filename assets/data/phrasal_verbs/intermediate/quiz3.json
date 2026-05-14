@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'back up' mean?",
+    "options": [
+      "Delete files",
+      "Move backward",
+      "Make a copy of data",
+      "Close a computer"
+    ],
+    "answer": "Make a copy of data"
+  },
+  {
+    "question": "What does 'blow up' mean?",
+    "options": [
+      "Explode",
+      "Calm down",
+      "Disappear",
+      "Sit quietly"
+    ],
+    "answer": "Explode"
+  },
+  {
+    "question": "What does 'call off' mean?",
+    "options": [
+      "Continue an event",
+      "Cancel something",
+      "Start working",
+      "Answer a phone"
+    ],
+    "answer": "Cancel something"
+  },
+  {
+    "question": "What does 'catch up' mean?",
+    "options": [
+      "Fall behind",
+      "Reach the same level",
+      "Run away",
+      "Sleep late"
+    ],
+    "answer": "Reach the same level"
+  },
+  {
+    "question": "What does 'come up with' mean?",
+    "options": [
+      "Forget an idea",
+      "Create or think of an idea",
+      "Destroy something",
+      "Travel abroad"
+    ],
+    "answer": "Create or think of an idea"
+  },
+  {
+    "question": "What does 'cut off' mean?",
+    "options": [
+      "Connect something",
+      "Interrupt or stop supply",
+      "Repair something",
+      "Start a machine"
+    ],
+    "answer": "Interrupt or stop supply"
+  },
+  {
+    "question": "What does 'do over' mean?",
+    "options": [
+      "Repeat something",
+      "Finish permanently",
+      "Break something",
+      "Sleep outside"
+    ],
+    "answer": "Repeat something"
+  },
+  {
+    "question": "What does 'fall apart' mean?",
+    "options": [
+      "Become organized",
+      "Break into pieces",
+      "Improve quickly",
+      "Travel together"
+    ],
+    "answer": "Break into pieces"
+  },
+  {
+    "question": "What does 'get away' mean?",
+    "options": [
+      "Escape or leave",
+      "Stay home",
+      "Start cooking",
+      "Buy something"
+    ],
+    "answer": "Escape or leave"
+  },
+  {
+    "question": "What does 'give in' mean?",
+    "options": [
+      "Refuse strongly",
+      "Finally agree",
+      "Run quickly",
+      "Hide information"
+    ],
+    "answer": "Finally agree"
+  }
+]

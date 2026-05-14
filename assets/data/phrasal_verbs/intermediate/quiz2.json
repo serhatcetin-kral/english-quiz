@@ -1,0 +1,102 @@
+[
+{
+  "question": "What does 'get along with' mean?",
+  "options": [
+    "Fight constantly",
+    "Have a good relationship",
+    "Ignore someone",
+    "Travel together"
+  ],
+  "answer": "Have a good relationship"
+},
+{
+"question": "What does 'look forward to' mean?",
+"options": [
+"Fear something",
+"Feel excited about something future",
+"Forget something",
+"Cancel plans"
+],
+"answer": "Feel excited about something future"
+},
+{
+"question": "What does 'make up' mean?",
+"options": [
+"Destroy something",
+"Invent or create a story",
+"Forget something",
+"Clean a room"
+],
+"answer": "Invent or create a story"
+},
+{
+"question": "What does 'pass out' mean?",
+"options": [
+"Become unconscious",
+"Wake up early",
+"Drive quickly",
+"Leave school"
+],
+"answer": "Become unconscious"
+},
+{
+"question": "What does 'point out' mean?",
+"options": [
+"Hide information",
+"Mention or show something",
+"Forget details",
+"Close a shop"
+],
+"answer": "Mention or show something"
+},
+{
+"question": "What does 'set up' mean?",
+"options": [
+"Destroy something",
+"Arrange or organize something",
+"Forget plans",
+"Sell everything"
+],
+"answer": "Arrange or organize something"
+},
+{
+"question": "What does 'take over' mean?",
+"options": [
+"Lose control",
+"Gain control of something",
+"Ignore responsibilities",
+"Travel abroad"
+],
+"answer": "Gain control of something"
+},
+{
+"question": "What does 'turn down' mean?",
+"options": [
+"Accept immediately",
+"Reject or refuse",
+"Increase volume",
+"Stand up"
+],
+"answer": "Reject or refuse"
+},
+{
+"question": "What does 'work out' mean?",
+"options": [
+"Fail completely",
+"Exercise or succeed eventually",
+"Sleep late",
+"Travel slowly"
+],
+"answer": "Exercise or succeed eventually"
+},
+{
+"question": "What does 'bring up' mean?",
+"options": [
+"Avoid a topic",
+"Mention a topic",
+"Throw something away",
+"Close a discussion"
+],
+"answer": "Mention a topic"
+}
+  ]

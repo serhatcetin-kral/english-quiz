@@ -1,0 +1,60 @@
+[
+
+
+
+  {
+    "story": "Ryan spent weeks preparing for the spelling competition. He practiced difficult words every evening and asked his parents to test him regularly.",
+    "question": "How did Ryan prepare for the competition?",
+    "options": [
+      "He avoided studying",
+      "He practiced words every evening",
+      "He copied answers",
+      "He skipped school"
+    ],
+    "answer": "He practiced words every evening"
+  },
+  {
+    "story": "Clara enjoyed painting landscapes because she loved nature. She often visited parks and lakes to find inspiration for her artwork.",
+    "question": "Where did Clara find inspiration?",
+    "options": [
+      "Shopping malls",
+      "Parks and lakes",
+      "Video games",
+      "Libraries only"
+    ],
+    "answer": "Parks and lakes"
+  },
+  {
+    "story": "Ethan's grandfather taught him how to repair old bicycles. Over time, Ethan became skilled at fixing broken chains and flat tires.",
+    "question": "What skill did Ethan learn?",
+    "options": [
+      "Cooking",
+      "Painting",
+      "Repairing bicycles",
+      "Swimming"
+    ],
+    "answer": "Repairing bicycles"
+  },
+  {
+    "story": "The school introduced reusable water bottles to reduce plastic waste. Students were encouraged to refill bottles instead of buying disposable drinks.",
+    "question": "Why did the school introduce reusable bottles?",
+    "options": [
+      "To increase waste",
+      "To reduce plastic waste",
+      "To sell more drinks",
+      "To decorate classrooms"
+    ],
+    "answer": "To reduce plastic waste"
+  },
+  {
+    "story": "Lily was afraid of public speaking, but her teacher encouraged her to join the debate club. After several competitions, Lily became much more confident speaking in front of others.",
+    "question": "How did Lily become more confident?",
+    "options": [
+      "By avoiding speaking",
+      "By joining the debate club",
+      "By changing schools",
+      "By studying alone"
+    ],
+    "answer": "By joining the debate club"
+  }
+]

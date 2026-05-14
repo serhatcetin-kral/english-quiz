@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'carry on' mean?",
+    "options": [
+      "Stop completely",
+      "Continue doing something",
+      "Buy something",
+      "Leave quickly"
+    ],
+    "answer": "Continue doing something"
+  },
+  {
+    "question": "What does 'give back' mean?",
+    "options": [
+      "Keep forever",
+      "Return something",
+      "Throw away",
+      "Hide something"
+    ],
+    "answer": "Return something"
+  },
+  {
+    "question": "What does 'cut down on' mean?",
+    "options": [
+      "Increase something",
+      "Reduce something",
+      "Start something",
+      "Ignore something"
+    ],
+    "answer": "Reduce something"
+  },
+  {
+    "question": "What does 'run into' mean?",
+    "options": [
+      "Avoid someone",
+      "Meet unexpectedly",
+      "Drive carefully",
+      "Hide from someone"
+    ],
+    "answer": "Meet unexpectedly"
+  },
+  {
+    "question": "What does 'come across' mean?",
+    "options": [
+      "Find by chance",
+      "Lose completely",
+      "Travel abroad",
+      "Speak loudly"
+    ],
+    "answer": "Find by chance"
+  },
+  {
+    "question": "What does 'figure out' mean?",
+    "options": [
+      "Forget information",
+      "Understand or solve something",
+      "Break something",
+      "Write quickly"
+    ],
+    "answer": "Understand or solve something"
+  },
+  {
+    "question": "What does 'break down' mean?",
+    "options": [
+      "Work perfectly",
+      "Stop functioning",
+      "Start quickly",
+      "Move faster"
+    ],
+    "answer": "Stop functioning"
+  },
+  {
+    "question": "What does 'check in' mean?",
+    "options": [
+      "Leave a hotel",
+      "Register at a hotel or airport",
+      "Cancel a reservation",
+      "Drive away"
+    ],
+    "answer": "Register at a hotel or airport"
+  },
+  {
+    "question": "What does 'check out' mean?",
+    "options": [
+      "Leave after paying",
+      "Enter a building",
+      "Book a room",
+      "Sleep outside"
+    ],
+    "answer": "Leave after paying"
+  },
+  {
+    "question": "What does 'drop off' mean?",
+    "options": [
+      "Pick up someone",
+      "Take someone somewhere",
+      "Call someone",
+      "Wait outside"
+    ],
+    "answer": "Take someone somewhere"
+  }
+]

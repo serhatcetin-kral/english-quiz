@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the meaning of 'challenge'?",
+    "options": ["A difficult task", "A funny story", "A quiet place", "A simple answer"],
+    "answer": "A difficult task"
+  },
+  {
+    "question": "What does 'maintain' mean?",
+    "options": ["Keep in good condition", "Destroy completely", "Forget quickly", "Move carelessly"],
+    "answer": "Keep in good condition"
+  },
+  {
+    "question": "What is the opposite of 'success'?",
+    "options": ["Failure", "Victory", "Progress", "Improvement"],
+    "answer": "Failure"
+  },
+  {
+    "question": "What does 'determine' mean?",
+    "options": ["Decide officially", "Avoid carefully", "Speak softly", "Hide secretly"],
+    "answer": "Decide officially"
+  },
+  {
+    "question": "What is the meaning of 'responsible'?",
+    "options": ["Having duty or control", "Very lazy", "Very weak", "Very angry"],
+    "answer": "Having duty or control"
+  }
+]

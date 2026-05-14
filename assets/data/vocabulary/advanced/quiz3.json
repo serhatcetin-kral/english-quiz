@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does 'manipulate' mean?",
+    "options": ["Control skillfully or unfairly", "Explain honestly", "Travel carefully", "Study quietly"],
+    "answer": "Control skillfully or unfairly"
+  },
+  {
+    "question": "What is the meaning of 'nevertheless'?",
+    "options": ["Despite that", "Because of that", "Immediately", "In conclusion"],
+    "answer": "Despite that"
+  },
+  {
+    "question": "What does 'anticipate' mean?",
+    "options": ["Expect in advance", "Forget completely", "Destroy carefully", "Avoid responsibility"],
+    "answer": "Expect in advance"
+  },
+  {
+    "question": "What is the meaning of 'ethical'?",
+    "options": ["Morally right", "Very expensive", "Scientifically impossible", "Extremely dangerous"],
+    "answer": "Morally right"
+  },
+  {
+    "question": "What does 'contradict' mean?",
+    "options": ["Express the opposite", "Strongly support", "Quietly explain", "Carefully repeat"],
+    "answer": "Express the opposite"
+  },
+  {
+    "question": "What is the meaning of 'substantial'?",
+    "options": ["Large and important", "Very temporary", "Very weak", "Very tiny"],
+    "answer": "Large and important"
+  },
+  {
+    "question": "What does 'distinguish' mean?",
+    "options": ["Recognize differences", "Hide completely", "Travel quickly", "Destroy suddenly"],
+    "answer": "Recognize differences"
+  },
+  {
+    "question": "What is the meaning of 'conventional'?",
+    "options": ["Traditional and common", "Highly unusual", "Scientifically impossible", "Extremely risky"],
+    "answer": "Traditional and common"
+  },
+  {
+    "question": "What does 'inefficient' mean?",
+    "options": ["Not working effectively", "Working perfectly", "Very intelligent", "Very powerful"],
+    "answer": "Not working effectively"
+  },
+  {
+    "question": "What is the meaning of 'phenomenon'?",
+    "options": ["An observable event", "A dangerous machine", "A financial document", "A scientific tool"],
+    "answer": "An observable event"
+  }
+]

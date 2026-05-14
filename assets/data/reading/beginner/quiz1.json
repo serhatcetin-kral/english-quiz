@@ -1,0 +1,112 @@
+[
+  {
+    "story": "Tom has a small dog named Max. Every morning, Tom walks Max in the park. Max likes to run and play with a ball. Tom gives Max food and water every day.",
+    "question": "What is the dog's name?",
+    "options": [
+      "Tom",
+      "Max",
+      "Park",
+      "Ball"
+    ],
+    "answer": "Max"
+  },
+  {
+    "story": "Sarah loves fruits. Her favorite fruit is apples. Every afternoon, she eats an apple after school. Sometimes she also drinks orange juice.",
+    "question": "What is Sarah's favorite fruit?",
+    "options": [
+      "Orange",
+      "Banana",
+      "Apple",
+      "Grape"
+    ],
+    "answer": "Apple"
+  },
+  {
+    "story": "Ali goes to school by bus every day. His school starts at 8 o'clock in the morning. He likes math and science very much.",
+    "question": "How does Ali go to school?",
+    "options": [
+      "By car",
+      "By bike",
+      "By bus",
+      "By train"
+    ],
+    "answer": "By bus"
+  },
+  {
+    "story": "Emma has two cats. One cat is white and the other cat is black. The cats sleep on Emma's bed every night.",
+    "question": "How many cats does Emma have?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two"
+  },
+  {
+    "story": "David likes rainy days. He stays home, drinks hot chocolate, and reads books. His favorite books are adventure stories.",
+    "question": "What does David drink?",
+    "options": [
+      "Tea",
+      "Coffee",
+      "Milk",
+      "Hot chocolate"
+    ],
+    "answer": "Hot chocolate"
+  },
+  {
+    "story": "Mia and her brother went to the zoo last weekend. They saw lions, monkeys, and elephants. Mia liked the elephants the most.",
+    "question": "Which animal did Mia like most?",
+    "options": [
+      "Lions",
+      "Monkeys",
+      "Elephants",
+      "Birds"
+    ],
+    "answer": "Elephants"
+  },
+  {
+    "story": "Jack plays football every Saturday with his friends. They meet at the sports field near Jack's house.",
+    "question": "When does Jack play football?",
+    "options": [
+      "Monday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "answer": "Saturday"
+  },
+  {
+    "story": "Lucy has a big blue backpack for school. Inside it, she keeps books, pencils, and her lunch box.",
+    "question": "What color is Lucy's backpack?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Blue"
+  },
+  {
+    "story": "Ben loves winter because he enjoys playing in the snow. He wears a warm jacket, gloves, and boots.",
+    "question": "Why does Ben love winter?",
+    "options": [
+      "Because of rain",
+      "Because of snow",
+      "Because of school",
+      "Because of summer"
+    ],
+    "answer": "Because of snow"
+  },
+  {
+    "story": "Nina visited her grandmother during the holiday. Her grandmother baked delicious cookies for her.",
+    "question": "Who baked cookies?",
+    "options": [
+      "Nina",
+      "Mother",
+      "Teacher",
+      "Grandmother"
+    ],
+    "answer": "Grandmother"
+  }
+]

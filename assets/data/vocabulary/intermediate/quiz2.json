@@ -1,0 +1,51 @@
+[ {
+  "question": "What does 'achieve' mean?",
+  "options": ["Successfully complete", "Forget", "Lose", "Hide"],
+  "answer": "Successfully complete"
+},
+  {
+    "question": "What is the meaning of 'temporary'?",
+    "options": ["Not permanent", "Very old", "Very noisy", "Very soft"],
+    "answer": "Not permanent"
+  },
+  {
+    "question": "What does 'combine' mean?",
+    "options": ["Join together", "Break apart", "Throw away", "Forget"],
+    "answer": "Join together"
+  },
+  {
+    "question": "What is the opposite of 'expand'?",
+    "options": ["Shrink", "Grow", "Stretch", "Increase"],
+    "answer": "Shrink"
+  },
+  {
+    "question": "What does 'hesitate' mean?",
+    "options": ["Pause before acting", "Run quickly", "Speak loudly", "Laugh hard"],
+    "answer": "Pause before acting"
+  },
+  {
+    "question": "What is the meaning of 'depend'?",
+    "options": ["Rely on", "Ignore", "Forget", "Refuse"],
+    "answer": "Rely on"
+  },
+  {
+    "question": "What does 'accurate' mean?",
+    "options": ["Correct and exact", "Very wrong", "Very weak", "Very dirty"],
+    "answer": "Correct and exact"
+  },
+  {
+    "question": "What is the opposite of 'maximum'?",
+    "options": ["Minimum", "Highest", "Largest", "Greatest"],
+    "answer": "Minimum"
+  },
+  {
+    "question": "What does 'improve' mean?",
+    "options": ["Make better", "Make worse", "Destroy", "Forget"],
+    "answer": "Make better"
+  },
+  {
+    "question": "What is the meaning of 'sincere'?",
+    "options": ["Honest", "Fake", "Lazy", "Weak"],
+    "answer": "Honest"
+  }
+]

@@ -1,0 +1,106 @@
+[
+
+
+
+
+  {
+    "question": "What does 'go over' mean?",
+    "options": [
+      "Review carefully",
+      "Ignore information",
+      "Throw away",
+      "Sleep early"
+    ],
+    "answer": "Review carefully"
+  },
+  {
+    "question": "What does 'hold on' mean?",
+    "options": [
+      "Wait briefly",
+      "Leave immediately",
+      "Forget everything",
+      "Close a shop"
+    ],
+    "answer": "Wait briefly"
+  },
+  {
+    "question": "What does 'keep up with' mean?",
+    "options": [
+      "Stay at the same speed or level",
+      "Stop trying",
+      "Avoid people",
+      "Slow down completely"
+    ],
+    "answer": "Stay at the same speed or level"
+  },
+  {
+    "question": "What does 'look out' mean?",
+    "options": [
+      "Be careful",
+      "Go shopping",
+      "Relax completely",
+      "Sit inside"
+    ],
+    "answer": "Be careful"
+  },
+  {
+    "question": "What does 'pay back' mean?",
+    "options": [
+      "Borrow money",
+      "Return money owed",
+      "Spend carelessly",
+      "Hide cash"
+    ],
+    "answer": "Return money owed"
+  },
+  {
+    "question": "What does 'put away' mean?",
+    "options": [
+      "Take something out",
+      "Store something in its place",
+      "Break furniture",
+      "Throw things around"
+    ],
+    "answer": "Store something in its place"
+  },
+  {
+    "question": "What does 'show off' mean?",
+    "options": [
+      "Act to impress others",
+      "Hide talents",
+      "Avoid attention",
+      "Speak quietly"
+    ],
+    "answer": "Act to impress others"
+  },
+  {
+    "question": "What does 'take back' mean?",
+    "options": [
+      "Return something",
+      "Lose permanently",
+      "Destroy evidence",
+      "Forget quickly"
+    ],
+    "answer": "Return something"
+  },
+  {
+    "question": "What does 'throw away' mean?",
+    "options": [
+      "Keep carefully",
+      "Discard something",
+      "Repair something",
+      "Wash clothes"
+    ],
+    "answer": "Discard something"
+  },
+  {
+    "question": "What does 'watch out' mean?",
+    "options": [
+      "Be alert and careful",
+      "Relax completely",
+      "Go to sleep",
+      "Close your eyes"
+    ],
+    "answer": "Be alert and careful"
+  }
+]

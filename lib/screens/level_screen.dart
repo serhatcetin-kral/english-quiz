@@ -3,105 +3,205 @@ import 'package:flutter/material.dart';
 import 'quiz_screen.dart';
 
 class LevelScreen extends StatelessWidget {
-
   final String category;
+  final String level;
 
   const LevelScreen({
     super.key,
     required this.category,
+    required this.level,
   });
+
+  List<String> getQuizList(String category, String level) {
+
+    // VOCABULARY
+    if (category == 'vocabulary' && level == 'beginner') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
+
+    if (category == 'vocabulary' && level == 'intermediate') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
+
+    if (category == 'vocabulary' && level == 'advanced') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+      ];
+    }
+
+    // PHRASAL VERBS
+    if (category == 'phrasal_verbs' && level == 'beginner') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+      ];
+    }
+
+    if (category == 'phrasal_verbs' && level == 'intermediate') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+      ];
+    }
+
+    if (category == 'phrasal_verbs' && level == 'advanced') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+
+      ];
+    }
+
+    // GRAMMAR
+    if (category == 'grammar' && level == 'beginner') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+      ];
+    }
+
+    // READING
+    if (category == 'reading' && level == 'beginner') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3'
+      ];
+    }
+    if (category == 'reading' && level == 'advanced') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3'
+      ];
+    }
+    if (category == 'reading' && level == 'intermediate') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3'
+      ];
+    }
+
+    // KIDS
+    if (category == 'kids' && level == 'beginner') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+      ];
+    }
+
+    // SPELLING
+    if (category == 'spelling' && level == 'beginner') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+      ];
+    }
+
+    // DEFAULT
+    return ['quiz1'];
+  }
 
   @override
   Widget build(BuildContext context) {
 
-    return Scaffold(
+    final quizzes = getQuizList(category, level);
 
+    return Scaffold(
       appBar: AppBar(
-        title: Text(category),
-        centerTitle: true,
+        title: Text(
+          '${category.toUpperCase()} - ${level.toUpperCase()}',
+        ),
       ),
 
       body: Padding(
         padding: const EdgeInsets.all(16),
 
         child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
 
           children: [
 
-            _buildLevelButton(
-              context,
-              'Beginner',
-              Colors.green,
+            const SizedBox(height: 10),
+
+            Text(
+              'Select Quiz',
+              style: Theme.of(context).textTheme.headlineSmall,
             ),
 
             const SizedBox(height: 20),
 
-            _buildLevelButton(
-              context,
-              'Intermediate',
-              Colors.orange,
-            ),
+            Expanded(
+              child: ListView.builder(
+                itemCount: quizzes.length,
 
-            const SizedBox(height: 20),
+                itemBuilder: (context, index) {
 
-            _buildLevelButton(
-              context,
-              'Advanced',
-              Colors.red,
-            ),
-          ],
-        ),
-      ),
-    );
-  }
+                  final quizNumber = quizzes[index];
 
-  Widget _buildLevelButton(
-      BuildContext context,
-      String level,
-      Color color,
-      ) {
+                  return Card(
+                    elevation: 3,
+                    margin: const EdgeInsets.only(bottom: 12),
 
-    return SizedBox(
+                    child: ListTile(
 
-      width: double.infinity,
-      height: 80,
+                      leading: CircleAvatar(
+                        child: Text('${index + 1}'),
+                      ),
 
-      child: ElevatedButton(
+                      title: Text(
+                        'Quiz ${index + 1}',
+                      ),
 
-        onPressed: () {
+                      trailing: const Icon(
+                        Icons.arrow_forward_ios,
+                      ),
 
-          Navigator.push(
-            context,
+                      onTap: () {
 
-            MaterialPageRoute(
+                        Navigator.push(
+                          context,
 
-              builder: (_) => QuizScreen(
-                category: category,
-                level: level.toLowerCase(),
+                          MaterialPageRoute(
+                            builder: (_) => QuizScreen(
+                              category: category,
+                              level: level,
+                              quizNumber: quizNumber,
+                            ),
+                          ),
+                        );
+                      },
+                    ),
+                  );
+                },
               ),
             ),
-          );
-        },
-
-        style: ElevatedButton.styleFrom(
-          backgroundColor: color,
-
-          shape: RoundedRectangleBorder(
-            borderRadius:
-            BorderRadius.circular(20),
-          ),
-        ),
-
-        child: Text(
-
-          level,
-
-          style: const TextStyle(
-            fontSize: 24,
-            fontWeight:
-            FontWeight.bold,
-            color: Colors.white,
-          ),
+          ],
         ),
       ),
     );

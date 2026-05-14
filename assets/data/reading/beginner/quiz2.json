@@ -1,0 +1,112 @@
+[
+  {
+    "story": "Anna wakes up early every morning. She brushes her teeth, eats breakfast, and walks to school with her friend Lily.",
+    "question": "Who walks to school with Anna?",
+    "options": [
+      "Tom",
+      "Lily",
+      "Emma",
+      "David"
+    ],
+    "answer": "Lily"
+  },
+  {
+    "story": "Michael has a red bicycle. He rides it in the park every evening after dinner.",
+    "question": "What color is Michael's bicycle?",
+    "options": [
+      "Blue",
+      "Green",
+      "Yellow",
+      "Red"
+    ],
+    "answer": "Red"
+  },
+  {
+    "story": "Sophia loves music. She plays the piano every day after school and practices for one hour.",
+    "question": "Which instrument does Sophia play?",
+    "options": [
+      "Guitar",
+      "Violin",
+      "Piano",
+      "Drums"
+    ],
+    "answer": "Piano"
+  },
+  {
+    "story": "Ethan and his father went fishing at the lake. They caught three fish and returned home before sunset.",
+    "question": "Where did Ethan go fishing?",
+    "options": [
+      "Beach",
+      "River",
+      "Lake",
+      "Ocean"
+    ],
+    "answer": "Lake"
+  },
+  {
+    "story": "Olivia likes drawing animals. Her favorite animal to draw is a horse because she thinks horses are beautiful.",
+    "question": "What is Olivia's favorite animal to draw?",
+    "options": [
+      "Dog",
+      "Horse",
+      "Cat",
+      "Elephant"
+    ],
+    "answer": "Horse"
+  },
+  {
+    "story": "Daniel has a small garden behind his house. He grows tomatoes, carrots, and flowers there.",
+    "question": "What does Daniel grow in his garden?",
+    "options": [
+      "Cars",
+      "Books",
+      "Vegetables and flowers",
+      "Furniture"
+    ],
+    "answer": "Vegetables and flowers"
+  },
+  {
+    "story": "Grace went to the bakery with her mother. They bought bread, cupcakes, and cookies.",
+    "question": "Where did Grace go?",
+    "options": [
+      "Library",
+      "School",
+      "Bakery",
+      "Zoo"
+    ],
+    "answer": "Bakery"
+  },
+  {
+    "story": "Noah enjoys watching stars at night. He uses a telescope from his bedroom window.",
+    "question": "What does Noah use to watch stars?",
+    "options": [
+      "Camera",
+      "Microscope",
+      "Telescope",
+      "Phone"
+    ],
+    "answer": "Telescope"
+  },
+  {
+    "story": "Chloe has a pet rabbit named Snowy. Snowy likes eating carrots and sleeping under the table.",
+    "question": "What is Chloe's pet?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Rabbit",
+      "Bird"
+    ],
+    "answer": "Rabbit"
+  },
+  {
+    "story": "Lucas went camping with his family in the mountains. At night, they sat around the fire and told stories.",
+    "question": "Where did Lucas go camping?",
+    "options": [
+      "Beach",
+      "Mountains",
+      "City",
+      "School"
+    ],
+    "answer": "Mountains"
+  }
+]

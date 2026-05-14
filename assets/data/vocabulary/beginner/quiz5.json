@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the meaning of 'lazy'?",
+    "options": ["Not wanting to work", "Very active", "Very smart", "Very happy"],
+    "answer": "Not wanting to work"
+  },
+  {
+    "question": "What is the opposite of 'clean'?",
+    "options": ["Dirty", "Bright", "Pretty", "Quiet"],
+    "answer": "Dirty"
+  },
+  {
+    "question": "What does 'simple' mean?",
+    "options": ["Easy to understand", "Very difficult", "Very loud", "Very expensive"],
+    "answer": "Easy to understand"
+  },
+  {
+    "question": "What is the meaning of 'thirsty'?",
+    "options": ["Wanting water", "Wanting food", "Feeling sleepy", "Feeling angry"],
+    "answer": "Wanting water"
+  },
+  {
+    "question": "What is the opposite of 'far'?",
+    "options": ["Near", "Late", "Wrong", "Slow"],
+    "answer": "Near"
+  },
+  {
+    "question": "What does 'careful' mean?",
+    "options": ["Paying attention", "Very noisy", "Very fast", "Very lazy"],
+    "answer": "Paying attention"
+  },
+  {
+    "question": "What is the meaning of 'rude'?",
+    "options": ["Not polite", "Very kind", "Very smart", "Very quiet"],
+    "answer": "Not polite"
+  },
+  {
+    "question": "What is the opposite of 'remember'?",
+    "options": ["Forget", "Learn", "Study", "Think"],
+    "answer": "Forget"
+  },
+  {
+    "question": "What does 'win' mean?",
+    "options": ["Be successful", "Lose", "Forget", "Sleep"],
+    "answer": "Be successful"
+  },
+  {
+    "question": "What is the meaning of 'teacher'?",
+    "options": ["Person who teaches", "Person who cooks", "Person who drives", "Person who paints"],
+    "answer": "Person who teaches"
+  }
+]

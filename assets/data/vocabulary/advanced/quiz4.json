@@ -1,0 +1,56 @@
+[
+
+
+
+
+  {
+    "question": "What does 'speculate' mean?",
+    "options": ["Guess without complete evidence", "Explain clearly", "Forget intentionally", "Refuse politely"],
+    "answer": "Guess without complete evidence"
+  },
+  {
+    "question": "What is the meaning of 'widespread'?",
+    "options": ["Existing in many places", "Very secret", "Very weak", "Very temporary"],
+    "answer": "Existing in many places"
+  },
+  {
+    "question": "What does 'dominate' mean?",
+    "options": ["Control or influence strongly", "Avoid responsibility", "Speak softly", "Listen carefully"],
+    "answer": "Control or influence strongly"
+  },
+  {
+    "question": "What is the meaning of 'crucial'?",
+    "options": ["Extremely important", "Very optional", "Very confusing", "Very ordinary"],
+    "answer": "Extremely important"
+  },
+  {
+    "question": "What does 'retain' mean?",
+    "options": ["Keep or continue to have", "Throw away immediately", "Destroy completely", "Forget quickly"],
+    "answer": "Keep or continue to have"
+  },
+  {
+    "question": "What is the meaning of 'fluctuate'?",
+    "options": ["Rise and fall irregularly", "Remain completely stable", "Move very slowly", "Break suddenly"],
+    "answer": "Rise and fall irregularly"
+  },
+  {
+    "question": "What does 'infer' mean?",
+    "options": ["Reach a conclusion from evidence", "Travel unexpectedly", "Speak aggressively", "Hide secretly"],
+    "answer": "Reach a conclusion from evidence"
+  },
+  {
+    "question": "What is the meaning of 'obsolete'?",
+    "options": ["No longer useful", "Highly modern", "Very expensive", "Scientifically proven"],
+    "answer": "No longer useful"
+  },
+  {
+    "question": "What does 'reinforce' mean?",
+    "options": ["Strengthen or support", "Destroy completely", "Forget intentionally", "Reduce importance"],
+    "answer": "Strengthen or support"
+  },
+  {
+    "question": "What is the meaning of 'mutual'?",
+    "options": ["Shared by both sides", "Completely independent", "Scientifically impossible", "Very temporary"],
+    "answer": "Shared by both sides"
+  }
+]

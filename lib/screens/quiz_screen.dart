@@ -6,14 +6,18 @@ import '../services/quiz_service.dart';
 import 'result_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
+
+
 class QuizScreen extends StatefulWidget {
   final String category;
   final String level;
+  final String quizNumber;
 
   const QuizScreen({
     super.key,
     required this.category,
     required this.level,
+    required this.quizNumber,
   });
 
   @override
@@ -42,6 +46,7 @@ class _QuizScreenState extends State<QuizScreen> {
     await QuizService.loadQuestions(
       widget.category,
       widget.level,
+      quizNumber: widget.quizNumber,
     );
 
     questions.shuffle();

@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What is the meaning of 'dangerous'?",
+    "options": ["Not safe", "Very clean", "Very small", "Very soft"],
+    "answer": "Not safe"
+  },
+  {
+    "question": "What is the opposite of 'laugh'?",
+    "options": ["Cry", "Smile", "Jump", "Think"],
+    "answer": "Cry"
+  },
+  {
+    "question": "What does 'healthy' mean?",
+    "options": ["Not sick", "Very rich", "Very noisy", "Very late"],
+    "answer": "Not sick"
+  },
+  {
+    "question": "What is the opposite of 'up'?",
+    "options": ["Down", "Over", "Right", "Near"],
+    "answer": "Down"
+  },
+  {
+    "question": "What does 'borrow' mean?",
+    "options": ["Take temporarily", "Give forever", "Throw away", "Hide"],
+    "answer": "Take temporarily"
+  },
+  {
+    "question": "What is the meaning of 'polite'?",
+    "options": ["Respectful", "Rude", "Angry", "Lazy"],
+    "answer": "Respectful"
+  },
+  {
+    "question": "What is the opposite of 'cheap'?",
+    "options": ["Expensive", "Tiny", "Weak", "Sad"],
+    "answer": "Expensive"
+  },
+  {
+    "question": "What does 'travel' mean?",
+    "options": ["Go from place to place", "Sleep", "Study", "Eat"],
+    "answer": "Go from place to place"
+  },
+  {
+    "question": "What is the meaning of 'brave'?",
+    "options": ["Not afraid", "Very tired", "Very weak", "Very cold"],
+    "answer": "Not afraid"
+  },
+  {
+    "question": "What is the opposite of 'love'?",
+    "options": ["Hate", "Like", "Help", "Smile"],
+    "answer": "Hate"
+  },
+  {
+    "question": "What does 'finish' mean?",
+    "options": ["End", "Start", "Build", "Jump"],
+    "answer": "End"
+  }
+
+]

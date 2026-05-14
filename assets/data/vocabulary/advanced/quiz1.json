@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does 'inevitable' mean?",
+    "options": ["Certain to happen", "Very avoidable", "Very dangerous", "Very expensive"],
+    "answer": "Certain to happen"
+  },
+  {
+    "question": "What is the meaning of 'controversial'?",
+    "options": ["Causing disagreement", "Very peaceful", "Very simple", "Very popular"],
+    "answer": "Causing disagreement"
+  },
+  {
+    "question": "What does 'sophisticated' mean?",
+    "options": ["Advanced and refined", "Very weak", "Very cheap", "Very old-fashioned"],
+    "answer": "Advanced and refined"
+  },
+  {
+    "question": "What is the meaning of 'reluctant'?",
+    "options": ["Unwilling", "Very excited", "Very confident", "Very relaxed"],
+    "answer": "Unwilling"
+  },
+  {
+    "question": "What does 'underestimate' mean?",
+    "options": ["Judge as smaller or less important", "Overreact strongly", "Explain clearly", "Completely forget"],
+    "answer": "Judge as smaller or less important"
+  },
+  {
+    "question": "What is the meaning of 'comprehensive'?",
+    "options": ["Complete and detailed", "Very short", "Very confusing", "Very weak"],
+    "answer": "Complete and detailed"
+  },
+  {
+    "question": "What does 'justify' mean?",
+    "options": ["Give a good reason", "Avoid responsibility", "Hide information", "Refuse politely"],
+    "answer": "Give a good reason"
+  },
+  {
+    "question": "What is the opposite of 'flexible'?",
+    "options": ["Rigid", "Gentle", "Bright", "Helpful"],
+    "answer": "Rigid"
+  },
+  {
+    "question": "What does 'allocate' mean?",
+    "options": ["Distribute for a purpose", "Destroy completely", "Hide secretly", "Travel quickly"],
+    "answer": "Distribute for a purpose"
+  },
+  {
+    "question": "What is the meaning of 'persistent'?",
+    "options": ["Continuing despite difficulty", "Very lazy", "Very temporary", "Very careless"],
+    "answer": "Continuing despite difficulty"
+  }
+]

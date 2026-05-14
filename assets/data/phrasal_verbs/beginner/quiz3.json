@@ -1,0 +1,105 @@
+[
+
+
+
+  {
+    "question": "What does 'wake up' mean?",
+    "options": [
+      "Go to sleep",
+      "Stop sleeping",
+      "Eat breakfast",
+      "Turn off lights"
+    ],
+    "answer": "Stop sleeping"
+  },
+  {
+    "question": "What does 'show up' mean?",
+    "options": [
+      "Disappear",
+      "Arrive somewhere",
+      "Go shopping",
+      "Turn around"
+    ],
+    "answer": "Arrive somewhere"
+  },
+  {
+    "question": "What does 'look for' mean?",
+    "options": [
+      "Search for something",
+      "Ignore something",
+      "Break something",
+      "Hide something"
+    ],
+    "answer": "Search for something"
+  },
+  {
+    "question": "What does 'try on' mean?",
+    "options": [
+      "Wear clothes to test them",
+      "Buy clothes",
+      "Wash clothes",
+      "Throw clothes away"
+    ],
+    "answer": "Wear clothes to test them"
+  },
+  {
+    "question": "What does 'bring back' mean?",
+    "options": [
+      "Take away forever",
+      "Return something",
+      "Throw something away",
+      "Hide something"
+    ],
+    "answer": "Return something"
+  },
+  {
+    "question": "What does 'eat out' mean?",
+    "options": [
+      "Cook at home",
+      "Eat at a restaurant",
+      "Skip dinner",
+      "Buy groceries"
+    ],
+    "answer": "Eat at a restaurant"
+  },
+  {
+    "question": "What does 'fill out' mean?",
+    "options": [
+      "Empty a form",
+      "Complete a form",
+      "Close a form",
+      "Throw away paper"
+    ],
+    "answer": "Complete a form"
+  },
+  {
+    "question": "What does 'hang up' mean?",
+    "options": [
+      "Continue a phone call",
+      "End a phone call",
+      "Answer a phone",
+      "Lose a phone"
+    ],
+    "answer": "End a phone call"
+  },
+  {
+    "question": "What does 'sit back' mean?",
+    "options": [
+      "Relax",
+      "Run quickly",
+      "Stand up",
+      "Leave home"
+    ],
+    "answer": "Relax"
+  },
+  {
+    "question": "What does 'walk away' mean?",
+    "options": [
+      "Approach someone",
+      "Leave a situation",
+      "Run fast",
+      "Sit quietly"
+    ],
+    "answer": "Leave a situation"
+  }
+]

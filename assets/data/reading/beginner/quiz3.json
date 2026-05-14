@@ -1,0 +1,60 @@
+[
+
+
+
+  {
+    "story": "Emily loves rainy weather because she enjoys listening to the sound of rain while reading books.",
+    "question": "What does Emily do while it rains?",
+    "options": [
+      "Runs outside",
+      "Reads books",
+      "Swims",
+      "Plays football"
+    ],
+    "answer": "Reads books"
+  },
+  {
+    "story": "Ryan helps his mother cook dinner every evening. He washes vegetables and sets the table.",
+    "question": "How does Ryan help his mother?",
+    "options": [
+      "He cleans the car",
+      "He washes vegetables",
+      "He paints walls",
+      "He waters plants"
+    ],
+    "answer": "He washes vegetables"
+  },
+  {
+    "story": "Ava visited the aquarium during summer vacation. She saw colorful fish, sharks, and sea turtles.",
+    "question": "Where did Ava visit?",
+    "options": [
+      "Zoo",
+      "Aquarium",
+      "Museum",
+      "Library"
+    ],
+    "answer": "Aquarium"
+  },
+  {
+    "story": "Henry likes playing chess with his grandfather on weekends. Sometimes Henry wins the game.",
+    "question": "Who does Henry play chess with?",
+    "options": [
+      "Teacher",
+      "Brother",
+      "Grandfather",
+      "Friend"
+    ],
+    "answer": "Grandfather"
+  },
+  {
+    "story": "Zoe has a collection of storybooks in her room. Her favorite stories are about pirates and treasure islands.",
+    "question": "What kind of stories does Zoe like?",
+    "options": [
+      "Space stories",
+      "Pirate stories",
+      "Science books",
+      "School books"
+    ],
+    "answer": "Pirate stories"
+  }
+]

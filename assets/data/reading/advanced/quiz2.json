@@ -1,0 +1,92 @@
+[
+
+
+  {
+    "story": "For many years, Clara believed multitasking made her more productive. However, after studying productivity research, she realized that constantly switching between tasks reduced both efficiency and concentration.",
+    "question": "What did Clara eventually realize?",
+    "options": [
+      "Multitasking improves concentration",
+      "Switching tasks can reduce productivity",
+      "Research is unnecessary",
+      "Working slowly is always better"
+    ],
+    "answer": "Switching tasks can reduce productivity"
+  },
+  {
+    "story": "The company initially ignored customer complaints about its products. Over time, negative reviews spread online, damaging the company's reputation and reducing sales significantly.",
+    "question": "What caused the company's sales to decrease?",
+    "options": [
+      "Customer loyalty",
+      "Ignoring customer complaints",
+      "Lower advertising costs",
+      "Improved product quality"
+    ],
+    "answer": "Ignoring customer complaints"
+  },
+  {
+    "story": "Olivia noticed that people often became more open-minded after traveling abroad. Experiencing different cultures helped them challenge stereotypes and understand perspectives different from their own.",
+    "question": "According to the passage, what can traveling encourage?",
+    "options": [
+      "Fear of differences",
+      "Open-mindedness",
+      "Isolation",
+      "Avoiding communication"
+    ],
+    "answer": "Open-mindedness"
+  },
+  {
+    "story": "Despite failing several times, Marcus continued working on his invention. Many people doubted him, but he believed persistence was more important than immediate success.",
+    "question": "What quality did Marcus value most?",
+    "options": [
+      "Luck",
+      "Popularity",
+      "Persistence",
+      "Competition"
+    ],
+    "answer": "Persistence"
+  },
+  {
+    "story": "Some experts believe social media has changed the way people communicate. While it allows instant connection across the world, it can also reduce face-to-face interaction.",
+    "question": "What concern about social media is mentioned?",
+    "options": [
+      "It is too expensive",
+      "It reduces face-to-face interaction",
+      "It prevents global communication",
+      "It eliminates technology"
+    ],
+    "answer": "It reduces face-to-face interaction"
+  },
+  {
+    "story": "After years of working in a stressful environment, Ethan realized that financial success meant little if it came at the cost of his mental health and personal happiness.",
+    "question": "What did Ethan learn?",
+    "options": [
+      "Money guarantees happiness",
+      "Mental health is also important",
+      "Stress improves life quality",
+      "Work should replace personal life"
+    ],
+    "answer": "Mental health is also important"
+  },
+  {
+    "story": "The scientist's theory was initially criticized by many experts. Years later, new evidence proved that several of her ideas had been correct all along.",
+    "question": "What eventually happened to the scientist's theory?",
+    "options": [
+      "It was forgotten immediately",
+      "It was proven correct by new evidence",
+      "It became less important",
+      "It was rejected permanently"
+    ],
+    "answer": "It was proven correct by new evidence"
+  },
+  {
+    "story": "Many successful entrepreneurs emphasize the importance of adaptability. Markets, technology, and customer needs constantly change, and businesses that fail to adjust often struggle to survive.",
+    "question": "Why is adaptability important for businesses?",
+    "options": [
+      "Because change is constant",
+      "Because customers never change",
+      "Because technology is unimportant",
+      "Because markets always remain stable"
+    ],
+    "answer": "Because change is constant"
+  }
+]

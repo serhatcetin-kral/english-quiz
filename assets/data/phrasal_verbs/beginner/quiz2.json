@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'get up' mean?",
+    "options": [
+      "Go to sleep",
+      "Stand or rise from bed",
+      "Eat dinner",
+      "Close a book"
+    ],
+    "answer": "Stand or rise from bed"
+  },
+  {
+    "question": "What does 'come back' mean?",
+    "options": [
+      "Leave forever",
+      "Return",
+      "Go shopping",
+      "Turn around"
+    ],
+    "answer": "Return"
+  },
+  {
+    "question": "What does 'put on' mean?",
+    "options": [
+      "Remove clothes",
+      "Wear something",
+      "Open a window",
+      "Drive away"
+    ],
+    "answer": "Wear something"
+  },
+  {
+    "question": "What does 'take off' mean?",
+    "options": [
+      "Wear clothes",
+      "Remove something",
+      "Sit down",
+      "Go inside"
+    ],
+    "answer": "Remove something"
+  },
+  {
+    "question": "What does 'pick up' mean?",
+    "options": [
+      "Drop something",
+      "Lift or collect something",
+      "Go to sleep",
+      "Turn off a light"
+    ],
+    "answer": "Lift or collect something"
+  },
+  {
+    "question": "What does 'slow down' mean?",
+    "options": [
+      "Move faster",
+      "Reduce speed",
+      "Wake up",
+      "Sit quietly"
+    ],
+    "answer": "Reduce speed"
+  },
+  {
+    "question": "What does 'hurry up' mean?",
+    "options": [
+      "Move quickly",
+      "Go slowly",
+      "Read carefully",
+      "Sleep early"
+    ],
+    "answer": "Move quickly"
+  },
+  {
+    "question": "What does 'calm down' mean?",
+    "options": [
+      "Become relaxed",
+      "Become angry",
+      "Run away",
+      "Talk loudly"
+    ],
+    "answer": "Become relaxed"
+  },
+  {
+    "question": "What does 'write down' mean?",
+    "options": [
+      "Erase information",
+      "Record information on paper",
+      "Read aloud",
+      "Open a notebook"
+    ],
+    "answer": "Record information on paper"
+  },
+  {
+    "question": "What does 'clean up' mean?",
+    "options": [
+      "Make something dirty",
+      "Tidy or clean a place",
+      "Close a shop",
+      "Leave home"
+    ],
+    "answer": "Tidy or clean a place"
+  }
+]
