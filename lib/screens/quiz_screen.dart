@@ -250,11 +250,14 @@ class _QuizScreenState extends State<QuizScreen> {
         centerTitle: true,
       ),
 
-      body: Padding(
-        padding:
-        const EdgeInsets.all(16),
+        body: SafeArea(
 
-        child: Column(
+            child: SingleChildScrollView(
+
+              child: Padding(
+                padding: const EdgeInsets.all(16),
+
+                child: Column(
 
           crossAxisAlignment:
           CrossAxisAlignment.stretch,
@@ -349,7 +352,7 @@ class _QuizScreenState extends State<QuizScreen> {
               width: double.infinity,
 
               padding:
-              const EdgeInsets.all(24),
+              const EdgeInsets.all(18),
 
               decoration: BoxDecoration(
                 color:
@@ -461,7 +464,7 @@ class _QuizScreenState extends State<QuizScreen> {
 
                     style: TextStyle(
 
-                      fontSize: 28,
+                      fontSize: 24,
 
                       fontWeight:
                       FontWeight.bold,
@@ -535,7 +538,7 @@ class _QuizScreenState extends State<QuizScreen> {
               );
             }),
 
-            const Spacer(),
+            const SizedBox(height: 20),
 
             Padding(
 
@@ -658,7 +661,8 @@ class _QuizScreenState extends State<QuizScreen> {
             ),
           ],
         ),
-      ),
+      ), )
+        )//burasi
     );
   }
 }
