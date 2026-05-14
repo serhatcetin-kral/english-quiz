@@ -4,6 +4,7 @@ import 'level_screen.dart';
 import 'vocabulary_levels_screen.dart';
 import 'phrasal_verbs_levels_screen.dart';
 import 'reading_levels_screen.dart';
+import 'grammar_levels_screen.dart';
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
@@ -155,6 +156,17 @@ class HomeScreen extends StatelessWidget {
                     MaterialPageRoute(
                       builder: (_) =>
                       const ReadingLevelsScreen(),
+                    ),
+                  );
+                }
+               else if (item['category'] == 'grammar') {
+
+                  Navigator.push(
+                    context,
+
+                    MaterialPageRoute(
+                      builder: (_) =>
+                      const GrammarLevelsScreen(),
                     ),
                   );
                 }

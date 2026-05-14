@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["If I will see him, I will tell him.", "If I see him, I will tell him.", "If I saw him, I tell him.", "If I seeing him, I will tell him."],
+    "answer": "If I see him, I will tell him."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ here since 2020.'",
+    "options": ["lives", "lived", "has lived", "living"],
+    "answer": "has lived"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["I am used to wake up early.", "I am used to waking up early.", "I used waking up early.", "I am use to wake up early."],
+    "answer": "I am used to waking up early."
+  },
+  {
+    "question": "Choose the correct word: 'By next year, they ___ the project.'",
+    "options": ["finish", "finished", "will finish", "will have finished"],
+    "answer": "will have finished"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["He suggested to go home.", "He suggested going home.", "He suggested go home.", "He suggesting going home."],
+    "answer": "He suggested going home."
+  },
+  {
+    "question": "Choose the correct word: 'I wish I ___ taller.'",
+    "options": ["am", "was", "were", "be"],
+    "answer": "were"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["Neither of them are ready.", "Neither of them is ready.", "Neither them is ready.", "Neither of them ready."],
+    "answer": "Neither of them is ready."
+  },
+  {
+    "question": "Choose the correct word: 'This is the book ___ I told you about.'",
+    "options": ["who", "whom", "which", "where"],
+    "answer": "which"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["She has less friends than me.", "She has fewer friends than me.", "She has little friends than me.", "She has smallest friends than me."],
+    "answer": "She has fewer friends than me."
+  },
+  {
+    "question": "Choose the correct word: 'You ___ smoke here.'",
+    "options": ["mustn't", "don't have", "should to", "can to"],
+    "answer": "mustn't"
+  }
+]

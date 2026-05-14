@@ -1,0 +1,53 @@
+[
+
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["Little did she know what awaited her.", "Little she did know what awaited her.", "Little knew she what awaited her.", "Little did know she what awaited her."],
+    "answer": "Little did she know what awaited her."
+  },
+  {
+    "question": "Choose the correct word: 'Had the warning been taken seriously, the disaster ___ avoided.'",
+    "options": ["can have been", "could have been", "could be", "would avoid"],
+    "answer": "could have been"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["So intense was the heat that everyone stayed indoors.", "So was intense the heat that everyone stayed indoors.", "So intense the heat was everyone stayed indoors.", "So intense was heat that everyone stayed indoors."],
+    "answer": "So intense was the heat that everyone stayed indoors."
+  },
+  {
+    "question": "Choose the correct word: 'Only after the presentation ___ the seriousness of the issue.'",
+    "options": ["we understood", "did we understand", "we understand", "understood we"],
+    "answer": "did we understand"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["He speaks as though he were an expert.", "He speaks as though he is an expert.", "He speaks as though he be an expert.", "He speaks as though he was expert."],
+    "answer": "He speaks as though he were an expert."
+  },
+  {
+    "question": "Choose the correct word: 'Seldom ___ such remarkable progress in such a short time.'",
+    "options": ["has there been", "there has been", "there was", "was there"],
+    "answer": "has there been"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["The more you practice, the better you become.", "The more you practice, better you become.", "More you practice, the better you become.", "The more practice you, the better become you."],
+    "answer": "The more you practice, the better you become."
+  },
+  {
+    "question": "Choose the correct word: 'Had it not been for your support, we ___ succeeded.'",
+    "options": ["would never have", "never would", "would not", "had never"],
+    "answer": "would never have"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["It is essential that every member be informed.", "It is essential that every member is informed.", "It is essential every member informed.", "It essential that every member be informed."],
+    "answer": "It is essential that every member be informed."
+  },
+  {
+    "question": "Choose the correct word: 'Under no circumstances ___ confidential information.'",
+    "options": ["you should share", "should you share", "you share should", "share you should"],
+    "answer": "should you share"
+  }
+]

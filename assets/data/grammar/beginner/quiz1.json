@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["She are happy.", "She is happy.", "She am happy.", "She be happy."],
+    "answer": "She is happy."
+  },
+  {
+    "question": "Choose the correct word: 'They ___ students.'",
+    "options": ["is", "am", "are", "be"],
+    "answer": "are"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["I has a book.", "I have a book.", "I having a book.", "I haves a book."],
+    "answer": "I have a book."
+  },
+  {
+    "question": "Choose the correct word: 'He ___ football every day.'",
+    "options": ["play", "plays", "playing", "played"],
+    "answer": "plays"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["We was late.", "We were late.", "We be late.", "We are late yesterday."],
+    "answer": "We were late."
+  },
+  {
+    "question": "Choose the correct article: '___ apple'",
+    "options": ["a", "an", "the", "no article"],
+    "answer": "an"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["She don't like tea.", "She doesn't like tea.", "She not like tea.", "She isn't like tea."],
+    "answer": "She doesn't like tea."
+  },
+  {
+    "question": "Choose the correct word: 'I ___ to school yesterday.'",
+    "options": ["go", "goes", "went", "going"],
+    "answer": "went"
+  },
+  {
+    "question": "Choose the correct plural form.",
+    "options": ["childs", "childes", "children", "childrens"],
+    "answer": "children"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["They is playing.", "They are playing.", "They am playing.", "They playing are."],
+    "answer": "They are playing."
+  }
+]

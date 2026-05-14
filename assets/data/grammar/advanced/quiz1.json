@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["Had I known, I would help.", "Had I known, I would have helped.", "Had I knew, I would have helped.", "Had I known, I helped."],
+    "answer": "Had I known, I would have helped."
+  },
+  {
+    "question": "Choose the correct word: 'Rarely ___ such an impressive performance.'",
+    "options": ["I have seen", "have I seen", "I saw", "I had seen"],
+    "answer": "have I seen"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["The proposal is worth considering.", "The proposal is worth to consider.", "The proposal worth considering.", "The proposal is worth consider."],
+    "answer": "The proposal is worth considering."
+  },
+  {
+    "question": "Choose the correct word: 'Were he ___ earlier, he might have caught the train.'",
+    "options": ["arrive", "arrived", "to arrive", "arriving"],
+    "answer": "to arrive"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["Not until he arrived did we start.", "Not until he arrived we started.", "Not until did he arrive we start.", "Not until he arrived started we."],
+    "answer": "Not until he arrived did we start."
+  },
+  {
+    "question": "Choose the correct word: 'Scarcely ___ the speech begun when the microphone failed.'",
+    "options": ["had", "had the", "had he", "has"],
+    "answer": "had the"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["If only I had listened to you.", "If only I listened to you.", "If only I listen to you.", "If only I would listen to you."],
+    "answer": "If only I had listened to you."
+  },
+  {
+    "question": "Choose the correct word: 'The CEO demanded that the report ___ immediately.'",
+    "options": ["be submitted", "is submitted", "was submitted", "submitted"],
+    "answer": "be submitted"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["No sooner had we left than it started raining.", "No sooner we had left than it started raining.", "No sooner had we leave than it started raining.", "No sooner did we left than it started raining."],
+    "answer": "No sooner had we left than it started raining."
+  },
+  {
+    "question": "Choose the correct word: 'Hardly ever ___ such dedication from employees.'",
+    "options": ["we witness", "do we witness", "we witnessed", "did we witnessed"],
+    "answer": "do we witness"
+  }
+]

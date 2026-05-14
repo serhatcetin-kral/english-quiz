@@ -51,3 +51,6 @@ flutter:
     - assets/data/reading/beginner/
     - assets/data/reading/intermediate/
     - assets/data/reading/advanced/
+    - assets/data/grammar/beginner/
+    - assets/data/grammar/intermediate/
+    - assets/data/grammar/advanced/

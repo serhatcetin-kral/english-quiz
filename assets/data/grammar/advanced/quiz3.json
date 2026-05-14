@@ -1,0 +1,53 @@
+[
+
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["Were it not for your advice, I would fail.", "Were it not for your advice, I would have failed.", "Were not for your advice, I would have failed.", "Were it not your advice, I failed."],
+    "answer": "Were it not for your advice, I would have failed."
+  },
+  {
+    "question": "Choose the correct word: 'Not only ___ the project on time, but it also exceeded expectations.'",
+    "options": ["did they complete", "they completed", "they did complete", "completed they"],
+    "answer": "did they complete"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["Had she studied harder, she passed the exam.", "Had she studied harder, she would pass the exam.", "Had she studied harder, she would have passed the exam.", "Had she study harder, she would have passed the exam."],
+    "answer": "Had she studied harder, she would have passed the exam."
+  },
+  {
+    "question": "Choose the correct word: 'Only when the data was analyzed ___ the true cause of the issue.'",
+    "options": ["did they discover", "they discovered", "they discover", "discover they"],
+    "answer": "did they discover"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["Such was the complexity of the problem that nobody could solve it.", "Such the complexity of the problem was that nobody could solve it.", "Such was complexity the problem that nobody solve it.", "Such complexity was the problem nobody could solve."],
+    "answer": "Such was the complexity of the problem that nobody could solve it."
+  },
+  {
+    "question": "Choose the correct word: 'No sooner ___ the announcement made than the audience reacted strongly.'",
+    "options": ["had been", "was", "had", "did"],
+    "answer": "had been"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["It is high time we leave.", "It is high time we left.", "It is high time we had leave.", "It is high time we are leaving."],
+    "answer": "It is high time we left."
+  },
+  {
+    "question": "Choose the correct word: 'Never before ___ such rapid technological advancement.'",
+    "options": ["has humanity witnessed", "humanity has witnessed", "did humanity witnessed", "humanity witnessed"],
+    "answer": "has humanity witnessed"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["Had I been informed earlier, appropriate measures could have been taken.", "Had I informed earlier, appropriate measures could have been taken.", "Had I been informing earlier, measures could taken.", "Had informed earlier, appropriate measures taken."],
+    "answer": "Had I been informed earlier, appropriate measures could have been taken."
+  },
+  {
+    "question": "Choose the correct word: 'Rarely ___ a leader with such influence and charisma.'",
+    "options": ["we encounter", "do we encounter", "we encountered", "encounter we"],
+    "answer": "do we encounter"
+  }
+]

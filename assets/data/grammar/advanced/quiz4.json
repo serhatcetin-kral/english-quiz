@@ -1,0 +1,54 @@
+[
+
+
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["So successful was the campaign that sales doubled.", "So was successful the campaign that sales doubled.", "So successful the campaign was sales doubled.", "So successful campaign was that sales doubled."],
+    "answer": "So successful was the campaign that sales doubled."
+  },
+  {
+    "question": "Choose the correct word: 'Scarcely ___ the negotiations concluded when new issues emerged.'",
+    "options": ["had", "had the", "had they", "were"],
+    "answer": "had the"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["If he were more disciplined, he might achieve greater success.", "If he was more disciplined, he might achieved greater success.", "If he were disciplined more, he achieve success.", "If disciplined he were, he might success."],
+    "answer": "If he were more disciplined, he might achieve greater success."
+  },
+  {
+    "question": "Choose the correct word: 'Little ___ that the decision would have such consequences.'",
+    "options": ["they realized", "did they realize", "they realize", "realized they"],
+    "answer": "did they realize"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["Were the economy to decline further, unemployment would rise significantly.", "Were the economy decline further, unemployment rise significantly.", "Were economy to decline further, unemployment would rise.", "Were to decline economy further, unemployment would rise."],
+    "answer": "Were the economy to decline further, unemployment would rise significantly."
+  },
+  {
+    "question": "Choose the correct word: 'Under no condition ___ access to restricted files.'",
+    "options": ["employees may gain", "may employees gain", "employees gain may", "gain employees may"],
+    "answer": "may employees gain"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["The proposal, though initially criticized, was eventually approved.", "The proposal though initially criticized was eventually approved.", "Though criticized initially the proposal approved eventually.", "The proposal initially criticized eventually was approved."],
+    "answer": "The proposal, though initially criticized, was eventually approved."
+  },
+  {
+    "question": "Choose the correct word: 'Not until the final chapter ___ the hidden meaning of the story.'",
+    "options": ["did readers understand", "readers understood", "understood readers", "readers did understand"],
+    "answer": "did readers understand"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["Had the instructions been followed correctly, the malfunction could have been prevented.", "Had followed instructions correctly, malfunction prevented.", "Had the instructions followed correctly, malfunction could prevented.", "Had instructions been follow correctly, malfunction prevented."],
+    "answer": "Had the instructions been followed correctly, the malfunction could have been prevented."
+  },
+  {
+    "question": "Choose the correct word: 'Only by working together ___ overcome the crisis effectively.'",
+    "options": ["can we", "we can", "can overcome we", "we overcome can"],
+    "answer": "can we"
+  }
+]

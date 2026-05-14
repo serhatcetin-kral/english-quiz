@@ -1,0 +1,53 @@
+[
+
+  {
+    "question": "Choose the correct article: '___ orange'",
+    "options": ["a", "an", "the", "no article"],
+    "answer": "an"
+  },
+  {
+    "question": "Choose the correct word: 'They ___ at home yesterday.'",
+    "options": ["was", "were", "is", "be"],
+    "answer": "were"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["She likes music.", "She like music.", "She liking music.", "She likeds music."],
+    "answer": "She likes music."
+  },
+  {
+    "question": "Choose the correct word: 'I ___ coffee every morning.'",
+    "options": ["drink", "drinks", "drinking", "dranked"],
+    "answer": "drink"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["We are happy.", "We is happy.", "We am happy.", "We be happy."],
+    "answer": "We are happy."
+  },
+  {
+    "question": "Choose the correct word: 'He ___ English very well.'",
+    "options": ["speak", "speaks", "speaking", "spoken"],
+    "answer": "speaks"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["I don't understand.", "I doesn't understand.", "I not understand.", "I am not understand."],
+    "answer": "I don't understand."
+  },
+  {
+    "question": "Choose the correct word: '___ they ready?'",
+    "options": ["Is", "Are", "Am", "Be"],
+    "answer": "Are"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["She can dance.", "She cans dance.", "She can dances.", "She dancing can."],
+    "answer": "She can dance."
+  },
+  {
+    "question": "Choose the correct word: 'The cat is ___ the table.'",
+    "options": ["on", "in", "at", "to"],
+    "answer": "on"
+  }
+]

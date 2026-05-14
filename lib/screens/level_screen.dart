@@ -81,6 +81,22 @@ class LevelScreen extends StatelessWidget {
         'quiz4',
       ];
     }
+    if (category == 'grammar' && level == 'intermediate') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+      ];
+    }
+    if (category == 'grammar' && level == 'advanced') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+      ];
+    }
 
     // READING
     if (category == 'reading' && level == 'beginner') {

@@ -1,0 +1,53 @@
+[
+
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["She asked me where was I going.", "She asked me where I was going.", "She asked me where am I going.", "She asked me where going I was."],
+    "answer": "She asked me where I was going."
+  },
+  {
+    "question": "Choose the correct word: 'I regret ___ that mistake.'",
+    "options": ["make", "to make", "making", "made"],
+    "answer": "making"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["The work needs to finish.", "The work needs finishing.", "The work need finishing.", "The work needing finishing."],
+    "answer": "The work needs finishing."
+  },
+  {
+    "question": "Choose the correct word: 'He apologized ___ being late.'",
+    "options": ["for", "to", "about", "with"],
+    "answer": "for"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["I'd rather you don't smoke here.", "I'd rather you didn't smoke here.", "I'd rather you not smoked here.", "I'd rather you aren't smoking here."],
+    "answer": "I'd rather you didn't smoke here."
+  },
+  {
+    "question": "Choose the correct word: 'She is capable ___ solving difficult problems.'",
+    "options": ["to", "for", "of", "with"],
+    "answer": "of"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["He let me to borrow his car.", "He let me borrow his car.", "He lets me to borrow his car.", "He letting me borrow his car."],
+    "answer": "He let me borrow his car."
+  },
+  {
+    "question": "Choose the correct word: 'The room ___ before the guests arrived.'",
+    "options": ["cleaned", "had cleaned", "had been cleaned", "was cleaning"],
+    "answer": "had been cleaned"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["I am not used to drive at night.", "I am not used to driving at night.", "I not used to driving at night.", "I used to driving at night."],
+    "answer": "I am not used to driving at night."
+  },
+  {
+    "question": "Choose the correct word: 'You had better ___ careful.'",
+    "options": ["be", "to be", "being", "been"],
+    "answer": "be"
+  }
+]

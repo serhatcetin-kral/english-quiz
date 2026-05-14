@@ -1,0 +1,28 @@
+[
+
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["We went to school.", "We goed to school.", "We go to school yesterday.", "We gone to school."],
+    "answer": "We went to school."
+  },
+  {
+    "question": "Choose the correct word: 'I have ___ umbrella.'",
+    "options": ["a", "an", "the", "no article"],
+    "answer": "an"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["There is a book.", "There are a book.", "There am a book.", "There be a book."],
+    "answer": "There is a book."
+  },
+  {
+    "question": "Choose the correct word: 'My father ___ very hard.'",
+    "options": ["work", "works", "working", "worked"],
+    "answer": "works"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["Do you like pizza?", "Does you like pizza?", "Are you like pizza?", "You do like pizza?"],
+    "answer": "Do you like pizza?"
+  }
+]

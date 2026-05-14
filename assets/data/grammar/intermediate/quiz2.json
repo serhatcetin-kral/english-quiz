@@ -1,0 +1,53 @@
+[
+
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["The movie was bored.", "The movie was boring.", "The movie boring.", "The movie was bore."],
+    "answer": "The movie was boring."
+  },
+  {
+    "question": "Choose the correct word: 'If I ___ more money, I would travel more.'",
+    "options": ["have", "had", "will have", "having"],
+    "answer": "had"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["She denied to steal the money.", "She denied stealing the money.", "She denied steal the money.", "She denying steal the money."],
+    "answer": "She denied stealing the money."
+  },
+  {
+    "question": "Choose the correct word: 'The meeting has been ___ until tomorrow.'",
+    "options": ["cancel", "canceled", "canceling", "cancels"],
+    "answer": "canceled"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["I look forward to meet you.", "I look forward to meeting you.", "I look forward meet you.", "I looking forward meeting you."],
+    "answer": "I look forward to meeting you."
+  },
+  {
+    "question": "Choose the correct word: 'Hardly ___ arrived when it started raining.'",
+    "options": ["I had", "had I", "I have", "have I"],
+    "answer": "had I"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["He is interested on music.", "He is interested in music.", "He interested in music.", "He is interesting in music."],
+    "answer": "He is interested in music."
+  },
+  {
+    "question": "Choose the correct word: 'She ___ dinner when I arrived.'",
+    "options": ["cooks", "cooked", "was cooking", "has cooked"],
+    "answer": "was cooking"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["I have been waiting since two hours.", "I have been waiting for two hours.", "I waiting for two hours.", "I waited since two hours."],
+    "answer": "I have been waiting for two hours."
+  },
+  {
+    "question": "Choose the correct word: 'Not only ___ late, but he also forgot the documents.'",
+    "options": ["he was", "was he", "he is", "is he"],
+    "answer": "was he"
+  }
+]

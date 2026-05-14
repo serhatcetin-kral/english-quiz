@@ -1,0 +1,54 @@
+[
+
+
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["The teacher made us to study.", "The teacher made us study.", "The teacher made us studying.", "The teacher makes us to study."],
+    "answer": "The teacher made us study."
+  },
+  {
+    "question": "Choose the correct word: 'He succeeded ___ passing the exam.'",
+    "options": ["at", "in", "on", "with"],
+    "answer": "in"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["She has gone to Paris last year.", "She went to Paris last year.", "She has been going to Paris last year.", "She gone to Paris last year."],
+    "answer": "She went to Paris last year."
+  },
+  {
+    "question": "Choose the correct word: 'No sooner ___ the meeting started than the fire alarm rang.'",
+    "options": ["had", "had the", "had they", "had the meeting"],
+    "answer": "had the"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["If I knew the answer, I will tell you.", "If I knew the answer, I would tell you.", "If I know the answer, I would tell you.", "If I knowing the answer, I would tell you."],
+    "answer": "If I knew the answer, I would tell you."
+  },
+  {
+    "question": "Choose the correct word: 'She insisted ___ paying for dinner.'",
+    "options": ["on", "at", "to", "with"],
+    "answer": "on"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["The information are useful.", "The information is useful.", "The informations are useful.", "The information useful."],
+    "answer": "The information is useful."
+  },
+  {
+    "question": "Choose the correct word: 'I would rather ___ at home tonight.'",
+    "options": ["stay", "to stay", "staying", "stayed"],
+    "answer": "stay"
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": ["He is one of the smartest students.", "He is one of the most smartest students.", "He is one of smartest students.", "He one of the smartest students."],
+    "answer": "He is one of the smartest students."
+  },
+  {
+    "question": "Choose the correct word: 'She warned me ___ the slippery floor.'",
+    "options": ["about", "for", "with", "to"],
+    "answer": "about"
+  }
+]
