@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which animal says 'Meow'? 🐾",
+    "options": [
+      "🐶 Dog",
+      "🐱 Cat",
+      "🐮 Cow",
+      "🦆 Duck"
+    ],
+    "answer": "🐱 Cat"
+  },
+  {
+    "question": "What color is the sky? ☁️",
+    "options": [
+      "🔵 Blue",
+      "🟢 Green",
+      "🟣 Purple",
+      "⚫ Black"
+    ],
+    "answer": "🔵 Blue"
+  },
+  {
+    "question": "How many legs does a spider have? 🕷️",
+    "options": [
+      "4️⃣",
+      "6️⃣",
+      "8️⃣",
+      "🔟"
+    ],
+    "answer": "8️⃣"
+  },
+  {
+    "question": "Which fruit is yellow? 🍎🍌🍇",
+    "options": [
+      "🍎 Apple",
+      "🍌 Banana",
+      "🍇 Grape",
+      "🍒 Cherry"
+    ],
+    "answer": "🍌 Banana"
+  },
+  {
+    "question": "Which animal is very big and has a trunk? 🐘",
+    "options": [
+      "🐱 Cat",
+      "🐘 Elephant",
+      "🦆 Duck",
+      "🐰 Rabbit"
+    ],
+    "answer": "🐘 Elephant"
+  },
+  {
+    "question": "What do bees make? 🐝",
+    "options": [
+      "🥛 Milk",
+      "🍯 Honey",
+      "🍞 Bread",
+      "🧃 Juice"
+    ],
+    "answer": "🍯 Honey"
+  },
+  {
+    "question": "Which shape has 3 sides? 🔺",
+    "options": [
+      "⚪ Circle",
+      "🟦 Square",
+      "🔺 Triangle",
+      "▭ Rectangle"
+    ],
+    "answer": "🔺 Triangle"
+  },
+  {
+    "question": "Which animal can fly? 🕊️",
+    "options": [
+      "🐟 Fish",
+      "🐦 Bird",
+      "🐶 Dog",
+      "🐮 Cow"
+    ],
+    "answer": "🐦 Bird"
+  },
+  {
+    "question": "What color are strawberries? 🍓",
+    "options": [
+      "🔵 Blue",
+      "🟡 Yellow",
+      "🔴 Red",
+      "🟢 Green"
+    ],
+    "answer": "🔴 Red"
+  },
+  {
+    "question": "Which number comes after 9? 🔢",
+    "options": [
+      "8️⃣",
+      "🔟",
+      "1️⃣1️⃣",
+      "7️⃣"
+    ],
+    "answer": "🔟"
+  }
+]

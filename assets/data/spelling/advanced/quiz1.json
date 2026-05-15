@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["entrepreneur", "enterpreneur", "entreprenuer", "entrepeneur"],
+    "answer": "entrepreneur"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["miscellaneous", "miscellanous", "miscellanious", "miscelaneous"],
+    "answer": "miscellaneous"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["conscientious", "concientious", "consciencious", "consientious"],
+    "answer": "conscientious"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["bureaucracy", "bureacracy", "bureaucry", "burocracy"],
+    "answer": "bureaucracy"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["pronunciation", "pronounciation", "prononciation", "pronunciaton"],
+    "answer": "pronunciation"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["acquaintance", "aquaintance", "acquantance", "acquantence"],
+    "answer": "acquaintance"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["pharmaceutical", "pharmecutical", "pharmeceutical", "pharmaseutical"],
+    "answer": "pharmaceutical"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["rhythm", "rythm", "rhythym", "rhytm"],
+    "answer": "rhythm"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["recommendation", "recomendation", "reccommendation", "recommendasion"],
+    "answer": "recommendation"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["maintenance", "maintainance", "maintenence", "maintnance"],
+    "answer": "maintenance"
+  }
+]

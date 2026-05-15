@@ -1,0 +1,103 @@
+[
+
+  {
+    "question": "What is the center of our solar system? ☀️",
+    "options": [
+      "🌍 Earth",
+      "🌙 Moon",
+      "☀️ Sun",
+      "🪐 Saturn"
+    ],
+    "answer": "☀️ Sun"
+  },
+  {
+    "question": "Which bird is a symbol of peace? 🕊️",
+    "options": [
+      "🦅 Eagle",
+      "🦉 Owl",
+      "🕊️ Dove",
+      "🐧 Penguin"
+    ],
+    "answer": "🕊️ Dove"
+  },
+  {
+    "question": "How many sides does a hexagon have? 🔷",
+    "options": [
+      "4️⃣",
+      "5️⃣",
+      "6️⃣",
+      "7️⃣"
+    ],
+    "answer": "6️⃣"
+  },
+  {
+    "question": "Which animal is the largest in the ocean? 🌊",
+    "options": [
+      "🐬 Dolphin",
+      "🦈 Shark",
+      "🐋 Blue Whale",
+      "🐠 Fish"
+    ],
+    "answer": "🐋 Blue Whale"
+  },
+  {
+    "question": "Which planet is closest to the Sun? ☀️",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What do we call animals that eat only plants? 🌿",
+    "options": [
+      "Carnivores",
+      "Herbivores",
+      "Omnivores",
+      "Predators"
+    ],
+    "answer": "Herbivores"
+  },
+  {
+    "question": "Which instrument measures temperature? 🌡️",
+    "options": [
+      "📏 Ruler",
+      "🌡️ Thermometer",
+      "⏰ Clock",
+      "⚖️ Scale"
+    ],
+    "answer": "🌡️ Thermometer"
+  },
+  {
+    "question": "Which natural disaster spins very fast? 🌪️",
+    "options": [
+      "🌧️ Rain",
+      "🌪️ Tornado",
+      "☀️ Sunlight",
+      "❄️ Snow"
+    ],
+    "answer": "🌪️ Tornado"
+  },
+  {
+    "question": "Which animal can mimic human speech? 🦜",
+    "options": [
+      "🦜 Parrot",
+      "🐻 Bear",
+      "🐘 Elephant",
+      "🐢 Turtle"
+    ],
+    "answer": "🦜 Parrot"
+  },
+  {
+    "question": "What is the hardest natural substance? 💎",
+    "options": [
+      "🪵 Wood",
+      "🪨 Stone",
+      "💎 Diamond",
+      "🧊 Ice"
+    ],
+    "answer": "💎 Diamond"
+  }
+]

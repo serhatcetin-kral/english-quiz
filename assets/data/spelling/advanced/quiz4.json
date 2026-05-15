@@ -1,0 +1,54 @@
+[
+
+
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["recommendable", "recomendable", "reccommendable", "recommendible"],
+    "answer": "recommendable"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["perseverance", "perseverence", "perserverance", "persaverance"],
+    "answer": "perseverance"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["irresistible", "irresistable", "iresistible", "irresisteble"],
+    "answer": "irresistible"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["entrepreneurship", "entrepenurship", "enterpreneurship", "entreprenuership"],
+    "answer": "entrepreneurship"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["bureaucratic", "bureacratic", "bureaucratick", "burocratic"],
+    "answer": "bureaucratic"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["questionnaire", "questionaire", "questionnare", "questioneer"],
+    "answer": "questionnaire"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["unpredictable", "unpredicteble", "unpredictible", "unprediktable"],
+    "answer": "unpredictable"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["miscellaneous", "miscellanious", "miscelaneous", "miscelleneous"],
+    "answer": "miscellaneous"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["simultaneously", "simultaniously", "simultanously", "simulteneously"],
+    "answer": "simultaneously"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["entrepreneurially", "enterpreneurially", "entreprenuerially", "entrepeneurially"],
+    "answer": "entrepreneurially"
+  }
+]

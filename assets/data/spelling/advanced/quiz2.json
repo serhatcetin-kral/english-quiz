@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["embarrassment", "embarassment", "embarrasment", "embarresment"],
+    "answer": "embarrassment"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["millennium", "millenium", "milennium", "milleniumm"],
+    "answer": "millennium"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["questionnaire", "questionaire", "questionnair", "questioneer"],
+    "answer": "questionnaire"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["entrepreneurship", "enterpreneurship", "entreprenuership", "entrepenurship"],
+    "answer": "entrepreneurship"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["surveillance", "survelance", "surveilance", "survailance"],
+    "answer": "surveillance"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["extraordinary", "extraordenary", "extrordinary", "extraodinary"],
+    "answer": "extraordinary"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["psychology", "psycology", "sychology", "psychologie"],
+    "answer": "psychology"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["privilege", "privelege", "priviledge", "privilige"],
+    "answer": "privilege"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["hierarchy", "heirarchy", "hierachy", "hairarchy"],
+    "answer": "hierarchy"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["unnecessary", "unnecesary", "unnesessary", "unnecessery"],
+    "answer": "unnecessary"
+  }
+]

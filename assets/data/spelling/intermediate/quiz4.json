@@ -1,0 +1,54 @@
+[
+
+
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["competition", "competetion", "compitition", "competision"],
+    "answer": "competition"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["immediately", "immediatly", "imediately", "immidiately"],
+    "answer": "immediately"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["description", "discription", "descrption", "descripshun"],
+    "answer": "description"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["photograph", "fotograph", "photograf", "photoograph"],
+    "answer": "photograph"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["technology", "technolgy", "tecnology", "technologie"],
+    "answer": "technology"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["understand", "understant", "undarstand", "understend"],
+    "answer": "understand"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["scientist", "scienctist", "scientest", "sientist"],
+    "answer": "scientist"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["information", "infromation", "informasion", "informetion"],
+    "answer": "information"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["electricity", "electrisity", "electrcity", "electrecity"],
+    "answer": "electricity"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["newspaper", "newspapper", "newzpaper", "newspper"],
+    "answer": "newspaper"
+  }
+]

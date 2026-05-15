@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which food do cows eat? 🌱",
+    "options": [
+      "🍖 Meat",
+      "🌱 Grass",
+      "🍫 Chocolate",
+      "🍕 Pizza"
+    ],
+    "answer": "🌱 Grass"
+  },
+  {
+    "question": "What do we use to brush our teeth? 🪥",
+    "options": [
+      "🖊️ Pen",
+      "🪥 Toothbrush",
+      "🍴 Fork",
+      "🧸 Toy"
+    ],
+    "answer": "🪥 Toothbrush"
+  },
+  {
+    "question": "Which animal is famous for its black and white stripes? 🦓",
+    "options": [
+      "🐯 Tiger",
+      "🦓 Zebra",
+      "🐘 Elephant",
+      "🐫 Camel"
+    ],
+    "answer": "🦓 Zebra"
+  },
+  {
+    "question": "What is the opposite of hot? 🌡️",
+    "options": [
+      "🔥 Warm",
+      "❄️ Cold",
+      "☀️ Bright",
+      "🌪️ Windy"
+    ],
+    "answer": "❄️ Cold"
+  },
+  {
+    "question": "Which object can float in the sky? 🎈",
+    "options": [
+      "🚗 Car",
+      "🎈 Balloon",
+      "📚 Book",
+      "🪑 Chair"
+    ],
+    "answer": "🎈 Balloon"
+  },
+  {
+    "question": "Which animal has very long ears? 🐰",
+    "options": [
+      "🐰 Rabbit",
+      "🐻 Bear",
+      "🐶 Dog",
+      "🐱 Cat"
+    ],
+    "answer": "🐰 Rabbit"
+  },
+  {
+    "question": "What do firefighters use to stop fires? 🚒",
+    "options": [
+      "🔥 Fire",
+      "💧 Water",
+      "🌪️ Wind",
+      "☁️ Clouds"
+    ],
+    "answer": "💧 Water"
+  },
+  {
+    "question": "Which fruit grows on palm trees? 🌴",
+    "options": [
+      "🍎 Apple",
+      "🥥 Coconut",
+      "🍓 Strawberry",
+      "🍇 Grape"
+    ],
+    "answer": "🥥 Coconut"
+  },
+  {
+    "question": "What do we call a baby cat? 🐱",
+    "options": [
+      "🐶 Puppy",
+      "🐱 Kitten",
+      "🐻 Cub",
+      "🐣 Chick"
+    ],
+    "answer": "🐱 Kitten"
+  },
+  {
+    "question": "Which animal is the tallest? 🦒",
+    "options": [
+      "🐘 Elephant",
+      "🦒 Giraffe",
+      "🐎 Horse",
+      "🐻 Bear"
+    ],
+    "answer": "🦒 Giraffe"
+  }
+]

@@ -1,0 +1,104 @@
+[
+
+
+  {
+    "question": "Which animal likes carrots? 🥕",
+    "options": [
+      "🐰 Rabbit",
+      "🐶 Dog",
+      "🐱 Cat",
+      "🐻 Bear"
+    ],
+    "answer": "🐰 Rabbit"
+  },
+  {
+    "question": "What do we wear on our feet? 👣",
+    "options": [
+      "🧢 Hat",
+      "👟 Shoes",
+      "🧤 Gloves",
+      "🕶️ Glasses"
+    ],
+    "answer": "👟 Shoes"
+  },
+  {
+    "question": "Which animal is black and white? 🐼",
+    "options": [
+      "🐯 Tiger",
+      "🐼 Panda",
+      "🦁 Lion",
+      "🐵 Monkey"
+    ],
+    "answer": "🐼 Panda"
+  },
+  {
+    "question": "What do we use to tell time? ⏰",
+    "options": [
+      "📚 Book",
+      "🕰️ Clock",
+      "🍽️ Plate",
+      "🧸 Toy"
+    ],
+    "answer": "🕰️ Clock"
+  },
+  {
+    "question": "Which animal can swing in trees? 🌴",
+    "options": [
+      "🐵 Monkey",
+      "🐘 Elephant",
+      "🐟 Fish",
+      "🐰 Rabbit"
+    ],
+    "answer": "🐵 Monkey"
+  },
+  {
+    "question": "What color is grass? 🌱",
+    "options": [
+      "🔴 Red",
+      "🟢 Green",
+      "🔵 Blue",
+      "⚫ Black"
+    ],
+    "answer": "🟢 Green"
+  },
+  {
+    "question": "Which animal has stripes? 🐯",
+    "options": [
+      "🐼 Panda",
+      "🐯 Tiger",
+      "🐶 Dog",
+      "🐵 Monkey"
+    ],
+    "answer": "🐯 Tiger"
+  },
+  {
+    "question": "Which food is sweet? 🍭",
+    "options": [
+      "🍭 Candy",
+      "🍋 Lemon",
+      "🥦 Broccoli",
+      "🌶️ Pepper"
+    ],
+    "answer": "🍭 Candy"
+  },
+  {
+    "question": "Which object gives light at night? 🌙",
+    "options": [
+      "💡 Lamp",
+      "📚 Book",
+      "🍎 Apple",
+      "🪑 Chair"
+    ],
+    "answer": "💡 Lamp"
+  },
+  {
+    "question": "Which animal has a shell? 🐢",
+    "options": [
+      "🐢 Turtle",
+      "🐰 Rabbit",
+      "🐶 Dog",
+      "🦁 Lion"
+    ],
+    "answer": "🐢 Turtle"
+  }
+]

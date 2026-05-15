@@ -1,0 +1,53 @@
+[
+
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["question", "quastion", "queston", "queshtion"],
+    "answer": "question"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["computer", "computar", "comupter", "compyuter"],
+    "answer": "computer"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["animal", "animel", "anemal", "annimal"],
+    "answer": "animal"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["doctor", "docter", "docktor", "doctar"],
+    "answer": "doctor"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["window", "windo", "windaw", "windoe"],
+    "answer": "window"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["holiday", "hollyday", "holidai", "holyday"],
+    "answer": "holiday"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["kitchen", "kithcen", "kichen", "kittchen"],
+    "answer": "kitchen"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["student", "studant", "stundent", "studint"],
+    "answer": "student"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["library", "libary", "librery", "librarry"],
+    "answer": "library"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["minute", "minite", "minut", "mynute"],
+    "answer": "minute"
+  }
+]

@@ -1,0 +1,54 @@
+[
+
+
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["independent", "independant", "independet", "indipendent"],
+    "answer": "independent"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["businessman", "buisnessman", "businesman", "bussinessman"],
+    "answer": "businessman"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["education", "eduction", "educasion", "educetion"],
+    "answer": "education"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["schedule", "shedule", "scehdule", "schedul"],
+    "answer": "schedule"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["important", "importent", "improtand", "imporant"],
+    "answer": "important"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["responsible", "responsable", "responsibel", "responcible"],
+    "answer": "responsible"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["conversation", "conversasion", "converstation", "convorsation"],
+    "answer": "conversation"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["dictionary", "dictionery", "dictionarry", "dictonary"],
+    "answer": "dictionary"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["advertisement", "advertisment", "advertizement", "adverticement"],
+    "answer": "advertisement"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["community", "commiunity", "comunnity", "communitty"],
+    "answer": "community"
+  }
+]

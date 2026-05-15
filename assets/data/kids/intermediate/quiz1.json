@@ -1,0 +1,102 @@
+[
+{
+  "question": "Which planet do we live on? 🌍",
+  "options": [
+    "🪐 Saturn",
+    "🌍 Earth",
+    "🔴 Mars",
+    "☀️ Sun"
+  ],
+  "answer": "🌍 Earth"
+},
+{
+"question": "Which animal is the fastest? ⚡",
+"options": [
+"🐢 Turtle",
+"🐆 Cheetah",
+"🐘 Elephant",
+"🐰 Rabbit"
+],
+"answer": "🐆 Cheetah"
+},
+{
+"question": "How many days are in a week? 📅",
+"options": [
+"5️⃣",
+"6️⃣",
+"7️⃣",
+"8️⃣"
+],
+"answer": "7️⃣"
+},
+{
+"question": "Which animal lives in Antarctica? ❄️",
+"options": [
+"🐫 Camel",
+"🐧 Penguin",
+"🦁 Lion",
+"🐒 Monkey"
+],
+"answer": "🐧 Penguin"
+},
+{
+"question": "Which shape has 4 equal sides? 🟦",
+"options": [
+"⚪ Circle",
+"🔺 Triangle",
+"🟦 Square",
+"⭐ Star"
+],
+"answer": "🟦 Square"
+},
+{
+"question": "What do plants need to grow? 🌱",
+"options": [
+"☀️ Sunlight",
+"📱 Phones",
+"🎮 Games",
+"🚗 Cars"
+],
+"answer": "☀️ Sunlight"
+},
+{
+"question": "Which animal gives us milk? 🥛",
+"options": [
+"🐮 Cow",
+"🐟 Fish",
+"🦆 Duck",
+"🐱 Cat"
+],
+"answer": "🐮 Cow"
+},
+{
+"question": "Which is the largest ocean? 🌊",
+"options": [
+"Atlantic",
+"Indian",
+"Pacific",
+"Arctic"
+],
+"answer": "Pacific"
+},
+{
+"question": "Which season is coldest? ❄️",
+"options": [
+"🌸 Spring",
+"☀️ Summer",
+"🍂 Autumn",
+"❄️ Winter"
+],
+"answer": "❄️ Winter"
+},
+{
+"question": "How many hours are in one day? ⏰",
+"options": [
+"1️⃣2️⃣",
+"2️⃣0️⃣",
+"2️⃣4️⃣",
+"3️⃣0️⃣"
+],
+"answer": "2️⃣4️⃣"
+}
+  ]

@@ -1,0 +1,54 @@
+[
+
+
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["acknowledgment", "acknowledgement", "acknowlegment", "acknolwedgment"],
+    "answer": "acknowledgment"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["liaison", "liason", "liazan", "liasen"],
+    "answer": "liaison"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["camouflage", "camoflage", "camouflage", "camoflauge"],
+    "answer": "camouflage"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["indispensable", "indespensable", "indispensible", "indispenable"],
+    "answer": "indispensable"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["supersede", "supercede", "supersceed", "superseede"],
+    "answer": "supersede"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["occurrence", "occurence", "occurrance", "ocurrence"],
+    "answer": "occurrence"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["convenience", "convienence", "convinience", "conveniance"],
+    "answer": "convenience"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["exaggeration", "exagerration", "exageration", "exaggerasion"],
+    "answer": "exaggeration"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["entrepreneurial", "enterpreneurial", "entreprenuerial", "entrepeneurial"],
+    "answer": "entrepreneurial"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["eccentric", "ecentric", "eccenttric", "exentric"],
+    "answer": "eccentric"
+  }
+]

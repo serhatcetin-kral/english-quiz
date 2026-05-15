@@ -1,5 +1,7 @@
+import 'package:english_quiz/screens/spelling_levels_screen.dart';
 import 'package:flutter/material.dart';
 
+import 'kids_levels_screen.dart';
 import 'level_screen.dart';
 import 'vocabulary_levels_screen.dart';
 import 'phrasal_verbs_levels_screen.dart';
@@ -167,6 +169,28 @@ class HomeScreen extends StatelessWidget {
                     MaterialPageRoute(
                       builder: (_) =>
                       const GrammarLevelsScreen(),
+                    ),
+                  );
+                }
+                else if (item['category'] == 'kids') {
+
+                  Navigator.push(
+                    context,
+
+                    MaterialPageRoute(
+                      builder: (_) =>
+                      const KidsLevelsScreen(),
+                    ),
+                  );
+                }
+                else if (item['category'] == 'spelling') {
+
+                  Navigator.push(
+                    context,
+
+                    MaterialPageRoute(
+                      builder: (_) =>
+                      const SpellingLevelsScreen(),
                     ),
                   );
                 }

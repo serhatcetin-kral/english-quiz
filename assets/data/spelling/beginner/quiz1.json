@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["becaus", "because", "becouse", "beacause"],
+    "answer": "because"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["freind", "friend", "frend", "freend"],
+    "answer": "friend"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["beautiful", "beautifull", "beutiful", "beautyful"],
+    "answer": "beautiful"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["langauge", "language", "languge", "langage"],
+    "answer": "language"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["school", "scholl", "scool", "schol"],
+    "answer": "school"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["famly", "family", "familey", "familey"],
+    "answer": "family"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["different", "diffrent", "diferent", "differant"],
+    "answer": "different"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["important", "importent", "improtand", "imporant"],
+    "answer": "important"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["night", "nite", "niight", "nigt"],
+    "answer": "night"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["people", "peeple", "peaple", "pepole"],
+    "answer": "people"
+  }
+]

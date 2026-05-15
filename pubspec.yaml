@@ -54,3 +54,9 @@ flutter:
     - assets/data/grammar/beginner/
     - assets/data/grammar/intermediate/
     - assets/data/grammar/advanced/
+    - assets/data/kids/beginner/
+    - assets/data/kids/intermediate/
+    - assets/data/kids/advanced/
+    - assets/data/spelling/beginner/
+    - assets/data/spelling/intermediate/
+    - assets/data/spelling/advanced/

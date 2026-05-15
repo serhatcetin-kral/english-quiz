@@ -1,0 +1,103 @@
+[
+
+  {
+    "question": "Which animal says 'Moo'? 🐄",
+    "options": [
+      "🐱 Cat",
+      "🐶 Dog",
+      "🐮 Cow",
+      "🐸 Frog"
+    ],
+    "answer": "🐮 Cow"
+  },
+  {
+    "question": "Which animal jumps and says 'Ribbit'? 🐸",
+    "options": [
+      "🐰 Rabbit",
+      "🐸 Frog",
+      "🐵 Monkey",
+      "🦁 Lion"
+    ],
+    "answer": "🐸 Frog"
+  },
+  {
+    "question": "Which fruit is red? 🍎",
+    "options": [
+      "🍌 Banana",
+      "🍎 Apple",
+      "🥝 Kiwi",
+      "🍇 Grape"
+    ],
+    "answer": "🍎 Apple"
+  },
+  {
+    "question": "Which animal is called the king of the jungle? 🦁",
+    "options": [
+      "🐱 Cat",
+      "🐘 Elephant",
+      "🦁 Lion",
+      "🐻 Bear"
+    ],
+    "answer": "🦁 Lion"
+  },
+  {
+    "question": "Which shape is round? ⚪",
+    "options": [
+      "🔺 Triangle",
+      "⚪ Circle",
+      "🟦 Square",
+      "▭ Rectangle"
+    ],
+    "answer": "⚪ Circle"
+  },
+  {
+    "question": "Which animal swims in the ocean? 🌊",
+    "options": [
+      "🐟 Fish",
+      "🐶 Dog",
+      "🐱 Cat",
+      "🐰 Rabbit"
+    ],
+    "answer": "🐟 Fish"
+  },
+  {
+    "question": "What color is a banana? 🍌",
+    "options": [
+      "🔴 Red",
+      "🟢 Green",
+      "🟡 Yellow",
+      "🔵 Blue"
+    ],
+    "answer": "🟡 Yellow"
+  },
+  {
+    "question": "Which animal has a long neck? 🦒",
+    "options": [
+      "🐘 Elephant",
+      "🦒 Giraffe",
+      "🐻 Bear",
+      "🐷 Pig"
+    ],
+    "answer": "🦒 Giraffe"
+  },
+  {
+    "question": "Which vehicle flies in the sky? ✈️",
+    "options": [
+      "🚗 Car",
+      "🚲 Bicycle",
+      "✈️ Airplane",
+      "🚂 Train"
+    ],
+    "answer": "✈️ Airplane"
+  },
+  {
+    "question": "Which number is bigger? 🔢",
+    "options": [
+      "2️⃣",
+      "5️⃣",
+      "9️⃣",
+      "4️⃣"
+    ],
+    "answer": "9️⃣"
+  }
+]

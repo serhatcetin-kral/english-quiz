@@ -1,0 +1,104 @@
+[
+
+
+  {
+    "question": "Which animal is known as man's best friend? 🐾",
+    "options": [
+      "🐱 Cat",
+      "🐶 Dog",
+      "🐰 Rabbit",
+      "🐻 Bear"
+    ],
+    "answer": "🐶 Dog"
+  },
+  {
+    "question": "What do we call water falling from clouds? ☁️",
+    "options": [
+      "🔥 Fire",
+      "🌧️ Rain",
+      "❄️ Snow",
+      "🌪️ Wind"
+    ],
+    "answer": "🌧️ Rain"
+  },
+  {
+    "question": "Which animal can change colors? 🦎",
+    "options": [
+      "🐘 Elephant",
+      "🦎 Chameleon",
+      "🐻 Bear",
+      "🐟 Fish"
+    ],
+    "answer": "🦎 Chameleon"
+  },
+  {
+    "question": "What is 5 + 3? ➕",
+    "options": [
+      "6️⃣",
+      "7️⃣",
+      "8️⃣",
+      "9️⃣"
+    ],
+    "answer": "8️⃣"
+  },
+  {
+    "question": "Which planet is the biggest? 🪐",
+    "options": [
+      "Mars",
+      "Earth",
+      "Jupiter",
+      "Venus"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which animal sleeps upside down? 🦇",
+    "options": [
+      "🐒 Monkey",
+      "🦇 Bat",
+      "🐢 Turtle",
+      "🐘 Elephant"
+    ],
+    "answer": "🦇 Bat"
+  },
+  {
+    "question": "What do we use to cut paper? ✂️",
+    "options": [
+      "🖍️ Crayon",
+      "✂️ Scissors",
+      "📚 Book",
+      "🧸 Toy"
+    ],
+    "answer": "✂️ Scissors"
+  },
+  {
+    "question": "Which season comes after summer? 🍂",
+    "options": [
+      "🌸 Spring",
+      "❄️ Winter",
+      "🍂 Autumn",
+      "☀️ Summer"
+    ],
+    "answer": "🍂 Autumn"
+  },
+  {
+    "question": "How many wheels does a bicycle have? 🚲",
+    "options": [
+      "1️⃣",
+      "2️⃣",
+      "3️⃣",
+      "4️⃣"
+    ],
+    "answer": "2️⃣"
+  },
+  {
+    "question": "Which animal has a pouch? 🦘",
+    "options": [
+      "🐯 Tiger",
+      "🦘 Kangaroo",
+      "🐻 Bear",
+      "🐼 Panda"
+    ],
+    "answer": "🦘 Kangaroo"
+  }
+]

@@ -1,0 +1,53 @@
+[
+
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["adress", "address", "adres", "addres"],
+    "answer": "address"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["tomorow", "tomorrow", "tommorow", "tommorra"],
+    "answer": "tomorrow"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["banana", "bananna", "bannana", "banena"],
+    "answer": "banana"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["weather", "wether", "weither", "waether"],
+    "answer": "weather"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["country", "cuntry", "countrey", "contry"],
+    "answer": "country"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["teacher", "techer", "teachar", "teatcher"],
+    "answer": "teacher"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["morning", "mornning", "mornig", "morneeng"],
+    "answer": "morning"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["message", "mesage", "messaje", "messige"],
+    "answer": "message"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["hospital", "hospitel", "hopsital", "hospetal"],
+    "answer": "hospital"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["picture", "pictur", "pictture", "pickture"],
+    "answer": "picture"
+  }
+]

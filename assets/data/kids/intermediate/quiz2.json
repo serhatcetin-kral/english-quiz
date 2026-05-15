@@ -1,0 +1,103 @@
+[
+
+  {
+    "question": "Which animal has black spots? 🐄",
+    "options": [
+      "🐄 Cow",
+      "🐘 Elephant",
+      "🐟 Fish",
+      "🐰 Rabbit"
+    ],
+    "answer": "🐄 Cow"
+  },
+  {
+    "question": "What do we use to see distant stars? 🔭",
+    "options": [
+      "📱 Phone",
+      "🔭 Telescope",
+      "🎧 Headphones",
+      "📚 Book"
+    ],
+    "answer": "🔭 Telescope"
+  },
+  {
+    "question": "Which bird cannot fly? 🐦",
+    "options": [
+      "🦅 Eagle",
+      "🐧 Penguin",
+      "🕊️ Dove",
+      "🦜 Parrot"
+    ],
+    "answer": "🐧 Penguin"
+  },
+  {
+    "question": "Which gas do humans breathe? 🌬️",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Smoke",
+      "Steam"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is frozen water called? 🧊",
+    "options": [
+      "🔥 Fire",
+      "🧊 Ice",
+      "☁️ Cloud",
+      "🌫️ Fog"
+    ],
+    "answer": "🧊 Ice"
+  },
+  {
+    "question": "Which animal is known for building dams? 🌊",
+    "options": [
+      "🦫 Beaver",
+      "🐯 Tiger",
+      "🐵 Monkey",
+      "🐢 Turtle"
+    ],
+    "answer": "🦫 Beaver"
+  },
+  {
+    "question": "Which instrument has black and white keys? 🎹",
+    "options": [
+      "🥁 Drum",
+      "🎸 Guitar",
+      "🎹 Piano",
+      "🎺 Trumpet"
+    ],
+    "answer": "🎹 Piano"
+  },
+  {
+    "question": "What do caterpillars become? 🐛",
+    "options": [
+      "🦋 Butterflies",
+      "🐍 Snakes",
+      "🐦 Birds",
+      "🐠 Fish"
+    ],
+    "answer": "🦋 Butterflies"
+  },
+  {
+    "question": "Which planet is called the Red Planet? 🔴",
+    "options": [
+      "Mars",
+      "Earth",
+      "Venus",
+      "Jupiter"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "What do we call baby dogs? 🐶",
+    "options": [
+      "🐣 Chicks",
+      "🐶 Puppies",
+      "🐱 Kittens",
+      "🐻 Cubs"
+    ],
+    "answer": "🐶 Puppies"
+  }
+]

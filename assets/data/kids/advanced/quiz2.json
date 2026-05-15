@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which planet has rings around it? 🪐",
+    "options": [
+      "🌍 Earth",
+      "🔴 Mars",
+      "🪐 Saturn",
+      "☀️ Sun"
+    ],
+    "answer": "🪐 Saturn"
+  },
+  {
+    "question": "What is the largest land animal? 🐘",
+    "options": [
+      "🦒 Giraffe",
+      "🐘 Elephant",
+      "🦏 Rhino",
+      "🐫 Camel"
+    ],
+    "answer": "🐘 Elephant"
+  },
+  {
+    "question": "Which ocean is the biggest? 🌊",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "answer": "Pacific"
+  },
+  {
+    "question": "What do pandas mainly eat? 🐼",
+    "options": [
+      "🍖 Meat",
+      "🌿 Bamboo",
+      "🍎 Apples",
+      "🐟 Fish"
+    ],
+    "answer": "🌿 Bamboo"
+  },
+  {
+    "question": "How many continents are there? 🌍",
+    "options": [
+      "5️⃣",
+      "6️⃣",
+      "7️⃣",
+      "8️⃣"
+    ],
+    "answer": "7️⃣"
+  },
+  {
+    "question": "Which animal can live both in water and on land? 🐸",
+    "options": [
+      "🐠 Fish",
+      "🐸 Frog",
+      "🦅 Eagle",
+      "🐫 Camel"
+    ],
+    "answer": "🐸 Frog"
+  },
+  {
+    "question": "Which organ pumps blood through the body? ❤️",
+    "options": [
+      "🧠 Brain",
+      "❤️ Heart",
+      "🫁 Lungs",
+      "🦴 Bones"
+    ],
+    "answer": "❤️ Heart"
+  },
+  {
+    "question": "Which gas do plants produce? 🌱",
+    "options": [
+      "Carbon dioxide",
+      "Smoke",
+      "Oxygen",
+      "Steam"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the freezing point of water? 🧊",
+    "options": [
+      "0°C",
+      "50°C",
+      "100°C",
+      "200°C"
+    ],
+    "answer": "0°C"
+  },
+  {
+    "question": "Which animal is known for changing its colors? 🦎",
+    "options": [
+      "🦎 Chameleon",
+      "🐻 Bear",
+      "🐘 Elephant",
+      "🐟 Fish"
+    ],
+    "answer": "🦎 Chameleon"
+  }
+]

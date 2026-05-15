@@ -1,0 +1,54 @@
+[
+
+
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["problem", "problam", "proplem", "probelm"],
+    "answer": "problem"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["science", "sciense", "sience", "sceince"],
+    "answer": "science"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["station", "stasion", "staition", "stetion"],
+    "answer": "station"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["vacation", "vacasion", "vacashun", "vacetion"],
+    "answer": "vacation"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["business", "buisness", "busines", "bussines"],
+    "answer": "business"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["favorite", "favouritee", "favorit", "favarite"],
+    "answer": "favorite"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["restaurant", "resturant", "restorant", "restaraunt"],
+    "answer": "restaurant"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["mountain", "mountin", "moutain", "mountane"],
+    "answer": "mountain"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["elephant", "elefant", "elliphant", "elephent"],
+    "answer": "elephant"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["bicycle", "bicicle", "bisycle", "bycycle"],
+    "answer": "bicycle"
+  }
+]

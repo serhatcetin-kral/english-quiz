@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["restaurant", "restaraunt", "resturant", "restorant"],
+    "answer": "restaurant"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["embarrass", "embarass", "embarras", "embarres"],
+    "answer": "embarrass"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["pronunciation", "pronounciation", "prononciation", "pronuncation"],
+    "answer": "pronunciation"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["committee", "comittee", "commitee", "comitte"],
+    "answer": "committee"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["temperature", "temprature", "tempereture", "temparature"],
+    "answer": "temperature"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["occasionally", "ocasionally", "occasionnally", "ocasionaly"],
+    "answer": "occasionally"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["language", "langauge", "languge", "langage"],
+    "answer": "language"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["opportunity", "oppurtunity", "oportunity", "oppotunity"],
+    "answer": "opportunity"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["achievement", "acheivement", "achievment", "acheivment"],
+    "answer": "achievement"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["available", "avaliable", "availible", "availlable"],
+    "answer": "available"
+  }
+]

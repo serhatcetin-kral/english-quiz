@@ -1,0 +1,104 @@
+[
+
+
+  {
+    "question": "Which part of the body helps us breathe? 🫁",
+    "options": [
+      "❤️ Heart",
+      "🧠 Brain",
+      "🫁 Lungs",
+      "🦴 Bones"
+    ],
+    "answer": "🫁 Lungs"
+  },
+  {
+    "question": "Which animal is famous for building webs? 🕸️",
+    "options": [
+      "🦋 Butterfly",
+      "🕷️ Spider",
+      "🐜 Ant",
+      "🐝 Bee"
+    ],
+    "answer": "🕷️ Spider"
+  },
+  {
+    "question": "Which planet has the most moons? 🌕",
+    "options": [
+      "Earth",
+      "Mars",
+      "Saturn",
+      "Venus"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "question": "What do we call water that falls as ice crystals? ❄️",
+    "options": [
+      "Rain",
+      "Fog",
+      "Snow",
+      "Steam"
+    ],
+    "answer": "Snow"
+  },
+  {
+    "question": "Which sea animal has eight arms? 🐙",
+    "options": [
+      "🐬 Dolphin",
+      "🐠 Fish",
+      "🐙 Octopus",
+      "🦈 Shark"
+    ],
+    "answer": "🐙 Octopus"
+  },
+  {
+    "question": "Which tool helps us see tiny things? 🔬",
+    "options": [
+      "🔭 Telescope",
+      "🔬 Microscope",
+      "📷 Camera",
+      "📱 Phone"
+    ],
+    "answer": "🔬 Microscope"
+  },
+  {
+    "question": "Which animal carries its baby in a pouch? 🦘",
+    "options": [
+      "🐶 Dog",
+      "🦘 Kangaroo",
+      "🐻 Bear",
+      "🐘 Elephant"
+    ],
+    "answer": "🦘 Kangaroo"
+  },
+  {
+    "question": "Which natural disaster shakes the ground? 🌍",
+    "options": [
+      "🌪️ Tornado",
+      "🌋 Volcano",
+      "🌍 Earthquake",
+      "🌧️ Rainstorm"
+    ],
+    "answer": "🌍 Earthquake"
+  },
+  {
+    "question": "What is the name of our galaxy? 🌌",
+    "options": [
+      "Andromeda",
+      "Milky Way",
+      "Black Hole",
+      "Solar System"
+    ],
+    "answer": "Milky Way"
+  },
+  {
+    "question": "Which animal can squirt ink to escape danger? 🦑",
+    "options": [
+      "🐟 Fish",
+      "🦑 Squid",
+      "🐬 Dolphin",
+      "🦀 Crab"
+    ],
+    "answer": "🦑 Squid"
+  }
+]

@@ -129,6 +129,23 @@ class LevelScreen extends StatelessWidget {
         'quiz3',
       ];
     }
+    if (category == 'kids' && level == 'intermediate') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+      ];
+    }
+    if (category == 'kids' && level == 'advanced') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
 
     // SPELLING
     if (category == 'spelling' && level == 'beginner') {
@@ -136,6 +153,23 @@ class LevelScreen extends StatelessWidget {
         'quiz1',
         'quiz2',
         'quiz3',
+        'quiz4',
+      ];
+    }
+    if (category == 'spelling' && level == 'intermediate') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+      ];
+    }
+    if (category == 'spelling' && level == 'advanced') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
       ];
     }
 

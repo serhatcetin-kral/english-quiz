@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["accomodation", "accommodation", "acommodation", "acomodation"],
+    "answer": "accommodation"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["environment", "enviroment", "envirenment", "enviornment"],
+    "answer": "environment"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["necessary", "neccessary", "necessery", "necesary"],
+    "answer": "necessary"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["separate", "seperate", "seperete", "separrate"],
+    "answer": "separate"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["definitely", "definately", "definetly", "defanitely"],
+    "answer": "definitely"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["government", "goverment", "governmant", "govenment"],
+    "answer": "government"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["knowledge", "knowlege", "knowlage", "nolledge"],
+    "answer": "knowledge"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["experience", "experiance", "experiense", "expereince"],
+    "answer": "experience"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["recommend", "reccomend", "recomend", "recommmend"],
+    "answer": "recommend"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": ["successful", "succesful", "successfull", "sucessful"],
+    "answer": "successful"
+  }
+]

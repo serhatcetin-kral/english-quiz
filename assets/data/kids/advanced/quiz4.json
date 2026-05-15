@@ -1,0 +1,103 @@
+[
+
+  {
+    "question": "Which planet is known for having many storms? 🌪️",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which animal is the largest cat species? 🐯",
+    "options": [
+      "🐱 House Cat",
+      "🦁 Lion",
+      "🐯 Tiger",
+      "🐆 Leopard"
+    ],
+    "answer": "🐯 Tiger"
+  },
+  {
+    "question": "What do we call a scientist who studies dinosaurs? 🦖",
+    "options": [
+      "Astronomer",
+      "Biologist",
+      "Paleontologist",
+      "Chemist"
+    ],
+    "answer": "Paleontologist"
+  },
+  {
+    "question": "Which planet is famous for being very hot? 🔥",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mars",
+      "Neptune"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "question": "Which animal can regenerate lost body parts? 🦎",
+    "options": [
+      "🐶 Dog",
+      "🦎 Lizard",
+      "🐻 Bear",
+      "🐘 Elephant"
+    ],
+    "answer": "🦎 Lizard"
+  },
+  {
+    "question": "Which layer protects Earth from harmful sunlight? ☀️",
+    "options": [
+      "Cloud Layer",
+      "Ozone Layer",
+      "Smoke Layer",
+      "Rain Layer"
+    ],
+    "answer": "Ozone Layer"
+  },
+  {
+    "question": "Which bird is known for its colorful tail feathers? 🦚",
+    "options": [
+      "🦜 Parrot",
+      "🦚 Peacock",
+      "🦉 Owl",
+      "🐧 Penguin"
+    ],
+    "answer": "🦚 Peacock"
+  },
+  {
+    "question": "What do astronauts wear in space? 🚀",
+    "options": [
+      "👕 T-shirts",
+      "🥽 Space suits",
+      "🧥 Jackets",
+      "👟 Shoes"
+    ],
+    "answer": "🥽 Space suits"
+  },
+  {
+    "question": "Which animal sleeps during the winter? ❄️",
+    "options": [
+      "🐻 Bear",
+      "🐠 Fish",
+      "🦅 Eagle",
+      "🐒 Monkey"
+    ],
+    "answer": "🐻 Bear"
+  },
+  {
+    "question": "Which planet is called the Blue Planet? 🌍",
+    "options": [
+      "Earth",
+      "Mars",
+      "Mercury",
+      "Saturn"
+    ],
+    "answer": "Earth"
+  }
+]
