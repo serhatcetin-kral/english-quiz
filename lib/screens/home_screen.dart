@@ -7,6 +7,7 @@ import 'vocabulary_levels_screen.dart';
 import 'phrasal_verbs_levels_screen.dart';
 import 'reading_levels_screen.dart';
 import 'grammar_levels_screen.dart';
+import 'dictionary_screen.dart';
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
@@ -61,6 +62,14 @@ class HomeScreen extends StatelessWidget {
         'category': 'spelling',
         'color1': const Color(0xFF36D1DC),
         'color2': const Color(0xFF5B86E5),
+      },
+      {
+        'title': 'Dictionary',
+        'icon': Icons.book,
+        'category': 'dictionary',
+
+        'color1': const Color(0xFF4776E6),
+        'color2': const Color(0xFF8E54E9),
       },
     ];
 
@@ -191,6 +200,17 @@ class HomeScreen extends StatelessWidget {
                     MaterialPageRoute(
                       builder: (_) =>
                       const SpellingLevelsScreen(),
+                    ),
+                  );
+                }
+                else if (item['category'] == 'dictionary') {
+
+                  Navigator.push(
+                    context,
+
+                    MaterialPageRoute(
+                      builder: (_) =>
+                      const DictionaryScreen(),
                     ),
                   );
                 }
