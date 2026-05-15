@@ -72,8 +72,18 @@ class _QuizScreenState extends State<QuizScreen> {
     await SharedPreferences.getInstance();
 
     await prefs.setString(
+      'current_category',
+      widget.category,
+    );
+
+    await prefs.setString(
       'current_level',
       widget.level,
+    );
+
+    await prefs.setString(
+      'current_quiz',
+      widget.quizNumber,
     );
 
     await prefs.setInt(
@@ -92,17 +102,18 @@ class _QuizScreenState extends State<QuizScreen> {
     await SharedPreferences.getInstance();
 
     final savedCategory =
-    prefs.getString(
-      'current_category',
-    );
+    prefs.getString('current_category');
+
     final savedLevel =
-    prefs.getString(
-      'current_level',
-    );
+    prefs.getString('current_level');
+
+    final savedQuiz =
+    prefs.getString('current_quiz');
 
     if (
     savedCategory != widget.category ||
-        savedLevel != widget.level
+        savedLevel != widget.level ||
+        savedQuiz != widget.quizNumber
     ) {
       return;
     }
@@ -119,12 +130,10 @@ class _QuizScreenState extends State<QuizScreen> {
 
     if (savedAnswers != null) {
 
-      final decoded =
+      selectedAnswers =
       List<String?>.from(
         jsonDecode(savedAnswers),
       );
-
-      selectedAnswers = decoded;
     }
   }
   void selectAnswer(String answer) {
@@ -166,6 +175,7 @@ class _QuizScreenState extends State<QuizScreen> {
 
     await prefs.remove('current_category');
     await prefs.remove('current_level');
+    await prefs.remove('current_quiz');
     await prefs.remove('current_index');
     await prefs.remove('selected_answers');
 
