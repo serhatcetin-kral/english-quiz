@@ -1,0 +1,111 @@
+[
+  {
+    "question": "The word 'consistent' is closest in meaning to:",
+    "options": [
+      "stable",
+      "careless",
+      "temporary",
+      "confusing"
+    ],
+    "answer": "stable"
+  },
+
+  {
+    "question": "The word 'dominate' is closest in meaning to:",
+    "options": [
+      "control",
+      "avoid",
+      "support",
+      "follow"
+    ],
+    "answer": "control"
+  },
+
+  {
+    "question": "The word 'eliminate' is closest in meaning to:",
+    "options": [
+      "remove",
+      "build",
+      "increase",
+      "discover"
+    ],
+    "answer": "remove"
+  },
+
+  {
+    "question": "The word 'emerge' is closest in meaning to:",
+    "options": [
+      "appear",
+      "hide",
+      "collapse",
+      "reduce"
+    ],
+    "answer": "appear"
+  },
+
+  {
+    "question": "The word 'emphasize' is closest in meaning to:",
+    "options": [
+      "highlight",
+      "ignore",
+      "weaken",
+      "destroy"
+    ],
+    "answer": "highlight"
+  },
+
+  {
+    "question": "The word 'encounter' is closest in meaning to:",
+    "options": [
+      "experience",
+      "avoid",
+      "remove",
+      "forget"
+    ],
+    "answer": "experience"
+  },
+
+  {
+    "question": "The word 'fundamental' is closest in meaning to:",
+    "options": [
+      "basic",
+      "advanced",
+      "temporary",
+      "confusing"
+    ],
+    "answer": "basic"
+  },
+
+  {
+    "question": "The word 'generate' is closest in meaning to:",
+    "options": [
+      "produce",
+      "hide",
+      "reduce",
+      "repair"
+    ],
+    "answer": "produce"
+  },
+
+  {
+    "question": "The word 'impact' is closest in meaning to:",
+    "options": [
+      "effect",
+      "machine",
+      "distance",
+      "tradition"
+    ],
+    "answer": "effect"
+  },
+
+  {
+    "question": "The word 'justify' is closest in meaning to:",
+    "options": [
+      "give reasons for",
+      "ignore",
+      "remove",
+      "damage"
+    ],
+    "answer": "give reasons for"
+  }
+]

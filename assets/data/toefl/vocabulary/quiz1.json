@@ -1,0 +1,111 @@
+[
+  {
+    "question": "The word 'significant' is closest in meaning to:",
+    "options": [
+      "important",
+      "small",
+      "ordinary",
+      "hidden"
+    ],
+    "answer": "important"
+  },
+
+  {
+    "question": "The word 'analyze' is closest in meaning to:",
+    "options": [
+      "study carefully",
+      "ignore",
+      "destroy",
+      "forget"
+    ],
+    "answer": "study carefully"
+  },
+
+  {
+    "question": "The word 'efficient' is closest in meaning to:",
+    "options": [
+      "slow",
+      "effective",
+      "careless",
+      "expensive"
+    ],
+    "answer": "effective"
+  },
+
+  {
+    "question": "The word 'establish' is closest in meaning to:",
+    "options": [
+      "create",
+      "remove",
+      "avoid",
+      "hide"
+    ],
+    "answer": "create"
+  },
+
+  {
+    "question": "The word 'consume' is closest in meaning to:",
+    "options": [
+      "eat or use",
+      "build",
+      "repair",
+      "transport"
+    ],
+    "answer": "eat or use"
+  },
+
+  {
+    "question": "The word 'maintain' is closest in meaning to:",
+    "options": [
+      "preserve",
+      "damage",
+      "forget",
+      "replace"
+    ],
+    "answer": "preserve"
+  },
+
+  {
+    "question": "The word 'reduce' is closest in meaning to:",
+    "options": [
+      "increase",
+      "decrease",
+      "improve",
+      "create"
+    ],
+    "answer": "decrease"
+  },
+
+  {
+    "question": "The word 'require' is closest in meaning to:",
+    "options": [
+      "need",
+      "avoid",
+      "remove",
+      "hide"
+    ],
+    "answer": "need"
+  },
+
+  {
+    "question": "The word 'participate' is closest in meaning to:",
+    "options": [
+      "join",
+      "leave",
+      "ignore",
+      "observe"
+    ],
+    "answer": "join"
+  },
+
+  {
+    "question": "The word 'research' is closest in meaning to:",
+    "options": [
+      "investigation",
+      "celebration",
+      "transportation",
+      "vacation"
+    ],
+    "answer": "investigation"
+  }
+]

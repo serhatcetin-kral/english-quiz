@@ -1,0 +1,111 @@
+[
+  {
+    "question": "If scientists ______ more research, they may discover new solutions.",
+    "options": [
+      "conduct",
+      "conducted",
+      "conducting",
+      "conducts"
+    ],
+    "answer": "conduct"
+  },
+
+  {
+    "question": "The professor recommended that the student ______ the report carefully.",
+    "options": [
+      "review",
+      "reviews",
+      "reviewed",
+      "reviewing"
+    ],
+    "answer": "review"
+  },
+
+  {
+    "question": "Many students prefer online courses because they are more ______.",
+    "options": [
+      "flexibility",
+      "flexible",
+      "flexibly",
+      "flex"
+    ],
+    "answer": "flexible"
+  },
+
+  {
+    "question": "The meeting was postponed ______ unexpected weather conditions.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "despite"
+    ],
+    "answer": "because of"
+  },
+
+  {
+    "question": "Neither the teacher nor the students ______ aware of the schedule change.",
+    "options": [
+      "was",
+      "were",
+      "be",
+      "being"
+    ],
+    "answer": "were"
+  },
+
+  {
+    "question": "Researchers are interested ______ the effects of climate change.",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "with"
+    ],
+    "answer": "in"
+  },
+
+  {
+    "question": "The company plans ______ a new product next year.",
+    "options": [
+      "launch",
+      "launching",
+      "launched",
+      "to launch"
+    ],
+    "answer": "to launch"
+  },
+
+  {
+    "question": "Students must complete the assignment ______ Friday.",
+    "options": [
+      "at",
+      "by",
+      "during",
+      "among"
+    ],
+    "answer": "by"
+  },
+
+  {
+    "question": "The scientist explained the experiment clearly, ______ everyone understood the results.",
+    "options": [
+      "because",
+      "so",
+      "although",
+      "unless"
+    ],
+    "answer": "so"
+  },
+
+  {
+    "question": "The new policy has significantly ______ workplace efficiency.",
+    "options": [
+      "improve",
+      "improved",
+      "improving",
+      "improvement"
+    ],
+    "answer": "improved"
+  }
+]

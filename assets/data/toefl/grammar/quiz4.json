@@ -1,0 +1,111 @@
+[
+  {
+    "question": "If the researchers receive additional funding, they ______ the study next year.",
+    "options": [
+      "continue",
+      "continued",
+      "will continue",
+      "continuing"
+    ],
+    "answer": "will continue"
+  },
+
+  {
+    "question": "The professor advised that the article ______ before publication.",
+    "options": [
+      "edit",
+      "edited",
+      "be edited",
+      "editing"
+    ],
+    "answer": "be edited"
+  },
+
+  {
+    "question": "The new transportation system is more ______ than the previous one.",
+    "options": [
+      "reliability",
+      "reliable",
+      "reliably",
+      "rely"
+    ],
+    "answer": "reliable"
+  },
+
+  {
+    "question": "The flight was canceled ______ severe weather conditions.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "unless"
+    ],
+    "answer": "because of"
+  },
+
+  {
+    "question": "Each participant in the program ______ required to complete the survey.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answer": "is"
+  },
+
+  {
+    "question": "Many scientists are concerned ______ environmental pollution.",
+    "options": [
+      "about",
+      "with",
+      "at",
+      "for"
+    ],
+    "answer": "about"
+  },
+
+  {
+    "question": "The university plans ______ a new research center next year.",
+    "options": [
+      "build",
+      "building",
+      "built",
+      "to build"
+    ],
+    "answer": "to build"
+  },
+
+  {
+    "question": "Students must register ______ the deadline in order to participate.",
+    "options": [
+      "by",
+      "during",
+      "through",
+      "among"
+    ],
+    "answer": "by"
+  },
+
+  {
+    "question": "The instructions were extremely clear, ______ everyone completed the assignment correctly.",
+    "options": [
+      "so",
+      "although",
+      "unless",
+      "despite"
+    ],
+    "answer": "so"
+  },
+
+  {
+    "question": "The company has recently ______ several international partnerships.",
+    "options": [
+      "establish",
+      "established",
+      "establishing",
+      "establishment"
+    ],
+    "answer": "established"
+  }
+]

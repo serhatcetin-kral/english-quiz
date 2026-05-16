@@ -11,19 +11,44 @@ class QuizService {
 
       String category,
       String level,
-      {String quizNumber = 'quiz1'} // bu originalinde yok
+      {String quizNumber = 'quiz1'}
+
       ) async {
 
     final String data =
     await rootBundle.loadString(
-       // 'assets/data/${category.replaceAll(' ', '_')}/$level.json'
-      // 'assets/data/$category/$level.json',
-     // 'assets/data/vocabulary/beginner.json',
-      'assets/data/$category/$level/$quizNumber.json'
+      'assets/data/$category/$level/$quizNumber.json',
     );
 
-    final List jsonResult =
-    json.decode(data);
+    final decoded = json.decode(data);
+
+    // IELTS + TOEFL Reading Passages
+    if (
+
+    (category == 'ielts' ||
+        category == 'toefl') &&
+
+        level == 'reading'
+
+    ) {
+
+      final String passage =
+      decoded['passage'];
+
+      final List questions =
+      decoded['questions'];
+
+      return questions.map((e) {
+
+        e['story'] = passage;
+
+        return QuizQuestion.fromJson(e);
+
+      }).toList();
+    }
+
+    // Normal quizzes
+    final List jsonResult = decoded;
 
     return jsonResult
         .map(

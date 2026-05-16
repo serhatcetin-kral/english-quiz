@@ -1,0 +1,111 @@
+[
+  {
+    "question": "If people use public transportation more often, cities ______ less polluted.",
+    "options": [
+      "become",
+      "became",
+      "will become",
+      "becoming"
+    ],
+    "answer": "will become"
+  },
+
+  {
+    "question": "The professor advised that the research paper ______ before publication.",
+    "options": [
+      "edit",
+      "edited",
+      "be edited",
+      "editing"
+    ],
+    "answer": "be edited"
+  },
+
+  {
+    "question": "The new communication system is more ______ than the previous one.",
+    "options": [
+      "efficiency",
+      "efficient",
+      "efficiently",
+      "efficiencies"
+    ],
+    "answer": "efficient"
+  },
+
+  {
+    "question": "The flight was canceled ______ severe weather conditions.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "unless"
+    ],
+    "answer": "because of"
+  },
+
+  {
+    "question": "Each member of the team ______ expected to attend the meeting.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answer": "is"
+  },
+
+  {
+    "question": "Scientists are interested ______ discovering alternative energy sources.",
+    "options": [
+      "at",
+      "in",
+      "with",
+      "for"
+    ],
+    "answer": "in"
+  },
+
+  {
+    "question": "The organization plans ______ several new environmental projects.",
+    "options": [
+      "launch",
+      "launching",
+      "launched",
+      "to launch"
+    ],
+    "answer": "to launch"
+  },
+
+  {
+    "question": "Students must submit the application form ______ Friday evening.",
+    "options": [
+      "by",
+      "during",
+      "through",
+      "among"
+    ],
+    "answer": "by"
+  },
+
+  {
+    "question": "The lecture was clear and engaging, ______ the students remained attentive.",
+    "options": [
+      "so",
+      "although",
+      "unless",
+      "despite"
+    ],
+    "answer": "so"
+  },
+
+  {
+    "question": "The company has successfully ______ several international business partnerships.",
+    "options": [
+      "develop",
+      "developed",
+      "developing",
+      "development"
+    ],
+    "answer": "developed"
+  }
+]

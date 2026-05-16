@@ -60,3 +60,34 @@ flutter:
     - assets/data/spelling/beginner/
     - assets/data/spelling/intermediate/
     - assets/data/spelling/advanced/
+    - assets/data/toefl/reading/quiz1.json
+    - assets/data/toefl/reading/quiz2.json
+    - assets/data/toefl/reading/quiz3.json
+    - assets/data/toefl/reading/quiz4.json
+    - assets/data/toefl/reading/quiz5.json
+    - assets/data/toefl/vocabulary/quiz1.json
+    - assets/data/toefl/vocabulary/quiz2.json
+    - assets/data/toefl/vocabulary/quiz3.json
+    - assets/data/toefl/vocabulary/quiz4.json
+    - assets/data/toefl/vocabulary/quiz5.json
+    - assets/data/toefl/grammar/quiz1.json
+    - assets/data/toefl/grammar/quiz2.json
+    - assets/data/toefl/grammar/quiz3.json
+    - assets/data/toefl/grammar/quiz4.json
+    - assets/data/toefl/grammar/quiz5.json
+    - assets/data/ielts/reading/quiz1.json
+    - assets/data/ielts/reading/quiz2.json
+    - assets/data/ielts/reading/quiz3.json
+    - assets/data/ielts/reading/quiz4.json
+    - assets/data/ielts/reading/quiz5.json
+    - assets/data/ielts/vocabulary/quiz1.json
+    - assets/data/ielts/vocabulary/quiz2.json
+    - assets/data/ielts/vocabulary/quiz3.json
+    - assets/data/ielts/vocabulary/quiz4.json
+    - assets/data/ielts/vocabulary/quiz5.json
+    - assets/data/ielts/grammar/quiz1.json
+    - assets/data/ielts/grammar/quiz2.json
+    - assets/data/ielts/grammar/quiz3.json
+    - assets/data/ielts/grammar/quiz4.json
+    - assets/data/ielts/grammar/quiz5.json
+

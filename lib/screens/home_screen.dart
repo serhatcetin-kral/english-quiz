@@ -1,6 +1,6 @@
 import 'package:english_quiz/screens/spelling_levels_screen.dart';
 import 'package:flutter/material.dart';
-
+import 'toefl_levels_screen.dart';
 import 'kids_levels_screen.dart';
 import 'level_screen.dart';
 import 'vocabulary_levels_screen.dart';
@@ -8,6 +8,8 @@ import 'phrasal_verbs_levels_screen.dart';
 import 'reading_levels_screen.dart';
 import 'grammar_levels_screen.dart';
 import 'dictionary_screen.dart';
+import 'ielts_screen.dart';
+
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
@@ -71,6 +73,22 @@ class HomeScreen extends StatelessWidget {
         'color1': const Color(0xFF4776E6),
         'color2': const Color(0xFF8E54E9),
       },
+      {
+        'title': 'IELTS',
+        'icon': Icons.school,
+        'category': 'ielts',
+
+        'color1': const Color(0xFF8E2DE2),
+        'color2': const Color(0xFF4A00E0),
+      },
+      // {
+      //   'title': 'TOEFL',
+      //   'icon': Icons.school,
+      //   'category': 'toefl',
+      //
+      //   'color1': const Color(0xFF6A11CB),
+      //   'color2': const Color(0xFF2575FC),
+      // },
     ];
 
     return Scaffold(
@@ -111,246 +129,442 @@ class HomeScreen extends StatelessWidget {
       body: Padding(
         padding: const EdgeInsets.all(18),
 
-        child: GridView.builder(
+        child: Column(
 
-          itemCount: categories.length,
+          children: [
 
-          gridDelegate:
-          const SliverGridDelegateWithFixedCrossAxisCount(
+            InkWell(
 
-            crossAxisCount: 2,
-            crossAxisSpacing: 18,
-            mainAxisSpacing: 18,
-            childAspectRatio: 0.88,
-          ),
-
-          itemBuilder: (context, index) {
-
-            final item = categories[index];
-
-            return InkWell(
-
-              borderRadius: BorderRadius.circular(30),
+              borderRadius:
+              BorderRadius.circular(28),
 
               onTap: () {
 
-                // VOCABULARY
-                if (item['category'] == 'vocabulary') {
+                Navigator.push(
+                  context,
 
-                  Navigator.push(
-                    context,
-
-                    MaterialPageRoute(
-                      builder: (_) =>
-                      const VocabularyLevelsScreen(),
-                    ),
-                  );
-                }
-
-                // PHRASAL VERBS
-                else if (item['category'] == 'phrasal_verbs') {
-
-                  Navigator.push(
-                    context,
-
-                    MaterialPageRoute(
-                      builder: (_) =>
-                      const PhrasalVerbsLevelsScreen(),
-                    ),
-                  );
-                }
-                else if (item['category'] == 'reading') {
-
-                  Navigator.push(
-                    context,
-
-                    MaterialPageRoute(
-                      builder: (_) =>
-                      const ReadingLevelsScreen(),
-                    ),
-                  );
-                }
-               else if (item['category'] == 'grammar') {
-
-                  Navigator.push(
-                    context,
-
-                    MaterialPageRoute(
-                      builder: (_) =>
-                      const GrammarLevelsScreen(),
-                    ),
-                  );
-                }
-                else if (item['category'] == 'kids') {
-
-                  Navigator.push(
-                    context,
-
-                    MaterialPageRoute(
-                      builder: (_) =>
-                      const KidsLevelsScreen(),
-                    ),
-                  );
-                }
-                else if (item['category'] == 'spelling') {
-
-                  Navigator.push(
-                    context,
-
-                    MaterialPageRoute(
-                      builder: (_) =>
-                      const SpellingLevelsScreen(),
-                    ),
-                  );
-                }
-                else if (item['category'] == 'dictionary') {
-
-                  Navigator.push(
-                    context,
-
-                    MaterialPageRoute(
-                      builder: (_) =>
-                      const DictionaryScreen(),
-                    ),
-                  );
-                }
-
-                // OTHER CATEGORIES
-                else {
-
-                  Navigator.push(
-                    context,
-
-                    MaterialPageRoute(
-                      builder: (_) => LevelScreen(
-
-                        category:
-                        item['category'].toString(),
-
-                        level: 'beginner',
-
-                      ),
-                    ),
-                  );
-                }
+                  MaterialPageRoute(
+                    builder: (_) =>
+                    const ToeflLevelsScreen(),
+                  ),
+                );
               },
 
               child: Container(
 
+                width: double.infinity,
+
+                padding: const EdgeInsets.all(24),
+
                 decoration: BoxDecoration(
 
-                  gradient: LinearGradient(
+                  gradient: const LinearGradient(
 
                     colors: [
 
-                      item['color1'] as Color,
-                      item['color2'] as Color,
-
+                      Color(0xFF6A11CB),
+                      Color(0xFF2575FC),
                     ],
 
                     begin: Alignment.topLeft,
                     end: Alignment.bottomRight,
                   ),
 
-                  borderRadius: BorderRadius.circular(30),
+                  borderRadius:
+                  BorderRadius.circular(28),
 
                   boxShadow: [
 
                     BoxShadow(
-                      color: (item['color1'] as Color)
-                          .withOpacity(0.35),
+                      color:
+                      Colors.blue.withOpacity(0.25),
 
-                      blurRadius: 14,
+                      blurRadius: 16,
                       offset: const Offset(0, 8),
                     ),
                   ],
                 ),
 
-                child: Padding(
-                  padding: const EdgeInsets.all(18),
+                child: Row(
 
-                  child: Column(
-                    crossAxisAlignment:
-                    CrossAxisAlignment.start,
+                  children: [
 
-                    children: [
+                    Container(
 
-                      Container(
+                      padding: const EdgeInsets.all(18),
 
-                        padding: const EdgeInsets.all(14),
+                      decoration: BoxDecoration(
 
-                        decoration: BoxDecoration(
-                          color:
-                          Colors.white.withOpacity(0.18),
+                        color:
+                        Colors.white.withOpacity(0.18),
 
-                          shape: BoxShape.circle,
-                        ),
-
-                        child: Icon(
-                          item['icon'] as IconData,
-                          size: 34,
-                          color: Colors.white,
-                        ),
+                        shape: BoxShape.circle,
                       ),
 
-                      const Spacer(),
+                      child: const Icon(
 
-                      Text(
+                        Icons.school,
 
-                        item['title'].toString(),
-
-                        style: const TextStyle(
-                          color: Colors.white,
-                          fontSize: 22,
-                          fontWeight: FontWeight.bold,
-                        ),
+                        color: Colors.white,
+                        size: 38,
                       ),
+                    ),
 
-                      const SizedBox(height: 8),
+                    const SizedBox(width: 18),
 
-                      Text(
+                    const Expanded(
 
-                        "Start learning now",
+                      child: Column(
 
-                        style: TextStyle(
-                          color:
-                          Colors.white.withOpacity(0.9),
+                        crossAxisAlignment:
+                        CrossAxisAlignment.start,
 
-                          fontSize: 13,
-                        ),
-                      ),
-
-                      const SizedBox(height: 14),
-
-                      Row(
                         children: [
 
-                          const Icon(
-                            Icons.play_circle_fill,
-                            color: Colors.white,
-                            size: 22,
-                          ),
-
-                          const SizedBox(width: 6),
-
                           Text(
-                            "Start",
+
+                            'TOEFL Practice',
 
                             style: TextStyle(
-                              color: Colors.white
-                                  .withOpacity(0.95),
+                              color: Colors.white,
+                              fontSize: 26,
+                              fontWeight:
+                              FontWeight.bold,
+                            ),
+                          ),
 
-                              fontWeight: FontWeight.w600,
+                          SizedBox(height: 8),
+
+                          Text(
+
+                            'Academic English Preparation',
+
+                            style: TextStyle(
+                              color: Colors.white70,
+                              fontSize: 15,
                             ),
                           ),
                         ],
                       ),
-                    ],
-                  ),
+                    ),
+
+                    Container(
+
+                      padding: const EdgeInsets.all(12),
+
+                      decoration: BoxDecoration(
+
+                        color:
+                        Colors.white.withOpacity(0.18),
+
+                        shape: BoxShape.circle,
+                      ),
+
+                      child: const Icon(
+
+                        Icons.arrow_forward_ios,
+
+                        color: Colors.white,
+                        size: 18,
+                      ),
+                    ),
+                  ],
                 ),
               ),
-            );
-          },
+            ),
+
+            const SizedBox(height: 22),
+
+            Expanded(
+
+              child: GridView.builder(
+
+                itemCount: categories.length,
+
+                gridDelegate:
+                const SliverGridDelegateWithFixedCrossAxisCount(
+
+                  crossAxisCount: 2,
+                  crossAxisSpacing: 18,
+                  mainAxisSpacing: 18,
+                  childAspectRatio: 0.88,
+                ),
+
+                itemBuilder: (context, index) {
+
+                  final item = categories[index];
+
+                  return InkWell(
+
+                    borderRadius:
+                    BorderRadius.circular(30),
+
+                    onTap: () {
+
+                      if (item['category'] ==
+                          'vocabulary') {
+
+                        Navigator.push(
+                          context,
+
+                          MaterialPageRoute(
+                            builder: (_) =>
+                            const VocabularyLevelsScreen(),
+                          ),
+                        );
+                      }
+
+                      else if (item['category'] ==
+                          'phrasal_verbs') {
+
+                        Navigator.push(
+                          context,
+
+                          MaterialPageRoute(
+                            builder: (_) =>
+                            const PhrasalVerbsLevelsScreen(),
+                          ),
+                        );
+                      }
+
+                      else if (item['category'] ==
+                          'reading') {
+
+                        Navigator.push(
+                          context,
+
+                          MaterialPageRoute(
+                            builder: (_) =>
+                            const ReadingLevelsScreen(),
+                          ),
+                        );
+                      }
+
+                      else if (item['category'] ==
+                          'grammar') {
+
+                        Navigator.push(
+                          context,
+
+                          MaterialPageRoute(
+                            builder: (_) =>
+                            const GrammarLevelsScreen(),
+                          ),
+                        );
+                      }
+
+                      else if (item['category'] ==
+                          'kids') {
+
+                        Navigator.push(
+                          context,
+
+                          MaterialPageRoute(
+                            builder: (_) =>
+                            const KidsLevelsScreen(),
+                          ),
+                        );
+                      }
+
+                      else if (item['category'] ==
+                          'spelling') {
+
+                        Navigator.push(
+                          context,
+
+                          MaterialPageRoute(
+                            builder: (_) =>
+                            const SpellingLevelsScreen(),
+                          ),
+                        );
+                      }
+
+                      else if (item['category'] ==
+                          'dictionary') {
+
+                        Navigator.push(
+                          context,
+
+                          MaterialPageRoute(
+                            builder: (_) =>
+                            const DictionaryScreen(),
+                          ),
+                        );
+                      }
+
+                      else if (item['category'] ==
+                          'toefl') {
+
+                        Navigator.push(
+                          context,
+
+                          MaterialPageRoute(
+                            builder: (_) =>
+                            const ToeflLevelsScreen(),
+                          ),
+                        );
+                      }
+                      else if (item['category'] == 'ielts') {
+
+                        Navigator.push(
+                          context,
+
+                          MaterialPageRoute(
+                            builder: (_) => const IELTScreen(),
+                          ),
+                        );
+                      }
+
+
+                      else {
+
+                        Navigator.push(
+                          context,
+
+                          MaterialPageRoute(
+                            builder: (_) => LevelScreen(
+
+                              category:
+                              item['category'].toString(),
+
+                              level: 'beginner',
+                            ),
+                          ),
+                        );
+                      }
+                    },
+
+                    child: Container(
+
+                      decoration: BoxDecoration(
+
+                        gradient: LinearGradient(
+
+                          colors: [
+
+                            item['color1'] as Color,
+                            item['color2'] as Color,
+                          ],
+
+                          begin: Alignment.topLeft,
+                          end: Alignment.bottomRight,
+                        ),
+
+                        borderRadius:
+                        BorderRadius.circular(30),
+
+                        boxShadow: [
+
+                          BoxShadow(
+                            color:
+                            (item['color1'] as Color)
+                                .withOpacity(0.35),
+
+                            blurRadius: 14,
+                            offset: const Offset(0, 8),
+                          ),
+                        ],
+                      ),
+
+                      child: Padding(
+                        padding:
+                        const EdgeInsets.all(18),
+
+                        child: Column(
+
+                          crossAxisAlignment:
+                          CrossAxisAlignment.start,
+
+                          children: [
+
+                            Container(
+
+                              padding:
+                              const EdgeInsets.all(14),
+
+                              decoration: BoxDecoration(
+
+                                color:
+                                Colors.white
+                                    .withOpacity(0.18),
+
+                                shape: BoxShape.circle,
+                              ),
+
+                              child: Icon(
+                                item['icon']
+                                as IconData,
+
+                                size: 34,
+                                color: Colors.white,
+                              ),
+                            ),
+
+                            const Spacer(),
+
+                            Text(
+
+                              item['title'].toString(),
+
+                              style: const TextStyle(
+                                color: Colors.white,
+                                fontSize: 22,
+                                fontWeight:
+                                FontWeight.bold,
+                              ),
+                            ),
+
+                            const SizedBox(height: 8),
+
+                            Text(
+
+                              "Start learning now",
+
+                              style: TextStyle(
+                                color:
+                                Colors.white
+                                    .withOpacity(0.9),
+
+                                fontSize: 13,
+                              ),
+                            ),
+
+                            const SizedBox(height: 14),
+
+                            Row(
+                              children: [
+
+                                const Icon(
+                                  Icons.play_circle_fill,
+                                  color: Colors.white,
+                                  size: 22,
+                                ),
+
+                                const SizedBox(width: 6),
+
+                                Text(
+
+                                  "Start",
+
+                                  style: TextStyle(
+                                    color: Colors.white
+                                        .withOpacity(0.95),
+
+                                    fontWeight:
+                                    FontWeight.w600,
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                  );
+                },
+              ),
+            ),
+          ],
         ),
       ),
     );

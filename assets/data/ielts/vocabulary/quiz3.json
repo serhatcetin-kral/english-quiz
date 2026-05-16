@@ -1,0 +1,111 @@
+[
+  {
+    "question": "The word 'generate' is closest in meaning to:",
+    "options": [
+      "produce",
+      "remove",
+      "ignore",
+      "damage"
+    ],
+    "answer": "produce"
+  },
+
+  {
+    "question": "The word 'impact' is closest in meaning to:",
+    "options": [
+      "effect",
+      "distance",
+      "machine",
+      "competition"
+    ],
+    "answer": "effect"
+  },
+
+  {
+    "question": "The word 'improve' is closest in meaning to:",
+    "options": [
+      "enhance",
+      "reduce",
+      "avoid",
+      "ignore"
+    ],
+    "answer": "enhance"
+  },
+
+  {
+    "question": "The word 'indicate' is closest in meaning to:",
+    "options": [
+      "show",
+      "hide",
+      "damage",
+      "remove"
+    ],
+    "answer": "show"
+  },
+
+  {
+    "question": "The word 'maintain' is closest in meaning to:",
+    "options": [
+      "keep",
+      "destroy",
+      "forget",
+      "replace"
+    ],
+    "answer": "keep"
+  },
+
+  {
+    "question": "The word 'method' is closest in meaning to:",
+    "options": [
+      "system",
+      "problem",
+      "mistake",
+      "difficulty"
+    ],
+    "answer": "system"
+  },
+
+  {
+    "question": "The word 'obtain' is closest in meaning to:",
+    "options": [
+      "get",
+      "lose",
+      "ignore",
+      "avoid"
+    ],
+    "answer": "get"
+  },
+
+  {
+    "question": "The word 'participate' is closest in meaning to:",
+    "options": [
+      "take part",
+      "refuse",
+      "remove",
+      "observe"
+    ],
+    "answer": "take part"
+  },
+
+  {
+    "question": "The word 'predict' is closest in meaning to:",
+    "options": [
+      "forecast",
+      "hide",
+      "damage",
+      "ignore"
+    ],
+    "answer": "forecast"
+  },
+
+  {
+    "question": "The word 'research' is closest in meaning to:",
+    "options": [
+      "study",
+      "transportation",
+      "competition",
+      "discussion"
+    ],
+    "answer": "study"
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "question": "The word 'conclude' is closest in meaning to:",
+    "options": [
+      "finish",
+      "begin",
+      "hide",
+      "observe"
+    ],
+    "answer": "finish"
+  },
+
+  {
+    "question": "The word 'interpret' is closest in meaning to:",
+    "options": [
+      "explain meaning",
+      "ignore",
+      "transport",
+      "remove"
+    ],
+    "answer": "explain meaning"
+  },
+
+  {
+    "question": "The word 'complex' is closest in meaning to:",
+    "options": [
+      "simple",
+      "complicated",
+      "ordinary",
+      "clear"
+    ],
+    "answer": "complicated"
+  },
+
+  {
+    "question": "The word 'benefit' is closest in meaning to:",
+    "options": [
+      "advantage",
+      "problem",
+      "damage",
+      "mistake"
+    ],
+    "answer": "advantage"
+  },
+
+  {
+    "question": "The word 'identify' is closest in meaning to:",
+    "options": [
+      "recognize",
+      "hide",
+      "forget",
+      "destroy"
+    ],
+    "answer": "recognize"
+  },
+
+  {
+    "question": "The word 'approach' is closest in meaning to:",
+    "options": [
+      "method",
+      "distance",
+      "machine",
+      "building"
+    ],
+    "answer": "method"
+  },
+
+  {
+    "question": "The word 'decline' is closest in meaning to:",
+    "options": [
+      "increase",
+      "decrease",
+      "repair",
+      "improve"
+    ],
+    "answer": "decrease"
+  },
+
+  {
+    "question": "The word 'demonstrate' is closest in meaning to:",
+    "options": [
+      "show",
+      "hide",
+      "remove",
+      "forget"
+    ],
+    "answer": "show"
+  },
+
+  {
+    "question": "The word 'expand' is closest in meaning to:",
+    "options": [
+      "grow",
+      "reduce",
+      "destroy",
+      "transport"
+    ],
+    "answer": "grow"
+  },
+
+  {
+    "question": "The word 'evidence' is closest in meaning to:",
+    "options": [
+      "proof",
+      "guess",
+      "machine",
+      "celebration"
+    ],
+    "answer": "proof"
+  }
+]

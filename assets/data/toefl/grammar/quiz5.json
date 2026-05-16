@@ -1,0 +1,111 @@
+[
+  {
+    "question": "If governments invest more in education, students ______ greater academic opportunities.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "having"
+    ],
+    "answer": "will have"
+  },
+
+  {
+    "question": "The director recommended that the final report ______ before the meeting.",
+    "options": [
+      "submit",
+      "submitted",
+      "be submitted",
+      "submitting"
+    ],
+    "answer": "be submitted"
+  },
+
+  {
+    "question": "The new medical treatment appears more ______ than previous methods.",
+    "options": [
+      "effectiveness",
+      "effective",
+      "effectively",
+      "effect"
+    ],
+    "answer": "effective"
+  },
+
+  {
+    "question": "The event was postponed ______ transportation problems.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "however"
+    ],
+    "answer": "because of"
+  },
+
+  {
+    "question": "Neither the students nor the teacher ______ satisfied with the schedule change.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answer": "is"
+  },
+
+  {
+    "question": "Researchers are interested ______ finding solutions to global health issues.",
+    "options": [
+      "in",
+      "at",
+      "for",
+      "with"
+    ],
+    "answer": "in"
+  },
+
+  {
+    "question": "The company hopes ______ its technology worldwide.",
+    "options": [
+      "introduce",
+      "introducing",
+      "introduced",
+      "to introduce"
+    ],
+    "answer": "to introduce"
+  },
+
+  {
+    "question": "All applications must be completed ______ Friday afternoon.",
+    "options": [
+      "by",
+      "during",
+      "through",
+      "among"
+    ],
+    "answer": "by"
+  },
+
+  {
+    "question": "The presentation was well organized, ______ the audience remained engaged throughout.",
+    "options": [
+      "so",
+      "although",
+      "unless",
+      "despite"
+    ],
+    "answer": "so"
+  },
+
+  {
+    "question": "The university has successfully ______ several international exchange programs.",
+    "options": [
+      "create",
+      "created",
+      "creating",
+      "creation"
+    ],
+    "answer": "created"
+  }
+]

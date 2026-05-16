@@ -172,6 +172,27 @@ class LevelScreen extends StatelessWidget {
         'quiz4',
       ];
     }
+    // TOEFL
+    if (category == 'toefl') {
+
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
+    if (category == 'ielts') {
+
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
 
     // DEFAULT
     return ['quiz1'];

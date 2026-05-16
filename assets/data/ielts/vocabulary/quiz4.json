@@ -1,0 +1,111 @@
+[
+  {
+    "question": "The word 'resource' is closest in meaning to:",
+    "options": [
+      "supply",
+      "problem",
+      "mistake",
+      "competition"
+    ],
+    "answer": "supply"
+  },
+
+  {
+    "question": "The word 'response' is closest in meaning to:",
+    "options": [
+      "reply",
+      "question",
+      "instruction",
+      "warning"
+    ],
+    "answer": "reply"
+  },
+
+  {
+    "question": "The word 'specific' is closest in meaning to:",
+    "options": [
+      "particular",
+      "general",
+      "common",
+      "basic"
+    ],
+    "answer": "particular"
+  },
+
+  {
+    "question": "The word 'sufficient' is closest in meaning to:",
+    "options": [
+      "enough",
+      "limited",
+      "small",
+      "rare"
+    ],
+    "answer": "enough"
+  },
+
+  {
+    "question": "The word 'transfer' is closest in meaning to:",
+    "options": [
+      "move",
+      "destroy",
+      "ignore",
+      "reduce"
+    ],
+    "answer": "move"
+  },
+
+  {
+    "question": "The word 'transport' is closest in meaning to:",
+    "options": [
+      "carry",
+      "remove",
+      "replace",
+      "study"
+    ],
+    "answer": "carry"
+  },
+
+  {
+    "question": "The word 'variety' is closest in meaning to:",
+    "options": [
+      "range",
+      "problem",
+      "mistake",
+      "difficulty"
+    ],
+    "answer": "range"
+  },
+
+  {
+    "question": "The word 'visible' is closest in meaning to:",
+    "options": [
+      "able to be seen",
+      "hidden",
+      "dangerous",
+      "difficult"
+    ],
+    "answer": "able to be seen"
+  },
+
+  {
+    "question": "The word 'wealth' is closest in meaning to:",
+    "options": [
+      "richness",
+      "poverty",
+      "education",
+      "research"
+    ],
+    "answer": "richness"
+  },
+
+  {
+    "question": "The word 'widespread' is closest in meaning to:",
+    "options": [
+      "common",
+      "limited",
+      "rare",
+      "hidden"
+    ],
+    "answer": "common"
+  }
+]

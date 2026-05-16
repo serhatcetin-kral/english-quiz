@@ -1,0 +1,111 @@
+[
+  {
+    "question": "If governments invest more in education, students ______ greater opportunities.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "having"
+    ],
+    "answer": "will have"
+  },
+
+  {
+    "question": "The teacher recommended that the essay ______ before submission.",
+    "options": [
+      "revise",
+      "revised",
+      "be revised",
+      "revising"
+    ],
+    "answer": "be revised"
+  },
+
+  {
+    "question": "The new medical treatment appears more ______ than previous methods.",
+    "options": [
+      "effectiveness",
+      "effective",
+      "effectively",
+      "effect"
+    ],
+    "answer": "effective"
+  },
+
+  {
+    "question": "The meeting was delayed ______ transportation issues.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "however"
+    ],
+    "answer": "because of"
+  },
+
+  {
+    "question": "Neither the manager nor the employees ______ satisfied with the decision.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answer": "were"
+  },
+
+  {
+    "question": "Researchers are focused ______ finding solutions to climate change.",
+    "options": [
+      "at",
+      "on",
+      "with",
+      "for"
+    ],
+    "answer": "on"
+  },
+
+  {
+    "question": "The company hopes ______ its services globally next year.",
+    "options": [
+      "expand",
+      "expanding",
+      "expanded",
+      "to expand"
+    ],
+    "answer": "to expand"
+  },
+
+  {
+    "question": "Students should complete the registration process ______ the deadline.",
+    "options": [
+      "by",
+      "during",
+      "among",
+      "through"
+    ],
+    "answer": "by"
+  },
+
+  {
+    "question": "The instructions were easy to follow, ______ everyone completed the task correctly.",
+    "options": [
+      "so",
+      "although",
+      "unless",
+      "despite"
+    ],
+    "answer": "so"
+  },
+
+  {
+    "question": "The university has recently ______ several advanced research programs.",
+    "options": [
+      "introduce",
+      "introduced",
+      "introducing",
+      "introduction"
+    ],
+    "answer": "introduced"
+  }
+]

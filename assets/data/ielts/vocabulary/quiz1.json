@@ -1,0 +1,111 @@
+[
+  {
+    "question": "The word 'essential' is closest in meaning to:",
+    "options": [
+      "necessary",
+      "optional",
+      "difficult",
+      "traditional"
+    ],
+    "answer": "necessary"
+  },
+
+  {
+    "question": "The word 'increase' is closest in meaning to:",
+    "options": [
+      "grow",
+      "reduce",
+      "ignore",
+      "divide"
+    ],
+    "answer": "grow"
+  },
+
+  {
+    "question": "The word 'achieve' is closest in meaning to:",
+    "options": [
+      "accomplish",
+      "avoid",
+      "remove",
+      "forget"
+    ],
+    "answer": "accomplish"
+  },
+
+  {
+    "question": "The word 'benefit' is closest in meaning to:",
+    "options": [
+      "advantage",
+      "problem",
+      "difficulty",
+      "mistake"
+    ],
+    "answer": "advantage"
+  },
+
+  {
+    "question": "The word 'challenge' is closest in meaning to:",
+    "options": [
+      "difficulty",
+      "solution",
+      "success",
+      "improvement"
+    ],
+    "answer": "difficulty"
+  },
+
+  {
+    "question": "The word 'environment' is closest in meaning to:",
+    "options": [
+      "surroundings",
+      "education",
+      "transportation",
+      "competition"
+    ],
+    "answer": "surroundings"
+  },
+
+  {
+    "question": "The word 'maintain' is closest in meaning to:",
+    "options": [
+      "keep",
+      "destroy",
+      "replace",
+      "hide"
+    ],
+    "answer": "keep"
+  },
+
+  {
+    "question": "The word 'opportunity' is closest in meaning to:",
+    "options": [
+      "chance",
+      "danger",
+      "problem",
+      "failure"
+    ],
+    "answer": "chance"
+  },
+
+  {
+    "question": "The word 'require' is closest in meaning to:",
+    "options": [
+      "need",
+      "avoid",
+      "forget",
+      "improve"
+    ],
+    "answer": "need"
+  },
+
+  {
+    "question": "The word 'significant' is closest in meaning to:",
+    "options": [
+      "important",
+      "small",
+      "traditional",
+      "basic"
+    ],
+    "answer": "important"
+  }
+]

@@ -1,0 +1,117 @@
+{
+  "passage": "Artificial intelligence, commonly known as AI, has become an increasingly important part of modern society. AI systems are designed to perform tasks that normally require human intelligence, such as recognizing speech, solving problems, and making decisions. Many industries, including healthcare, education, and transportation, now use AI technologies to improve efficiency and accuracy.\n\nOne major advantage of AI is its ability to process large amounts of data quickly. In hospitals, AI systems can help doctors identify diseases more accurately by analyzing medical images and patient information. In education, intelligent software can personalize learning experiences for students based on their individual needs and performance.\n\nDespite these benefits, some experts are concerned about the rapid growth of AI. They worry that automation may replace certain jobs and create ethical challenges related to privacy and decision-making. As AI continues to develop, governments and technology companies are working to establish regulations that encourage responsible use of artificial intelligence.",
+
+  "questions": [
+
+    {
+      "question": "What is artificial intelligence designed to do?",
+      "options": [
+        "Perform tasks requiring human intelligence",
+        "Replace all forms of technology",
+        "Reduce internet access",
+        "Eliminate communication systems"
+      ],
+      "answer": "Perform tasks requiring human intelligence"
+    },
+
+    {
+      "question": "The word 'efficiency' is closest in meaning to:",
+      "options": [
+        "effectiveness",
+        "difficulty",
+        "competition",
+        "education"
+      ],
+      "answer": "effectiveness"
+    },
+
+    {
+      "question": "How can AI assist doctors in hospitals?",
+      "options": [
+        "By analyzing medical data",
+        "By replacing hospitals",
+        "By reducing communication",
+        "By eliminating diseases completely"
+      ],
+      "answer": "By analyzing medical data"
+    },
+
+    {
+      "question": "What benefit does AI provide in education?",
+      "options": [
+        "Personalized learning experiences",
+        "More transportation systems",
+        "Fewer classrooms",
+        "Reduced internet access"
+      ],
+      "answer": "Personalized learning experiences"
+    },
+
+    {
+      "question": "The word 'individual' is closest in meaning to:",
+      "options": [
+        "personal",
+        "global",
+        "traditional",
+        "limited"
+      ],
+      "answer": "personal"
+    },
+
+    {
+      "question": "Why are some experts concerned about AI?",
+      "options": [
+        "It may replace jobs",
+        "It increases transportation costs",
+        "It reduces weather changes",
+        "It limits scientific research"
+      ],
+      "answer": "It may replace jobs"
+    },
+
+    {
+      "question": "What ethical issue related to AI is mentioned?",
+      "options": [
+        "Privacy concerns",
+        "Climate change",
+        "Food shortages",
+        "Language learning"
+      ],
+      "answer": "Privacy concerns"
+    },
+
+    {
+      "question": "The word 'regulations' is closest in meaning to:",
+      "options": [
+        "rules",
+        "benefits",
+        "problems",
+        "discoveries"
+      ],
+      "answer": "rules"
+    },
+
+    {
+      "question": "What are governments and companies trying to encourage?",
+      "options": [
+        "Responsible use of AI",
+        "Reduced communication",
+        "More pollution",
+        "Less technology"
+      ],
+      "answer": "Responsible use of AI"
+    },
+
+    {
+      "question": "What is the main purpose of the passage?",
+      "options": [
+        "To discuss benefits and concerns of artificial intelligence",
+        "To explain transportation systems",
+        "To advertise computer products",
+        "To compare different schools"
+      ],
+      "answer": "To discuss benefits and concerns of artificial intelligence"
+    }
+
+  ]
+}

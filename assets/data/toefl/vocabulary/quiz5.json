@@ -1,0 +1,111 @@
+[
+  {
+    "question": "The word 'modify' is closest in meaning to:",
+    "options": [
+      "change",
+      "ignore",
+      "destroy",
+      "observe"
+    ],
+    "answer": "change"
+  },
+
+  {
+    "question": "The word 'notion' is closest in meaning to:",
+    "options": [
+      "idea",
+      "machine",
+      "distance",
+      "tradition"
+    ],
+    "answer": "idea"
+  },
+
+  {
+    "question": "The word 'obtain' is closest in meaning to:",
+    "options": [
+      "get",
+      "avoid",
+      "remove",
+      "hide"
+    ],
+    "answer": "get"
+  },
+
+  {
+    "question": "The word 'occur' is closest in meaning to:",
+    "options": [
+      "happen",
+      "disappear",
+      "reduce",
+      "stop"
+    ],
+    "answer": "happen"
+  },
+
+  {
+    "question": "The word 'persist' is closest in meaning to:",
+    "options": [
+      "continue",
+      "finish",
+      "avoid",
+      "forget"
+    ],
+    "answer": "continue"
+  },
+
+  {
+    "question": "The word 'predict' is closest in meaning to:",
+    "options": [
+      "forecast",
+      "hide",
+      "repair",
+      "observe"
+    ],
+    "answer": "forecast"
+  },
+
+  {
+    "question": "The word 'previous' is closest in meaning to:",
+    "options": [
+      "earlier",
+      "future",
+      "hidden",
+      "temporary"
+    ],
+    "answer": "earlier"
+  },
+
+  {
+    "question": "The word 'rely' is closest in meaning to:",
+    "options": [
+      "depend",
+      "avoid",
+      "destroy",
+      "remove"
+    ],
+    "answer": "depend"
+  },
+
+  {
+    "question": "The word 'retain' is closest in meaning to:",
+    "options": [
+      "keep",
+      "lose",
+      "hide",
+      "replace"
+    ],
+    "answer": "keep"
+  },
+
+  {
+    "question": "The word 'transfer' is closest in meaning to:",
+    "options": [
+      "move",
+      "reduce",
+      "ignore",
+      "damage"
+    ],
+    "answer": "move"
+  }
+]

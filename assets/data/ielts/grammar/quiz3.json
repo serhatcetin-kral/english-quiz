@@ -1,0 +1,111 @@
+[
+  {
+    "question": "If technology continues to improve, communication ______ easier in the future.",
+    "options": [
+      "becomes",
+      "became",
+      "will become",
+      "becoming"
+    ],
+    "answer": "will become"
+  },
+
+  {
+    "question": "The professor requested that the assignment ______ by tomorrow morning.",
+    "options": [
+      "complete",
+      "completed",
+      "be completed",
+      "completing"
+    ],
+    "answer": "be completed"
+  },
+
+  {
+    "question": "The new software is more ______ than the previous version.",
+    "options": [
+      "reliability",
+      "reliable",
+      "reliably",
+      "rely"
+    ],
+    "answer": "reliable"
+  },
+
+  {
+    "question": "The conference was postponed ______ technical problems.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "unless"
+    ],
+    "answer": "because of"
+  },
+
+  {
+    "question": "Each participant in the project ______ required to submit a report.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answer": "is"
+  },
+
+  {
+    "question": "Many students are interested ______ studying abroad.",
+    "options": [
+      "at",
+      "in",
+      "with",
+      "for"
+    ],
+    "answer": "in"
+  },
+
+  {
+    "question": "The organization plans ______ several new educational programs.",
+    "options": [
+      "launch",
+      "launching",
+      "launched",
+      "to launch"
+    ],
+    "answer": "to launch"
+  },
+
+  {
+    "question": "Applicants must submit their forms ______ Friday afternoon.",
+    "options": [
+      "by",
+      "during",
+      "through",
+      "among"
+    ],
+    "answer": "by"
+  },
+
+  {
+    "question": "The presentation was clear and informative, ______ the audience remained interested.",
+    "options": [
+      "so",
+      "although",
+      "unless",
+      "despite"
+    ],
+    "answer": "so"
+  },
+
+  {
+    "question": "The university has successfully ______ several international partnerships.",
+    "options": [
+      "create",
+      "created",
+      "creating",
+      "creation"
+    ],
+    "answer": "created"
+  }
+]

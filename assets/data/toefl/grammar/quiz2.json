@@ -1,0 +1,111 @@
+[
+  {
+    "question": "If the weather improves, the researchers ______ the field study tomorrow.",
+    "options": [
+      "begin",
+      "began",
+      "will begin",
+      "beginning"
+    ],
+    "answer": "will begin"
+  },
+
+  {
+    "question": "The manager requested that all employees ______ the new regulations.",
+    "options": [
+      "follow",
+      "follows",
+      "followed",
+      "following"
+    ],
+    "answer": "follow"
+  },
+
+  {
+    "question": "The lecture was so ______ that many students took detailed notes.",
+    "options": [
+      "inform",
+      "informative",
+      "information",
+      "informed"
+    ],
+    "answer": "informative"
+  },
+
+  {
+    "question": "The scientist could not attend the conference ______ a scheduling conflict.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "however"
+    ],
+    "answer": "because of"
+  },
+
+  {
+    "question": "Each of the students ______ responsible for completing the project.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answer": "is"
+  },
+
+  {
+    "question": "The professor specializes ______ environmental science.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "for"
+    ],
+    "answer": "in"
+  },
+
+  {
+    "question": "The company hopes ______ international sales next year.",
+    "options": [
+      "increase",
+      "to increase",
+      "increased",
+      "increasing"
+    ],
+    "answer": "to increase"
+  },
+
+  {
+    "question": "Students are expected to submit their assignments ______ Monday morning.",
+    "options": [
+      "by",
+      "during",
+      "among",
+      "through"
+    ],
+    "answer": "by"
+  },
+
+  {
+    "question": "The instructions were explained clearly, ______ the participants completed the task successfully.",
+    "options": [
+      "so",
+      "unless",
+      "although",
+      "despite"
+    ],
+    "answer": "so"
+  },
+
+  {
+    "question": "The university has recently ______ several new academic programs.",
+    "options": [
+      "introduce",
+      "introduced",
+      "introducing",
+      "introduction"
+    ],
+    "answer": "introduced"
+  }
+]

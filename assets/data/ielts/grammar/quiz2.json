@@ -1,0 +1,111 @@
+[
+  {
+    "question": "If people exercise regularly, they ______ healthier lives.",
+    "options": [
+      "live",
+      "lived",
+      "living",
+      "lives"
+    ],
+    "answer": "live"
+  },
+
+  {
+    "question": "The manager recommended that the report ______ immediately.",
+    "options": [
+      "finish",
+      "finished",
+      "be finished",
+      "finishing"
+    ],
+    "answer": "be finished"
+  },
+
+  {
+    "question": "The new transportation system is more ______ than the old one.",
+    "options": [
+      "efficiency",
+      "efficient",
+      "efficiently",
+      "efficiencies"
+    ],
+    "answer": "efficient"
+  },
+
+  {
+    "question": "The event was canceled ______ bad weather conditions.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "however"
+    ],
+    "answer": "because of"
+  },
+
+  {
+    "question": "Neither the teacher nor the students ______ aware of the schedule change.",
+    "options": [
+      "was",
+      "were",
+      "be",
+      "being"
+    ],
+    "answer": "were"
+  },
+
+  {
+    "question": "Scientists are focused ______ developing renewable energy sources.",
+    "options": [
+      "at",
+      "on",
+      "with",
+      "for"
+    ],
+    "answer": "on"
+  },
+
+  {
+    "question": "The company hopes ______ its business internationally.",
+    "options": [
+      "expand",
+      "expanding",
+      "expanded",
+      "to expand"
+    ],
+    "answer": "to expand"
+  },
+
+  {
+    "question": "Students should arrive ______ the examination starts.",
+    "options": [
+      "before",
+      "during",
+      "among",
+      "through"
+    ],
+    "answer": "before"
+  },
+
+  {
+    "question": "The instructions were simple, ______ everyone completed the task successfully.",
+    "options": [
+      "so",
+      "unless",
+      "despite",
+      "although"
+    ],
+    "answer": "so"
+  },
+
+  {
+    "question": "The government has recently ______ several environmental policies.",
+    "options": [
+      "develop",
+      "developed",
+      "developing",
+      "development"
+    ],
+    "answer": "developed"
+  }
+]

@@ -1,0 +1,117 @@
+{
+  "passage": "Space exploration has greatly expanded human understanding of the universe. Since the first moon landing in 1969, scientists have continued to study planets, stars, and galaxies through advanced telescopes and spacecraft missions. Space agencies around the world invest billions of dollars each year in scientific research and technological development.\n\nOne important benefit of space exploration is the advancement of technology. Many inventions originally created for space missions are now used in daily life, including satellite communication systems, medical equipment, and weather forecasting technology. In addition, studying other planets may help scientists better understand Earth’s climate and environmental systems.\n\nHowever, space exploration also presents challenges. Missions are extremely expensive and often involve significant risks for astronauts. Some people argue that governments should focus more on solving problems on Earth rather than spending large amounts of money on space programs. Despite these concerns, many scientists believe that space exploration will continue to provide valuable discoveries for humanity.",
+
+  "questions": [
+
+    {
+      "question": "What has space exploration expanded?",
+      "options": [
+        "Human understanding of the universe",
+        "Transportation costs",
+        "Climate change",
+        "Ocean pollution"
+      ],
+      "answer": "Human understanding of the universe"
+    },
+
+    {
+      "question": "The word 'advanced' is closest in meaning to:",
+      "options": [
+        "modern",
+        "simple",
+        "traditional",
+        "limited"
+      ],
+      "answer": "modern"
+    },
+
+    {
+      "question": "What is one benefit of space exploration mentioned in the passage?",
+      "options": [
+        "Technological advancement",
+        "Reduced internet use",
+        "Less scientific research",
+        "Lower communication"
+      ],
+      "answer": "Technological advancement"
+    },
+
+    {
+      "question": "Which invention mentioned in the passage came from space research?",
+      "options": [
+        "Satellite communication systems",
+        "Bicycles",
+        "Television programs",
+        "Public libraries"
+      ],
+      "answer": "Satellite communication systems"
+    },
+
+    {
+      "question": "The word 'forecasting' is closest in meaning to:",
+      "options": [
+        "predicting",
+        "removing",
+        "hiding",
+        "improving"
+      ],
+      "answer": "predicting"
+    },
+
+    {
+      "question": "Why do scientists study other planets?",
+      "options": [
+        "To better understand Earth",
+        "To reduce transportation",
+        "To replace weather systems",
+        "To improve tourism"
+      ],
+      "answer": "To better understand Earth"
+    },
+
+    {
+      "question": "What challenge of space exploration is mentioned?",
+      "options": [
+        "High costs and risks",
+        "Limited education",
+        "Too many workers",
+        "Lack of technology"
+      ],
+      "answer": "High costs and risks"
+    },
+
+    {
+      "question": "The word 'significant' is closest in meaning to:",
+      "options": [
+        "important",
+        "small",
+        "temporary",
+        "traditional"
+      ],
+      "answer": "important"
+    },
+
+    {
+      "question": "What do some people believe governments should prioritize?",
+      "options": [
+        "Problems on Earth",
+        "More space stations",
+        "Satellite communication",
+        "Scientific competitions"
+      ],
+      "answer": "Problems on Earth"
+    },
+
+    {
+      "question": "What is the main purpose of the passage?",
+      "options": [
+        "To discuss benefits and challenges of space exploration",
+        "To explain transportation systems",
+        "To advertise scientific equipment",
+        "To compare different planets"
+      ],
+      "answer": "To discuss benefits and challenges of space exploration"
+    }
+
+  ]
+}

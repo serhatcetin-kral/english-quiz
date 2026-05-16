@@ -1,0 +1,111 @@
+[
+  {
+    "question": "The word 'adapt' is closest in meaning to:",
+    "options": [
+      "adjust",
+      "ignore",
+      "destroy",
+      "remove"
+    ],
+    "answer": "adjust"
+  },
+
+  {
+    "question": "The word 'accurate' is closest in meaning to:",
+    "options": [
+      "correct",
+      "confusing",
+      "limited",
+      "dangerous"
+    ],
+    "answer": "correct"
+  },
+
+  {
+    "question": "The word 'alternative' is closest in meaning to:",
+    "options": [
+      "option",
+      "problem",
+      "mistake",
+      "challenge"
+    ],
+    "answer": "option"
+  },
+
+  {
+    "question": "The word 'annual' is closest in meaning to:",
+    "options": [
+      "yearly",
+      "monthly",
+      "daily",
+      "temporary"
+    ],
+    "answer": "yearly"
+  },
+
+  {
+    "question": "The word 'appropriate' is closest in meaning to:",
+    "options": [
+      "suitable",
+      "dangerous",
+      "difficult",
+      "limited"
+    ],
+    "answer": "suitable"
+  },
+
+  {
+    "question": "The word 'available' is closest in meaning to:",
+    "options": [
+      "accessible",
+      "hidden",
+      "restricted",
+      "unusual"
+    ],
+    "answer": "accessible"
+  },
+
+  {
+    "question": "The word 'complex' is closest in meaning to:",
+    "options": [
+      "complicated",
+      "simple",
+      "traditional",
+      "modern"
+    ],
+    "answer": "complicated"
+  },
+
+  {
+    "question": "The word 'efficient' is closest in meaning to:",
+    "options": [
+      "effective",
+      "careless",
+      "weak",
+      "slow"
+    ],
+    "answer": "effective"
+  },
+
+  {
+    "question": "The word 'expand' is closest in meaning to:",
+    "options": [
+      "grow",
+      "reduce",
+      "hide",
+      "remove"
+    ],
+    "answer": "grow"
+  },
+
+  {
+    "question": "The word 'frequent' is closest in meaning to:",
+    "options": [
+      "common",
+      "rare",
+      "difficult",
+      "traditional"
+    ],
+    "answer": "common"
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "question": "If students study regularly, they ______ better results.",
+    "options": [
+      "achieve",
+      "achieved",
+      "achieving",
+      "achieves"
+    ],
+    "answer": "achieve"
+  },
+
+  {
+    "question": "The professor suggested that the report ______ before Friday.",
+    "options": [
+      "submit",
+      "submitted",
+      "be submitted",
+      "submitting"
+    ],
+    "answer": "be submitted"
+  },
+
+  {
+    "question": "Many people prefer online learning because it is more ______.",
+    "options": [
+      "flexibility",
+      "flexible",
+      "flexibly",
+      "flex"
+    ],
+    "answer": "flexible"
+  },
+
+  {
+    "question": "The flight was delayed ______ heavy rain.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "however"
+    ],
+    "answer": "because of"
+  },
+
+  {
+    "question": "Each student ______ responsible for completing the assignment.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answer": "is"
+  },
+
+  {
+    "question": "Researchers are interested ______ climate change.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "for"
+    ],
+    "answer": "in"
+  },
+
+  {
+    "question": "The company plans ______ a new product next year.",
+    "options": [
+      "launch",
+      "launching",
+      "launched",
+      "to launch"
+    ],
+    "answer": "to launch"
+  },
+
+  {
+    "question": "Students must complete the test ______ Monday morning.",
+    "options": [
+      "by",
+      "during",
+      "through",
+      "among"
+    ],
+    "answer": "by"
+  },
+
+  {
+    "question": "The teacher explained the lesson clearly, ______ everyone understood it.",
+    "options": [
+      "so",
+      "unless",
+      "although",
+      "despite"
+    ],
+    "answer": "so"
+  },
+
+  {
+    "question": "The university has recently ______ several new programs.",
+    "options": [
+      "introduce",
+      "introduced",
+      "introducing",
+      "introduction"
+    ],
+    "answer": "introduced"
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "question": "If students study consistently, they ______ better exam results.",
+    "options": [
+      "achieve",
+      "achieved",
+      "achieving",
+      "achieves"
+    ],
+    "answer": "achieve"
+  },
+
+  {
+    "question": "The instructor suggested that the presentation ______ before Friday.",
+    "options": [
+      "complete",
+      "completed",
+      "be completed",
+      "completing"
+    ],
+    "answer": "be completed"
+  },
+
+  {
+    "question": "The new software is more ______ than the previous version.",
+    "options": [
+      "efficiency",
+      "efficient",
+      "efficiently",
+      "efficiencies"
+    ],
+    "answer": "efficient"
+  },
+
+  {
+    "question": "The project was delayed ______ technical difficulties.",
+    "options": [
+      "because",
+      "because of",
+      "however",
+      "although"
+    ],
+    "answer": "because of"
+  },
+
+  {
+    "question": "Neither the manager nor the assistant ______ available at the moment.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answer": "is"
+  },
+
+  {
+    "question": "Researchers are focused ______ developing sustainable energy solutions.",
+    "options": [
+      "on",
+      "at",
+      "with",
+      "for"
+    ],
+    "answer": "on"
+  },
+
+  {
+    "question": "The company decided ______ its services internationally.",
+    "options": [
+      "expand",
+      "to expand",
+      "expanded",
+      "expanding"
+    ],
+    "answer": "to expand"
+  },
+
+  {
+    "question": "Students should arrive ______ the examination begins.",
+    "options": [
+      "before",
+      "among",
+      "during",
+      "through"
+    ],
+    "answer": "before"
+  },
+
+  {
+    "question": "The speaker explained the topic clearly, ______ the audience understood the main points.",
+    "options": [
+      "so",
+      "unless",
+      "despite",
+      "although"
+    ],
+    "answer": "so"
+  },
+
+  {
+    "question": "The organization has successfully ______ several community programs.",
+    "options": [
+      "develop",
+      "developed",
+      "developing",
+      "development"
+    ],
+    "answer": "developed"
+  }
+]

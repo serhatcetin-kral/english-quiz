@@ -1,0 +1,111 @@
+[
+  {
+    "question": "The word 'analyze' is closest in meaning to:",
+    "options": [
+      "examine",
+      "ignore",
+      "remove",
+      "hide"
+    ],
+    "answer": "examine"
+  },
+
+  {
+    "question": "The word 'approach' is closest in meaning to:",
+    "options": [
+      "method",
+      "problem",
+      "mistake",
+      "competition"
+    ],
+    "answer": "method"
+  },
+
+  {
+    "question": "The word 'consume' is closest in meaning to:",
+    "options": [
+      "use",
+      "create",
+      "reduce",
+      "protect"
+    ],
+    "answer": "use"
+  },
+
+  {
+    "question": "The word 'decline' is closest in meaning to:",
+    "options": [
+      "decrease",
+      "improve",
+      "expand",
+      "support"
+    ],
+    "answer": "decrease"
+  },
+
+  {
+    "question": "The word 'demonstrate' is closest in meaning to:",
+    "options": [
+      "show",
+      "hide",
+      "remove",
+      "damage"
+    ],
+    "answer": "show"
+  },
+
+  {
+    "question": "The word 'estimate' is closest in meaning to:",
+    "options": [
+      "calculate roughly",
+      "ignore",
+      "destroy",
+      "replace"
+    ],
+    "answer": "calculate roughly"
+  },
+
+  {
+    "question": "The word 'evidence' is closest in meaning to:",
+    "options": [
+      "proof",
+      "question",
+      "problem",
+      "warning"
+    ],
+    "answer": "proof"
+  },
+
+  {
+    "question": "The word 'factor' is closest in meaning to:",
+    "options": [
+      "element",
+      "machine",
+      "transportation",
+      "competition"
+    ],
+    "answer": "element"
+  },
+
+  {
+    "question": "The word 'identify' is closest in meaning to:",
+    "options": [
+      "recognize",
+      "ignore",
+      "avoid",
+      "hide"
+    ],
+    "answer": "recognize"
+  },
+
+  {
+    "question": "The word 'issue' is closest in meaning to:",
+    "options": [
+      "problem",
+      "advantage",
+      "solution",
+      "success"
+    ],
+    "answer": "problem"
+  }
+]

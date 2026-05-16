@@ -1,0 +1,117 @@
+{
+  "passage": "Climate change is considered one of the most serious environmental challenges facing the modern world. Scientists have observed significant increases in global temperatures over the past century, largely due to human activities such as burning fossil fuels and deforestation. These activities release greenhouse gases into the atmosphere, trapping heat and causing the Earth’s temperature to rise.\n\nThe effects of climate change can already be seen in many regions. Rising sea levels threaten coastal communities, while extreme weather events such as hurricanes, droughts, and floods are becoming more frequent. In addition, climate change affects agriculture, water resources, and wildlife ecosystems.\n\nGovernments and environmental organizations are working to reduce greenhouse gas emissions through renewable energy projects and international agreements. Experts believe that global cooperation and sustainable practices are essential to slowing climate change and protecting future generations.",
+
+  "questions": [
+
+    {
+      "question": "What is the main cause of climate change mentioned in the passage?",
+      "options": [
+        "Human activities such as burning fossil fuels",
+        "Natural ocean movements",
+        "Changes in transportation systems",
+        "Increased tourism"
+      ],
+      "answer": "Human activities such as burning fossil fuels"
+    },
+
+    {
+      "question": "The word 'significant' is closest in meaning to:",
+      "options": [
+        "important",
+        "small",
+        "temporary",
+        "traditional"
+      ],
+      "answer": "important"
+    },
+
+    {
+      "question": "What happens when greenhouse gases trap heat?",
+      "options": [
+        "The Earth’s temperature rises",
+        "Oceans become smaller",
+        "Forests disappear immediately",
+        "Rainfall completely stops"
+      ],
+      "answer": "The Earth’s temperature rises"
+    },
+
+    {
+      "question": "Which environmental problem is linked to climate change?",
+      "options": [
+        "Rising sea levels",
+        "Reduced communication",
+        "Lower internet access",
+        "Decreased education"
+      ],
+      "answer": "Rising sea levels"
+    },
+
+    {
+      "question": "The word 'frequent' is closest in meaning to:",
+      "options": [
+        "common",
+        "rare",
+        "dangerous",
+        "limited"
+      ],
+      "answer": "common"
+    },
+
+    {
+      "question": "How does climate change affect agriculture?",
+      "options": [
+        "It creates environmental challenges",
+        "It improves transportation systems",
+        "It eliminates all crops",
+        "It reduces technology use"
+      ],
+      "answer": "It creates environmental challenges"
+    },
+
+    {
+      "question": "What are governments doing to reduce greenhouse gases?",
+      "options": [
+        "Supporting renewable energy projects",
+        "Reducing international cooperation",
+        "Increasing fossil fuel use",
+        "Closing universities"
+      ],
+      "answer": "Supporting renewable energy projects"
+    },
+
+    {
+      "question": "The word 'renewable' is closest in meaning to:",
+      "options": [
+        "sustainable",
+        "temporary",
+        "expensive",
+        "traditional"
+      ],
+      "answer": "sustainable"
+    },
+
+    {
+      "question": "What do experts believe is necessary to slow climate change?",
+      "options": [
+        "Global cooperation and sustainable practices",
+        "Increased transportation",
+        "More fossil fuel production",
+        "Less scientific research"
+      ],
+      "answer": "Global cooperation and sustainable practices"
+    },
+
+    {
+      "question": "What is the main purpose of the passage?",
+      "options": [
+        "To discuss causes and effects of climate change",
+        "To explain transportation systems",
+        "To advertise renewable products",
+        "To compare different countries"
+      ],
+      "answer": "To discuss causes and effects of climate change"
+    }
+
+  ]
+}

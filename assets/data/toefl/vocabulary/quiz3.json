@@ -1,0 +1,111 @@
+[
+  {
+    "question": "The word 'accurate' is closest in meaning to:",
+    "options": [
+      "correct",
+      "careless",
+      "dangerous",
+      "hidden"
+    ],
+    "answer": "correct"
+  },
+
+  {
+    "question": "The word 'adapt' is closest in meaning to:",
+    "options": [
+      "adjust",
+      "destroy",
+      "remove",
+      "ignore"
+    ],
+    "answer": "adjust"
+  },
+
+  {
+    "question": "The word 'adequate' is closest in meaning to:",
+    "options": [
+      "sufficient",
+      "limited",
+      "weak",
+      "expensive"
+    ],
+    "answer": "sufficient"
+  },
+
+  {
+    "question": "The word 'alternative' is closest in meaning to:",
+    "options": [
+      "option",
+      "problem",
+      "machine",
+      "mistake"
+    ],
+    "answer": "option"
+  },
+
+  {
+    "question": "The word 'annual' is closest in meaning to:",
+    "options": [
+      "yearly",
+      "monthly",
+      "daily",
+      "temporary"
+    ],
+    "answer": "yearly"
+  },
+
+  {
+    "question": "The word 'apparent' is closest in meaning to:",
+    "options": [
+      "clear",
+      "hidden",
+      "complex",
+      "dangerous"
+    ],
+    "answer": "clear"
+  },
+
+  {
+    "question": "The word 'approximate' is closest in meaning to:",
+    "options": [
+      "close to exact",
+      "perfect",
+      "incorrect",
+      "impossible"
+    ],
+    "answer": "close to exact"
+  },
+
+  {
+    "question": "The word 'attain' is closest in meaning to:",
+    "options": [
+      "achieve",
+      "avoid",
+      "destroy",
+      "reduce"
+    ],
+    "answer": "achieve"
+  },
+
+  {
+    "question": "The word 'available' is closest in meaning to:",
+    "options": [
+      "accessible",
+      "hidden",
+      "limited",
+      "dangerous"
+    ],
+    "answer": "accessible"
+  },
+
+  {
+    "question": "The word 'concentrate' is closest in meaning to:",
+    "options": [
+      "focus",
+      "ignore",
+      "forget",
+      "escape"
+    ],
+    "answer": "focus"
+  }
+]
