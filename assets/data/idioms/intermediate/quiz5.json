@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'add insult to injury' mean?",
+    "options": [
+      "Make a bad situation even worse",
+      "Help someone recover",
+      "Win after losing",
+      "Say something kind"
+    ],
+    "answer": "Make a bad situation even worse"
+  },
+  {
+    "question": "What does 'bite off more than you can chew' mean?",
+    "options": [
+      "Take on too much responsibility",
+      "Eat too quickly",
+      "Cook a large meal",
+      "Spend too much money"
+    ],
+    "answer": "Take on too much responsibility"
+  },
+  {
+    "question": "What does 'call the shots' mean?",
+    "options": [
+      "Be in control",
+      "Take photographs",
+      "Make phone calls",
+      "Start an argument"
+    ],
+    "answer": "Be in control"
+  },
+  {
+    "question": "What does 'come clean' mean?",
+    "options": [
+      "Tell the truth",
+      "Wash yourself",
+      "Leave a place",
+      "Start over"
+    ],
+    "answer": "Tell the truth"
+  },
+  {
+    "question": "What does 'cut to the chase' mean?",
+    "options": [
+      "Get to the main point quickly",
+      "Run very fast",
+      "Avoid a problem",
+      "Watch a movie"
+    ],
+    "answer": "Get to the main point quickly"
+  },
+  {
+    "question": "What does 'hit rock bottom' mean?",
+    "options": [
+      "Reach the lowest point",
+      "Climb a mountain",
+      "Win a difficult game",
+      "Find a solution"
+    ],
+    "answer": "Reach the lowest point"
+  },
+  {
+    "question": "What does 'in over your head' mean?",
+    "options": [
+      "In a situation too difficult to handle",
+      "Swimming deeply",
+      "Very successful",
+      "Feeling confident"
+    ],
+    "answer": "In a situation too difficult to handle"
+  },
+  {
+    "question": "What does 'make ends meet' mean?",
+    "options": [
+      "Have enough money to live",
+      "Finish a project",
+      "Travel far away",
+      "Meet new people"
+    ],
+    "answer": "Have enough money to live"
+  },
+  {
+    "question": "What does 'on thin ice' mean?",
+    "options": [
+      "In a risky situation",
+      "Playing winter sports",
+      "Feeling cold",
+      "Being relaxed"
+    ],
+    "answer": "In a risky situation"
+  },
+  {
+    "question": "What does 'spill your guts' mean?",
+    "options": [
+      "Reveal all your secrets or feelings",
+      "Cook something badly",
+      "Become sick",
+      "Laugh loudly"
+    ],
+    "answer": "Reveal all your secrets or feelings"
+  }
+]

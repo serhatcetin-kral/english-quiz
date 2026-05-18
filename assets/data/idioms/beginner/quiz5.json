@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'time flies' mean?",
+    "options": [
+      "Time passes quickly",
+      "Time stops",
+      "Travel by airplane",
+      "Be late often"
+    ],
+    "answer": "Time passes quickly"
+  },
+  {
+    "question": "What does 'under your nose' mean?",
+    "options": [
+      "Easy to notice",
+      "Hidden very far away",
+      "Inside a box",
+      "Very expensive"
+    ],
+    "answer": "Easy to notice"
+  },
+  {
+    "question": "What does 'water under the bridge' mean?",
+    "options": [
+      "Something from the past that is over",
+      "A dangerous situation",
+      "A travel story",
+      "Heavy rain"
+    ],
+    "answer": "Something from the past that is over"
+  },
+  {
+    "question": "What does 'your guess is as good as mine' mean?",
+    "options": [
+      "I do not know",
+      "You are very smart",
+      "I know the answer",
+      "Guess again"
+    ],
+    "answer": "I do not know"
+  },
+  {
+    "question": "What does 'a dime a dozen' mean?",
+    "options": [
+      "Very common",
+      "Very expensive",
+      "Very dangerous",
+      "Very difficult"
+    ],
+    "answer": "Very common"
+  },
+  {
+    "question": "What does 'burn bridges' mean?",
+    "options": [
+      "Destroy relationships",
+      "Start a fire",
+      "Travel somewhere",
+      "Build something"
+    ],
+    "answer": "Destroy relationships"
+  },
+  {
+    "question": "What does 'cross your fingers' mean?",
+    "options": [
+      "Hope for good luck",
+      "Feel nervous",
+      "Make a promise",
+      "Hide something"
+    ],
+    "answer": "Hope for good luck"
+  },
+  {
+    "question": "What does 'go the extra mile' mean?",
+    "options": [
+      "Do more than expected",
+      "Travel far away",
+      "Exercise daily",
+      "Finish quickly"
+    ],
+    "answer": "Do more than expected"
+  },
+  {
+    "question": "What does 'keep your chin up' mean?",
+    "options": [
+      "Stay positive",
+      "Look upward",
+      "Exercise regularly",
+      "Speak loudly"
+    ],
+    "answer": "Stay positive"
+  },
+  {
+    "question": "What does 'pull yourself together' mean?",
+    "options": [
+      "Calm down and control yourself",
+      "Exercise hard",
+      "Travel alone",
+      "Win a competition"
+    ],
+    "answer": "Calm down and control yourself"
+  }
+]

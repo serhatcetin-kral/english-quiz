@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'jump on the bandwagon' mean?",
+    "options": [
+      "Join a popular trend",
+      "Ride a vehicle",
+      "Start a business",
+      "Travel quickly"
+    ],
+    "answer": "Join a popular trend"
+  },
+  {
+    "question": "What does 'hit the nail on the head' mean?",
+    "options": [
+      "Be exactly right",
+      "Build something",
+      "Make a mistake",
+      "Cause an accident"
+    ],
+    "answer": "Be exactly right"
+  },
+  {
+    "question": "What does 'see eye to eye' mean?",
+    "options": [
+      "Agree with someone",
+      "Look carefully",
+      "Watch a movie",
+      "Meet someone"
+    ],
+    "answer": "Agree with someone"
+  },
+  {
+    "question": "What does 'cry over spilled milk' mean?",
+    "options": [
+      "Be upset about something already done",
+      "Cook food",
+      "Complain loudly",
+      "Clean the kitchen"
+    ],
+    "answer": "Be upset about something already done"
+  },
+  {
+    "question": "What does 'get cold feet' mean?",
+    "options": [
+      "Feel nervous",
+      "Feel cold",
+      "Go outside",
+      "Wear new shoes"
+    ],
+    "answer": "Feel nervous"
+  },
+  {
+    "question": "What does 'kill two birds with one stone' mean?",
+    "options": [
+      "Complete two tasks at once",
+      "Go hunting",
+      "Make two mistakes",
+      "Win a game"
+    ],
+    "answer": "Complete two tasks at once"
+  },
+  {
+    "question": "What does 'speak of the devil' mean?",
+    "options": [
+      "Someone appears after being mentioned",
+      "Tell a scary story",
+      "Talk loudly",
+      "Meet a stranger"
+    ],
+    "answer": "Someone appears after being mentioned"
+  },
+  {
+    "question": "What does 'leave no stone unturned' mean?",
+    "options": [
+      "Try everything possible",
+      "Clean the house",
+      "Travel far away",
+      "Give up quickly"
+    ],
+    "answer": "Try everything possible"
+  },
+  {
+    "question": "What does 'wrap your head around something' mean?",
+    "options": [
+      "Understand something difficult",
+      "Wear a hat",
+      "Hide something",
+      "Forget information"
+    ],
+    "answer": "Understand something difficult"
+  },
+  {
+    "question": "What does 'when pigs fly' mean?",
+    "options": [
+      "Something impossible",
+      "A funny dream",
+      "A farming activity",
+      "A lucky moment"
+    ],
+    "answer": "Something impossible"
+  }
+]

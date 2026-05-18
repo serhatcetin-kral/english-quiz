@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'water off a duck’s back' mean?",
+    "options": [
+      "Criticism that has no effect on someone",
+      "A relaxing situation",
+      "A difficult challenge",
+      "Something very expensive"
+    ],
+    "answer": "Criticism that has no effect on someone"
+  },
+  {
+    "question": "What does 'wear many hats' mean?",
+    "options": [
+      "Have many different responsibilities",
+      "Enjoy fashion",
+      "Travel frequently",
+      "Work outdoors"
+    ],
+    "answer": "Have many different responsibilities"
+  },
+  {
+    "question": "What does 'wild goose chase' mean?",
+    "options": [
+      "A useless or hopeless search",
+      "A hunting trip",
+      "A successful journey",
+      "A difficult exam"
+    ],
+    "answer": "A useless or hopeless search"
+  },
+  {
+    "question": "What does 'you reap what you sow' mean?",
+    "options": [
+      "Your actions bring corresponding results",
+      "Farming is difficult",
+      "Hard work is unnecessary",
+      "Luck controls success"
+    ],
+    "answer": "Your actions bring corresponding results"
+  },
+  {
+    "question": "What does 'zero in on something' mean?",
+    "options": [
+      "Focus closely on something",
+      "Ignore a problem",
+      "Start from nothing",
+      "Lose concentration"
+    ],
+    "answer": "Focus closely on something"
+  },
+  {
+    "question": "What does 'burn your fingers' mean?",
+    "options": [
+      "Suffer negative consequences from something",
+      "Cook carelessly",
+      "Work too quickly",
+      "Feel physically cold"
+    ],
+    "answer": "Suffer negative consequences from something"
+  },
+  {
+    "question": "What does 'close but no cigar' mean?",
+    "options": [
+      "Almost successful but not quite",
+      "Winning easily",
+      "Giving up early",
+      "Being completely wrong"
+    ],
+    "answer": "Almost successful but not quite"
+  },
+  {
+    "question": "What does 'go out on a limb' mean?",
+    "options": [
+      "Take a risk to support an idea",
+      "Climb a tree",
+      "Travel alone",
+      "Escape responsibility"
+    ],
+    "answer": "Take a risk to support an idea"
+  },
+  {
+    "question": "What does 'have bigger fish to fry' mean?",
+    "options": [
+      "Have more important things to do",
+      "Prepare dinner",
+      "Enjoy fishing",
+      "Spend money wisely"
+    ],
+    "answer": "Have more important things to do"
+  },
+  {
+    "question": "What does 'in the same boat' mean?",
+    "options": [
+      "In the same difficult situation",
+      "Traveling together",
+      "Winning equally",
+      "Working outdoors"
+    ],
+    "answer": "In the same difficult situation"
+  }
+]

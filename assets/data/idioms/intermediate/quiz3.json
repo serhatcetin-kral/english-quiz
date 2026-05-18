@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'a tough pill to swallow' mean?",
+    "options": [
+      "A difficult fact to accept",
+      "A dangerous medicine",
+      "A serious illness",
+      "An expensive mistake"
+    ],
+    "answer": "A difficult fact to accept"
+  },
+  {
+    "question": "What does 'at the drop of a hat' mean?",
+    "options": [
+      "Immediately and without hesitation",
+      "Very carefully",
+      "After a long time",
+      "With great difficulty"
+    ],
+    "answer": "Immediately and without hesitation"
+  },
+  {
+    "question": "What does 'burn your bridges' mean?",
+    "options": [
+      "Destroy future opportunities",
+      "Travel somewhere",
+      "Fix relationships",
+      "Build something new"
+    ],
+    "answer": "Destroy future opportunities"
+  },
+  {
+    "question": "What does 'get your act together' mean?",
+    "options": [
+      "Organize yourself and behave better",
+      "Join a theater group",
+      "Travel with friends",
+      "Relax and rest"
+    ],
+    "answer": "Organize yourself and behave better"
+  },
+  {
+    "question": "What does 'go back to the drawing board' mean?",
+    "options": [
+      "Start over with a new plan",
+      "Finish a project",
+      "Draw a picture",
+      "Study art"
+    ],
+    "answer": "Start over with a new plan"
+  },
+  {
+    "question": "What does 'in the heat of the moment' mean?",
+    "options": [
+      "While feeling strong emotions",
+      "During hot weather",
+      "After thinking carefully",
+      "In a dangerous place"
+    ],
+    "answer": "While feeling strong emotions"
+  },
+  {
+    "question": "What does 'jump the gun' mean?",
+    "options": [
+      "Act too early",
+      "Win a race",
+      "Take a risk",
+      "Start exercising"
+    ],
+    "answer": "Act too early"
+  },
+  {
+    "question": "What does 'keep someone at arm’s length' mean?",
+    "options": [
+      "Avoid becoming too close",
+      "Help someone closely",
+      "Carry something heavy",
+      "Protect someone physically"
+    ],
+    "answer": "Avoid becoming too close"
+  },
+  {
+    "question": "What does 'miss the mark' mean?",
+    "options": [
+      "Fail to achieve the desired result",
+      "Forget someone’s name",
+      "Arrive late",
+      "Lose an object"
+    ],
+    "answer": "Fail to achieve the desired result"
+  },
+  {
+    "question": "What does 'sit tight' mean?",
+    "options": [
+      "Wait patiently",
+      "Sit uncomfortably",
+      "Study hard",
+      "Travel carefully"
+    ],
+    "answer": "Wait patiently"
+  }
+]

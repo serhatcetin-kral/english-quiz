@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'bark up the wrong tree' mean?",
+    "options": [
+      "Accuse the wrong person",
+      "Climb a tree",
+      "Train a dog",
+      "Make a good decision"
+    ],
+    "answer": "Accuse the wrong person"
+  },
+  {
+    "question": "What does 'beat around the bush' mean?",
+    "options": [
+      "Avoid saying something directly",
+      "Go hiking",
+      "Speak loudly",
+      "Win an argument"
+    ],
+    "answer": "Avoid saying something directly"
+  },
+  {
+    "question": "What does 'by the skin of your teeth' mean?",
+    "options": [
+      "Barely succeed",
+      "Smile brightly",
+      "Eat quickly",
+      "Lose badly"
+    ],
+    "answer": "Barely succeed"
+  },
+  {
+    "question": "What does 'cut somebody some slack' mean?",
+    "options": [
+      "Be less critical",
+      "End a friendship",
+      "Work harder",
+      "Ignore instructions"
+    ],
+    "answer": "Be less critical"
+  },
+  {
+    "question": "What does 'get something out of your system' mean?",
+    "options": [
+      "Do something so you can stop thinking about it",
+      "Remove a computer virus",
+      "Forget information",
+      "Clean your room"
+    ],
+    "answer": "Do something so you can stop thinking about it"
+  },
+  {
+    "question": "What does 'give someone the cold shoulder' mean?",
+    "options": [
+      "Ignore someone",
+      "Help someone",
+      "Comfort someone",
+      "Shake hands"
+    ],
+    "answer": "Ignore someone"
+  },
+  {
+    "question": "What does 'go down in flames' mean?",
+    "options": [
+      "Fail spectacularly",
+      "Travel by airplane",
+      "Win unexpectedly",
+      "Become famous"
+    ],
+    "answer": "Fail spectacularly"
+  },
+  {
+    "question": "What does 'hit the sack' mean?",
+    "options": [
+      "Go to sleep",
+      "Punch something",
+      "Start working",
+      "Pack a bag"
+    ],
+    "answer": "Go to sleep"
+  },
+  {
+    "question": "What does 'let sleeping dogs lie' mean?",
+    "options": [
+      "Avoid restarting an old conflict",
+      "Take care of pets",
+      "Go to bed early",
+      "Ignore responsibilities"
+    ],
+    "answer": "Avoid restarting an old conflict"
+  },
+  {
+    "question": "What does 'off the top of your head' mean?",
+    "options": [
+      "Without thinking too much",
+      "A dangerous situation",
+      "A smart decision",
+      "Completely wrong"
+    ],
+    "answer": "Without thinking too much"
+  }
+]

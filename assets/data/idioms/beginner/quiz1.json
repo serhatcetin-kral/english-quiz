@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'piece of cake' mean?",
+    "options": [
+      "Very easy",
+      "Very difficult",
+      "Very expensive",
+      "Very small"
+    ],
+    "answer": "Very easy"
+  },
+  {
+    "question": "What does 'hit the books' mean?",
+    "options": [
+      "Throw books away",
+      "Study hard",
+      "Buy books",
+      "Write a book"
+    ],
+    "answer": "Study hard"
+  },
+  {
+    "question": "What does 'under the weather' mean?",
+    "options": [
+      "Feeling sick",
+      "Very happy",
+      "Outside",
+      "Traveling"
+    ],
+    "answer": "Feeling sick"
+  },
+  {
+    "question": "What does 'break the ice' mean?",
+    "options": [
+      "Start a conversation",
+      "Destroy something",
+      "Go swimming",
+      "Feel angry"
+    ],
+    "answer": "Start a conversation"
+  },
+  {
+    "question": "What does 'spill the beans' mean?",
+    "options": [
+      "Cook food",
+      "Tell a secret",
+      "Buy groceries",
+      "Clean the kitchen"
+    ],
+    "answer": "Tell a secret"
+  },
+  {
+    "question": "What does 'once in a blue moon' mean?",
+    "options": [
+      "Very often",
+      "Very rarely",
+      "At night",
+      "Twice a month"
+    ],
+    "answer": "Very rarely"
+  },
+  {
+    "question": "What does 'cost an arm and a leg' mean?",
+    "options": [
+      "Very cheap",
+      "Very expensive",
+      "Very funny",
+      "Very dangerous"
+    ],
+    "answer": "Very expensive"
+  },
+  {
+    "question": "What does 'let the cat out of the bag' mean?",
+    "options": [
+      "Release an animal",
+      "Tell a secret",
+      "Go shopping",
+      "Lose something"
+    ],
+    "answer": "Tell a secret"
+  },
+  {
+    "question": "What does 'a blessing in disguise' mean?",
+    "options": [
+      "A hidden good thing",
+      "A dangerous problem",
+      "A funny situation",
+      "A bad decision"
+    ],
+    "answer": "A hidden good thing"
+  },
+  {
+    "question": "What does 'burn the midnight oil' mean?",
+    "options": [
+      "Sleep early",
+      "Work late at night",
+      "Cook dinner",
+      "Turn off the lights"
+    ],
+    "answer": "Work late at night"
+  }
+]

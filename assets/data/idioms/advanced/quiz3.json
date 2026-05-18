@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'once the dust settles' mean?",
+    "options": [
+      "After things calm down",
+      "During a storm",
+      "Before starting work",
+      "Cleaning a room"
+    ],
+    "answer": "After things calm down"
+  },
+  {
+    "question": "What does 'pull no punches' mean?",
+    "options": [
+      "Speak very directly and honestly",
+      "Avoid fighting",
+      "Hide your opinions",
+      "Give compliments"
+    ],
+    "answer": "Speak very directly and honestly"
+  },
+  {
+    "question": "What does 'put words in someone’s mouth' mean?",
+    "options": [
+      "Claim someone said something they did not",
+      "Teach pronunciation",
+      "Encourage public speaking",
+      "Translate a sentence"
+    ],
+    "answer": "Claim someone said something they did not"
+  },
+  {
+    "question": "What does 'read between the lines' mean?",
+    "options": [
+      "Understand hidden meanings",
+      "Read very quickly",
+      "Skip parts of a book",
+      "Study grammar carefully"
+    ],
+    "answer": "Understand hidden meanings"
+  },
+  {
+    "question": "What does 'save for a rainy day' mean?",
+    "options": [
+      "Save money for future difficulties",
+      "Spend carefully",
+      "Prepare for bad weather",
+      "Avoid shopping"
+    ],
+    "answer": "Save money for future difficulties"
+  },
+  {
+    "question": "What does 'skeleton in the closet' mean?",
+    "options": [
+      "A hidden embarrassing secret",
+      "A scary story",
+      "An old photograph",
+      "A forgotten memory"
+    ],
+    "answer": "A hidden embarrassing secret"
+  },
+  {
+    "question": "What does 'take the bull by the horns' mean?",
+    "options": [
+      "Deal with a problem directly and bravely",
+      "Avoid responsibility",
+      "Control animals",
+      "Win a competition"
+    ],
+    "answer": "Deal with a problem directly and bravely"
+  },
+  {
+    "question": "What does 'the writing on the wall' mean?",
+    "options": [
+      "Clear signs of future trouble",
+      "A famous message",
+      "A classroom activity",
+      "An artistic design"
+    ],
+    "answer": "Clear signs of future trouble"
+  },
+  {
+    "question": "What does 'throw someone under the bus' mean?",
+    "options": [
+      "Sacrifice someone for your own benefit",
+      "Help someone escape trouble",
+      "Travel together",
+      "Play a dangerous game"
+    ],
+    "answer": "Sacrifice someone for your own benefit"
+  },
+  {
+    "question": "What does 'turn the tables' mean?",
+    "options": [
+      "Reverse a situation in your favor",
+      "Move furniture",
+      "Lose control",
+      "Change locations"
+    ],
+    "answer": "Reverse a situation in your favor"
+  }
+]

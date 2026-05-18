@@ -90,4 +90,21 @@ flutter:
     - assets/data/ielts/grammar/quiz3.json
     - assets/data/ielts/grammar/quiz4.json
     - assets/data/ielts/grammar/quiz5.json
+    - assets/data/idioms/beginner/quiz1.json
+    - assets/data/idioms/beginner/quiz2.json
+    - assets/data/idioms/beginner/quiz3.json
+    - assets/data/idioms/beginner/quiz4.json
+    - assets/data/idioms/beginner/quiz5.json
+
+    - assets/data/idioms/intermediate/quiz1.json
+    - assets/data/idioms/intermediate/quiz2.json
+    - assets/data/idioms/intermediate/quiz3.json
+    - assets/data/idioms/intermediate/quiz4.json
+    - assets/data/idioms/intermediate/quiz5.json
+    - assets/data/idioms/advanced/quiz1.json
+    - assets/data/idioms/advanced/quiz2.json
+    - assets/data/idioms/advanced/quiz3.json
+    - assets/data/idioms/advanced/quiz4.json
+    - assets/data/idioms/advanced/quiz5.json
+
 

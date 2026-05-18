@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'a wolf in sheep’s clothing' mean?",
+    "options": [
+      "Someone dangerous pretending to be harmless",
+      "A shy person",
+      "A smart student",
+      "A helpful neighbor"
+    ],
+    "answer": "Someone dangerous pretending to be harmless"
+  },
+  {
+    "question": "What does 'burn the candle at both ends' mean?",
+    "options": [
+      "Exhaust yourself by doing too much",
+      "Decorate a house",
+      "Celebrate an event",
+      "Save energy"
+    ],
+    "answer": "Exhaust yourself by doing too much"
+  },
+  {
+    "question": "What does 'cast pearls before swine' mean?",
+    "options": [
+      "Offer something valuable to someone who does not appreciate it",
+      "Give gifts to friends",
+      "Spend money wisely",
+      "Teach students"
+    ],
+    "answer": "Offer something valuable to someone who does not appreciate it"
+  },
+  {
+    "question": "What does 'cross that bridge when you come to it' mean?",
+    "options": [
+      "Deal with a problem when it happens",
+      "Travel carefully",
+      "Avoid all risks",
+      "Finish work early"
+    ],
+    "answer": "Deal with a problem when it happens"
+  },
+  {
+    "question": "What does 'devil’s advocate' mean?",
+    "options": [
+      "Someone who argues against an idea for discussion",
+      "A dishonest lawyer",
+      "A dangerous person",
+      "A strict teacher"
+    ],
+    "answer": "Someone who argues against an idea for discussion"
+  },
+  {
+    "question": "What does 'don’t put all your eggs in one basket' mean?",
+    "options": [
+      "Do not risk everything on one plan",
+      "Go shopping carefully",
+      "Cook breakfast slowly",
+      "Avoid hard work"
+    ],
+    "answer": "Do not risk everything on one plan"
+  },
+  {
+    "question": "What does 'every cloud has a silver lining' mean?",
+    "options": [
+      "There is something good in every bad situation",
+      "Weather changes quickly",
+      "Success is easy",
+      "People are always happy"
+    ],
+    "answer": "There is something good in every bad situation"
+  },
+  {
+    "question": "What does 'not playing with a full deck' mean?",
+    "options": [
+      "Not very intelligent",
+      "Losing a game",
+      "Being dishonest",
+      "Working too hard"
+    ],
+    "answer": "Not very intelligent"
+  },
+  {
+    "question": "What does 'put the cart before the horse' mean?",
+    "options": [
+      "Do things in the wrong order",
+      "Travel too quickly",
+      "Make a smart decision",
+      "Work efficiently"
+    ],
+    "answer": "Do things in the wrong order"
+  },
+  {
+    "question": "What does 'throw caution to the wind' mean?",
+    "options": [
+      "Take a risk without worrying",
+      "Ignore the weather",
+      "Travel by airplane",
+      "Protect yourself carefully"
+    ],
+    "answer": "Take a risk without worrying"
+  }
+]

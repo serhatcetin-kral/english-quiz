@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'call it a day' mean?",
+    "options": [
+      "Stop working",
+      "Start a project",
+      "Wake up early",
+      "Go on vacation"
+    ],
+    "answer": "Stop working"
+  },
+  {
+    "question": "What does 'on cloud nine' mean?",
+    "options": [
+      "Very happy",
+      "Very tired",
+      "Very confused",
+      "Very angry"
+    ],
+    "answer": "Very happy"
+  },
+  {
+    "question": "What does 'bite the bullet' mean?",
+    "options": [
+      "Eat something hard",
+      "Face a difficult situation",
+      "Win a competition",
+      "Lose money"
+    ],
+    "answer": "Face a difficult situation"
+  },
+  {
+    "question": "What does 'miss the boat' mean?",
+    "options": [
+      "Travel by sea",
+      "Miss an opportunity",
+      "Arrive early",
+      "Go fishing"
+    ],
+    "answer": "Miss an opportunity"
+  },
+  {
+    "question": "What does 'sit on the fence' mean?",
+    "options": [
+      "Avoid making a decision",
+      "Relax outside",
+      "Watch a game",
+      "Travel alone"
+    ],
+    "answer": "Avoid making a decision"
+  },
+  {
+    "question": "What does 'pull someone's leg' mean?",
+    "options": [
+      "Help someone walk",
+      "Joke with someone",
+      "Fight with someone",
+      "Teach someone"
+    ],
+    "answer": "Joke with someone"
+  },
+  {
+    "question": "What does 'through thick and thin' mean?",
+    "options": [
+      "In all situations",
+      "Only sometimes",
+      "Very quickly",
+      "With difficulty"
+    ],
+    "answer": "In all situations"
+  },
+  {
+    "question": "What does 'the ball is in your court' mean?",
+    "options": [
+      "It is your decision",
+      "Play sports",
+      "You lost the game",
+      "You are busy"
+    ],
+    "answer": "It is your decision"
+  },
+  {
+    "question": "What does 'cut corners' mean?",
+    "options": [
+      "Do something cheaply or badly",
+      "Use scissors",
+      "Build a house",
+      "Drive carefully"
+    ],
+    "answer": "Do something cheaply or badly"
+  },
+  {
+    "question": "What does 'add fuel to the fire' mean?",
+    "options": [
+      "Make a situation worse",
+      "Help someone",
+      "Cook dinner",
+      "Start a fireplace"
+    ],
+    "answer": "Make a situation worse"
+  }
+]

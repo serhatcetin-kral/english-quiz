@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'back to square one' mean?",
+    "options": [
+      "Start again",
+      "Play a game",
+      "Move forward",
+      "Win easily"
+    ],
+    "answer": "Start again"
+  },
+  {
+    "question": "What does 'better late than never' mean?",
+    "options": [
+      "Doing something late is better than not doing it",
+      "Always arrive early",
+      "Never be late",
+      "Time is not important"
+    ],
+    "answer": "Doing something late is better than not doing it"
+  },
+  {
+    "question": "What does 'easy does it' mean?",
+    "options": [
+      "Be careful and slow",
+      "Do it quickly",
+      "Take a shortcut",
+      "Stop immediately"
+    ],
+    "answer": "Be careful and slow"
+  },
+  {
+    "question": "What does 'hang in there' mean?",
+    "options": [
+      "Do not give up",
+      "Wait outside",
+      "Climb something",
+      "Travel far away"
+    ],
+    "answer": "Do not give up"
+  },
+  {
+    "question": "What does 'in hot water' mean?",
+    "options": [
+      "In trouble",
+      "Taking a bath",
+      "Feeling relaxed",
+      "Cooking food"
+    ],
+    "answer": "In trouble"
+  },
+  {
+    "question": "What does 'keep an eye on' mean?",
+    "options": [
+      "Watch carefully",
+      "Look for something",
+      "Close your eyes",
+      "Read quickly"
+    ],
+    "answer": "Watch carefully"
+  },
+  {
+    "question": "What does 'make a long story short' mean?",
+    "options": [
+      "Explain briefly",
+      "Write a book",
+      "Tell a lie",
+      "Speak slowly"
+    ],
+    "answer": "Explain briefly"
+  },
+  {
+    "question": "What does 'no pain, no gain' mean?",
+    "options": [
+      "Hard work brings success",
+      "Avoid difficult work",
+      "Exercise is dangerous",
+      "Pain is unnecessary"
+    ],
+    "answer": "Hard work brings success"
+  },
+  {
+    "question": "What does 'out of the blue' mean?",
+    "options": [
+      "Unexpectedly",
+      "From the sky",
+      "Very sadly",
+      "Very slowly"
+    ],
+    "answer": "Unexpectedly"
+  },
+  {
+    "question": "What does 'take it with a grain of salt' mean?",
+    "options": [
+      "Do not completely believe something",
+      "Add flavor to food",
+      "Accept everything",
+      "Cook carefully"
+    ],
+    "answer": "Do not completely believe something"
+  }
+]

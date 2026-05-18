@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'a storm in a teacup' mean?",
+    "options": [
+      "A small problem exaggerated into a big issue",
+      "A dangerous disaster",
+      "A weather report",
+      "A difficult exam"
+    ],
+    "answer": "A small problem exaggerated into a big issue"
+  },
+  {
+    "question": "What does 'beat a dead horse' mean?",
+    "options": [
+      "Waste time on something already settled",
+      "Work very hard",
+      "Train animals",
+      "Win an argument"
+    ],
+    "answer": "Waste time on something already settled"
+  },
+  {
+    "question": "What does 'bend over backwards' mean?",
+    "options": [
+      "Try very hard to help",
+      "Exercise regularly",
+      "Avoid responsibility",
+      "Travel long distances"
+    ],
+    "answer": "Try very hard to help"
+  },
+  {
+    "question": "What does 'bite the hand that feeds you' mean?",
+    "options": [
+      "Harm or criticize someone who helps you",
+      "Refuse food",
+      "Lose an opportunity",
+      "Support a friend"
+    ],
+    "answer": "Harm or criticize someone who helps you"
+  },
+  {
+    "question": "What does 'cry wolf' mean?",
+    "options": [
+      "Raise false alarms repeatedly",
+      "Feel very sad",
+      "Call for help",
+      "Complain loudly"
+    ],
+    "answer": "Raise false alarms repeatedly"
+  },
+  {
+    "question": "What does 'draw the line' mean?",
+    "options": [
+      "Set a limit on what is acceptable",
+      "Create artwork",
+      "Start a project",
+      "Write a letter"
+    ],
+    "answer": "Set a limit on what is acceptable"
+  },
+  {
+    "question": "What does 'elephant in the room' mean?",
+    "options": [
+      "An obvious problem everyone ignores",
+      "A large mistake",
+      "A difficult journey",
+      "A happy occasion"
+    ],
+    "answer": "An obvious problem everyone ignores"
+  },
+  {
+    "question": "What does 'hit the ground running' mean?",
+    "options": [
+      "Start something successfully and energetically",
+      "Fall while running",
+      "Lose motivation quickly",
+      "Exercise outdoors"
+    ],
+    "answer": "Start something successfully and energetically"
+  },
+  {
+    "question": "What does 'know the ropes' mean?",
+    "options": [
+      "Understand how something works",
+      "Be physically strong",
+      "Learn to climb",
+      "Tie something correctly"
+    ],
+    "answer": "Understand how something works"
+  },
+  {
+    "question": "What does 'leave someone high and dry' mean?",
+    "options": [
+      "Abandon someone in a difficult situation",
+      "Help someone succeed",
+      "Travel alone",
+      "Ignore bad weather"
+    ],
+    "answer": "Abandon someone in a difficult situation"
+  }
+]

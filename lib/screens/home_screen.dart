@@ -1,5 +1,6 @@
 import 'package:english_quiz/screens/spelling_levels_screen.dart';
 import 'package:flutter/material.dart';
+import 'idioms_screen.dart';
 import 'toefl_levels_screen.dart';
 import 'kids_levels_screen.dart';
 import 'level_screen.dart';
@@ -17,6 +18,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
 
     final categories = [
+
 
       {
         'title': 'Reading',
@@ -73,13 +75,14 @@ class HomeScreen extends StatelessWidget {
         'color1': const Color(0xFF4776E6),
         'color2': const Color(0xFF8E54E9),
       },
-      {
-        'title': 'IELTS',
-        'icon': Icons.school,
-        'category': 'ielts',
 
-        'color1': const Color(0xFF8E2DE2),
-        'color2': const Color(0xFF4A00E0),
+      {
+        'title': 'Idioms',
+        'icon': Icons.chat,
+        'category': 'idioms',
+
+        'color1': const Color(0xFF56AB2F),
+        'color2': const Color(0xFFA8E063),
       },
       // {
       //   'title': 'TOEFL',
@@ -274,6 +277,135 @@ class HomeScreen extends StatelessWidget {
             ),
 
             const SizedBox(height: 22),
+            InkWell(
+
+              borderRadius: BorderRadius.circular(28),
+
+              onTap: () {
+
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (_) => const IELTScreen(),
+                  ),
+                );
+              },
+
+              child: Container(
+
+                width: double.infinity,
+
+                padding: const EdgeInsets.all(24),
+
+                decoration: BoxDecoration(
+
+                  gradient: const LinearGradient(
+
+                    colors: [
+
+                      Color(0xFFFF6A00),
+                      Color(0xFFEE0979),
+                    ],
+
+                    begin: Alignment.topLeft,
+                    end: Alignment.bottomRight,
+                  ),
+
+                  borderRadius: BorderRadius.circular(28),
+
+                  boxShadow: [
+
+                    BoxShadow(
+                      color: Colors.orange.withOpacity(0.25),
+                      blurRadius: 16,
+                      offset: const Offset(0, 8),
+                    ),
+                  ],
+                ),
+
+                child: Row(
+
+                  children: [
+
+                    Container(
+
+                      padding: const EdgeInsets.all(18),
+
+                      decoration: BoxDecoration(
+
+                        color: Colors.white.withOpacity(0.18),
+                        shape: BoxShape.circle,
+                      ),
+
+                      child: const Icon(
+
+                        Icons.language,
+
+                        color: Colors.white,
+                        size: 38,
+                      ),
+                    ),
+
+                    const SizedBox(width: 18),
+
+                    const Expanded(
+
+                      child: Column(
+
+                        crossAxisAlignment: CrossAxisAlignment.start,
+
+                        children: [
+
+                          Text(
+
+                            'IELTS Practice',
+
+                            style: TextStyle(
+                              color: Colors.white,
+                              fontSize: 26,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+
+                          SizedBox(height: 8),
+
+                          Text(
+
+                            'International English Preparation',
+
+                            style: TextStyle(
+                              color: Colors.white70,
+                              fontSize: 15,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+
+                    Container(
+
+                      padding: const EdgeInsets.all(12),
+
+                      decoration: BoxDecoration(
+
+                        color: Colors.white.withOpacity(0.18),
+                        shape: BoxShape.circle,
+                      ),
+
+                      child: const Icon(
+
+                        Icons.arrow_forward_ios,
+
+                        color: Colors.white,
+                        size: 18,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+
+            const SizedBox(height: 22),
 
             Expanded(
 
@@ -411,6 +543,16 @@ class HomeScreen extends StatelessWidget {
 
                           MaterialPageRoute(
                             builder: (_) => const IELTScreen(),
+                          ),
+                        );
+                      }
+                      else if (item['category'] == 'idioms') {
+
+                        Navigator.push(
+                          context,
+
+                          MaterialPageRoute(
+                            builder: (_) => const IdiomsLevelsScreen(),
                           ),
                         );
                       }

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'on the same page' mean?",
+    "options": [
+      "Agreeing and understanding each other",
+      "Reading the same book",
+      "Working alone",
+      "Writing a story"
+    ],
+    "answer": "Agreeing and understanding each other"
+  },
+  {
+    "question": "What does 'pull the plug' mean?",
+    "options": [
+      "Stop something completely",
+      "Fix a machine",
+      "Start a project",
+      "Win a competition"
+    ],
+    "answer": "Stop something completely"
+  },
+  {
+    "question": "What does 'rule of thumb' mean?",
+    "options": [
+      "A practical general guideline",
+      "A strict law",
+      "A hand exercise",
+      "A difficult task"
+    ],
+    "answer": "A practical general guideline"
+  },
+  {
+    "question": "What does 'take the plunge' mean?",
+    "options": [
+      "Do something bold after hesitation",
+      "Go swimming",
+      "Travel abroad",
+      "Lose confidence"
+    ],
+    "answer": "Do something bold after hesitation"
+  },
+  {
+    "question": "What does 'the tip of the iceberg' mean?",
+    "options": [
+      "A small visible part of a much bigger problem",
+      "A cold situation",
+      "A travel destination",
+      "An easy solution"
+    ],
+    "answer": "A small visible part of a much bigger problem"
+  },
+  {
+    "question": "What does 'throw in the towel' mean?",
+    "options": [
+      "Give up",
+      "Clean the house",
+      "Start boxing",
+      "Celebrate success"
+    ],
+    "answer": "Give up"
+  },
+  {
+    "question": "What does 'under the gun' mean?",
+    "options": [
+      "Under pressure",
+      "In danger",
+      "Working outdoors",
+      "Feeling relaxed"
+    ],
+    "answer": "Under pressure"
+  },
+  {
+    "question": "What does 'up in the air' mean?",
+    "options": [
+      "Uncertain or undecided",
+      "Flying high",
+      "Very expensive",
+      "Easy to understand"
+    ],
+    "answer": "Uncertain or undecided"
+  },
+  {
+    "question": "What does 'wrap things up' mean?",
+    "options": [
+      "Finish something",
+      "Buy a gift",
+      "Start a meeting",
+      "Hide information"
+    ],
+    "answer": "Finish something"
+  },
+  {
+    "question": "What does 'you can say that again' mean?",
+    "options": [
+      "Strong agreement",
+      "Repeat a sentence",
+      "Speak louder",
+      "Ask a question"
+    ],
+    "answer": "Strong agreement"
+  }
+]

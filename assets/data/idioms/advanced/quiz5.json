@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'keep your cards close to your chest' mean?",
+    "options": [
+      "Keep your plans or feelings secret",
+      "Play games carefully",
+      "Hide money",
+      "Travel cautiously"
+    ],
+    "answer": "Keep your plans or feelings secret"
+  },
+  {
+    "question": "What does 'let the dust settle' mean?",
+    "options": [
+      "Wait until a situation becomes calmer",
+      "Clean a room",
+      "Avoid responsibility",
+      "Travel slowly"
+    ],
+    "answer": "Wait until a situation becomes calmer"
+  },
+  {
+    "question": "What does 'not miss a trick' mean?",
+    "options": [
+      "Be very alert and notice everything",
+      "Perform magic",
+      "Forget important details",
+      "Lose a competition"
+    ],
+    "answer": "Be very alert and notice everything"
+  },
+  {
+    "question": "What does 'off your own bat' mean?",
+    "options": [
+      "Do something independently",
+      "Play baseball",
+      "Work in a team",
+      "Copy someone else"
+    ],
+    "answer": "Do something independently"
+  },
+  {
+    "question": "What does 'put your foot in it' mean?",
+    "options": [
+      "Say something embarrassing",
+      "Step into mud",
+      "Start an argument",
+      "Make a smart decision"
+    ],
+    "answer": "Say something embarrassing"
+  },
+  {
+    "question": "What does 'rock the boat' mean?",
+    "options": [
+      "Cause trouble or disturb a stable situation",
+      "Travel by sea",
+      "Enjoy a vacation",
+      "Win a difficult game"
+    ],
+    "answer": "Cause trouble or disturb a stable situation"
+  },
+  {
+    "question": "What does 'take something with a grain of salt' mean?",
+    "options": [
+      "Be skeptical about something",
+      "Cook carefully",
+      "Accept advice happily",
+      "Avoid difficult situations"
+    ],
+    "answer": "Be skeptical about something"
+  },
+  {
+    "question": "What does 'the ballpark figure' mean?",
+    "options": [
+      "An approximate estimate",
+      "A sports result",
+      "An exact calculation",
+      "A large amount of money"
+    ],
+    "answer": "An approximate estimate"
+  },
+  {
+    "question": "What does 'throw a wrench in the works' mean?",
+    "options": [
+      "Cause a problem that interrupts progress",
+      "Fix a machine",
+      "Start a project",
+      "Build something quickly"
+    ],
+    "answer": "Cause a problem that interrupts progress"
+  },
+  {
+    "question": "What does 'up for grabs' mean?",
+    "options": [
+      "Available to anyone",
+      "Very expensive",
+      "Hidden from others",
+      "Difficult to achieve"
+    ],
+    "answer": "Available to anyone"
+  }
+]

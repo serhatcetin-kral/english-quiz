@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'steal someone’s thunder' mean?",
+    "options": [
+      "Take attention or praise away from someone",
+      "Win a storm competition",
+      "Speak very loudly",
+      "Help someone succeed"
+    ],
+    "answer": "Take attention or praise away from someone"
+  },
+  {
+    "question": "What does 'take with a pinch of salt' mean?",
+    "options": [
+      "Not fully believe something",
+      "Cook carefully",
+      "Enjoy food",
+      "Completely trust someone"
+    ],
+    "answer": "Not fully believe something"
+  },
+  {
+    "question": "What does 'the last straw' mean?",
+    "options": [
+      "The final problem in a series of problems",
+      "The end of a drink",
+      "A farming tool",
+      "A happy moment"
+    ],
+    "answer": "The final problem in a series of problems"
+  },
+  {
+    "question": "What does 'through the grapevine' mean?",
+    "options": [
+      "By unofficial information or gossip",
+      "Through social media",
+      "From a newspaper",
+      "By direct communication"
+    ],
+    "answer": "By unofficial information or gossip"
+  },
+  {
+    "question": "What does 'turn a blind eye' mean?",
+    "options": [
+      "Pretend not to notice something",
+      "Lose eyesight",
+      "Look carefully",
+      "Ignore directions"
+    ],
+    "answer": "Pretend not to notice something"
+  },
+  {
+    "question": "What does 'under your belt' mean?",
+    "options": [
+      "Experience already gained",
+      "Something hidden",
+      "A fashion accessory",
+      "A difficult secret"
+    ],
+    "answer": "Experience already gained"
+  },
+  {
+    "question": "What does 'walk on eggshells' mean?",
+    "options": [
+      "Be very careful not to upset someone",
+      "Cook breakfast",
+      "Exercise lightly",
+      "Clean carefully"
+    ],
+    "answer": "Be very careful not to upset someone"
+  },
+  {
+    "question": "What does 'wear your heart on your sleeve' mean?",
+    "options": [
+      "Show emotions openly",
+      "Hide your feelings",
+      "Dress formally",
+      "Act confidently"
+    ],
+    "answer": "Show emotions openly"
+  },
+  {
+    "question": "What does 'weather the storm' mean?",
+    "options": [
+      "Survive a difficult situation",
+      "Predict the weather",
+      "Travel in bad weather",
+      "Avoid responsibility"
+    ],
+    "answer": "Survive a difficult situation"
+  },
+  {
+    "question": "What does 'your hands are tied' mean?",
+    "options": [
+      "You cannot do anything about a situation",
+      "You are busy working",
+      "You are exercising",
+      "You lost control physically"
+    ],
+    "answer": "You cannot do anything about a situation"
+  }
+]
