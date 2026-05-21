@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does the word 'Ambivalent' mean?",
+    "options": [
+      "Having mixed feelings",
+      "Completely certain",
+      "Very energetic",
+      "Highly respected"
+    ],
+    "answer": "Having mixed feelings"
+  },
+  {
+    "question": "What does the word 'Belligerent' mean?",
+    "options": [
+      "Hostile and aggressive",
+      "Very supportive",
+      "Easygoing and calm",
+      "Naturally shy"
+    ],
+    "answer": "Hostile and aggressive"
+  },
+  {
+    "question": "What does the word 'Candor' mean?",
+    "options": [
+      "Honesty and openness",
+      "Careful secrecy",
+      "Extreme intelligence",
+      "A sudden mistake"
+    ],
+    "answer": "Honesty and openness"
+  },
+  {
+    "question": "What does the word 'Deference' mean?",
+    "options": [
+      "Respectful submission",
+      "Strong disagreement",
+      "A careless attitude",
+      "Complete confusion"
+    ],
+    "answer": "Respectful submission"
+  },
+  {
+    "question": "What does the word 'Eloquent' mean?",
+    "options": [
+      "Fluent and persuasive in speaking",
+      "Unable to communicate clearly",
+      "Very impatient",
+      "Quick to anger"
+    ],
+    "answer": "Fluent and persuasive in speaking"
+  },
+  {
+    "question": "What does the word 'Hypocrisy' mean?",
+    "options": [
+      "Pretending to have beliefs one does not follow",
+      "Deep admiration",
+      "Great generosity",
+      "Strong determination"
+    ],
+    "answer": "Pretending to have beliefs one does not follow"
+  },
+  {
+    "question": "What does the word 'Indigenous' mean?",
+    "options": [
+      "Native to a particular place",
+      "Recently imported",
+      "Highly expensive",
+      "Easy to replace"
+    ],
+    "answer": "Native to a particular place"
+  },
+  {
+    "question": "What does the word 'Novice' mean?",
+    "options": [
+      "A beginner",
+      "An expert",
+      "A leader",
+      "A competitor"
+    ],
+    "answer": "A beginner"
+  },
+  {
+    "question": "What does the word 'Prudent' mean?",
+    "options": [
+      "Wise and careful",
+      "Very reckless",
+      "Highly emotional",
+      "Quick to panic"
+    ],
+    "answer": "Wise and careful"
+  },
+  {
+    "question": "What does the word 'Wary' mean?",
+    "options": [
+      "Careful and cautious",
+      "Very trusting",
+      "Naturally cheerful",
+      "Easy to confuse"
+    ],
+    "answer": "Careful and cautious"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does the word 'Ambiguous' mean?",
+    "options": [
+      "Unclear or having multiple meanings",
+      "Very friendly",
+      "Quick to respond",
+      "Easy to solve"
+    ],
+    "answer": "Unclear or having multiple meanings"
+  },
+  {
+    "question": "What does the word 'Candid' mean?",
+    "options": [
+      "Honest and direct",
+      "Very nervous",
+      "Highly educated",
+      "Hard to understand"
+    ],
+    "answer": "Honest and direct"
+  },
+  {
+    "question": "What does the word 'Diligent' mean?",
+    "options": [
+      "Hardworking and careful",
+      "Extremely noisy",
+      "Very impatient",
+      "Easy to forget"
+    ],
+    "answer": "Hardworking and careful"
+  },
+  {
+    "question": "What does the word 'Eloquent' mean?",
+    "options": [
+      "Fluent and persuasive in speaking",
+      "Unable to communicate",
+      "Very shy",
+      "Quick to anger"
+    ],
+    "answer": "Fluent and persuasive in speaking"
+  },
+  {
+    "question": "What does the word 'Frugal' mean?",
+    "options": [
+      "Careful with money",
+      "Very wasteful",
+      "Naturally talented",
+      "Highly emotional"
+    ],
+    "answer": "Careful with money"
+  },
+  {
+    "question": "What does the word 'Hypothetical' mean?",
+    "options": [
+      "Based on possibility or assumption",
+      "Completely proven",
+      "Related to history",
+      "Very expensive"
+    ],
+    "answer": "Based on possibility or assumption"
+  },
+  {
+    "question": "What does the word 'Impeccable' mean?",
+    "options": [
+      "Perfect and without mistakes",
+      "Impossible to finish",
+      "Very dangerous",
+      "Extremely confusing"
+    ],
+    "answer": "Perfect and without mistakes"
+  },
+  {
+    "question": "What does the word 'Pragmatic' mean?",
+    "options": [
+      "Practical and realistic",
+      "Very emotional",
+      "Highly artistic",
+      "Careless and lazy"
+    ],
+    "answer": "Practical and realistic"
+  },
+  {
+    "question": "What does the word 'Scrutinize' mean?",
+    "options": [
+      "To examine closely",
+      "To forget quickly",
+      "To travel abroad",
+      "To create a story"
+    ],
+    "answer": "To examine closely"
+  },
+  {
+    "question": "What does the word 'Venerate' mean?",
+    "options": [
+      "To respect deeply",
+      "To strongly dislike",
+      "To avoid completely",
+      "To criticize publicly"
+    ],
+    "answer": "To respect deeply"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does the word 'Arbitrary' mean?",
+    "options": [
+      "Based on random choice rather than reason",
+      "Carefully planned",
+      "Highly scientific",
+      "Easy to understand"
+    ],
+    "answer": "Based on random choice rather than reason"
+  },
+  {
+    "question": "What does the word 'Benevolent' mean?",
+    "options": [
+      "Kind and generous",
+      "Very hostile",
+      "Highly impatient",
+      "Naturally shy"
+    ],
+    "answer": "Kind and generous"
+  },
+  {
+    "question": "What does the word 'Cynical' mean?",
+    "options": [
+      "Distrustful of people's motives",
+      "Very optimistic",
+      "Highly emotional",
+      "Easygoing and cheerful"
+    ],
+    "answer": "Distrustful of people's motives"
+  },
+  {
+    "question": "What does the word 'Diligent' mean?",
+    "options": [
+      "Hardworking and careful",
+      "Very careless",
+      "Quick to surrender",
+      "Naturally lazy"
+    ],
+    "answer": "Hardworking and careful"
+  },
+  {
+    "question": "What does the word 'Explicit' mean?",
+    "options": [
+      "Clear and fully expressed",
+      "Hidden and vague",
+      "Highly confusing",
+      "Impossible to explain"
+    ],
+    "answer": "Clear and fully expressed"
+  },
+  {
+    "question": "What does the word 'Hypothetical' mean?",
+    "options": [
+      "Based on assumption rather than fact",
+      "Completely proven",
+      "Highly dangerous",
+      "Very traditional"
+    ],
+    "answer": "Based on assumption rather than fact"
+  },
+  {
+    "question": "What does the word 'Integrity' mean?",
+    "options": [
+      "Honesty and strong moral principles",
+      "Great wealth",
+      "Extreme fear",
+      "Careless behavior"
+    ],
+    "answer": "Honesty and strong moral principles"
+  },
+  {
+    "question": "What does the word 'Lucid' mean?",
+    "options": [
+      "Clear and easy to understand",
+      "Very confusing",
+      "Highly emotional",
+      "Difficult to notice"
+    ],
+    "answer": "Clear and easy to understand"
+  },
+  {
+    "question": "What does the word 'Skeptical' mean?",
+    "options": [
+      "Doubting or questioning",
+      "Completely trusting",
+      "Very supportive",
+      "Naturally cheerful"
+    ],
+    "answer": "Doubting or questioning"
+  },
+  {
+    "question": "What does the word 'Yield' mean?",
+    "options": [
+      "To produce or give way",
+      "To destroy completely",
+      "To ignore intentionally",
+      "To criticize strongly"
+    ],
+    "answer": "To produce or give way"
+  }
+]

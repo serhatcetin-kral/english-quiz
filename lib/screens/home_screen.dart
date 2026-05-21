@@ -10,6 +10,7 @@ import 'reading_levels_screen.dart';
 import 'grammar_levels_screen.dart';
 import 'dictionary_screen.dart';
 import 'ielts_screen.dart';
+import 'sat_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -404,6 +405,135 @@ class HomeScreen extends StatelessWidget {
                 ),
               ),
             ),
+            const SizedBox(height: 22),
+
+            InkWell(
+
+              borderRadius: BorderRadius.circular(28),
+
+              onTap: () {
+
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (_) => const SatScreen(),
+                  ),
+                );
+              },
+
+              child: Container(
+
+                width: double.infinity,
+
+                padding: const EdgeInsets.all(24),
+
+                decoration: BoxDecoration(
+
+                  gradient: const LinearGradient(
+
+                    colors: [
+
+                      Color(0xFF8E2DE2),
+                      Color(0xFF4A00E0),
+                    ],
+
+                    begin: Alignment.topLeft,
+                    end: Alignment.bottomRight,
+                  ),
+
+                  borderRadius: BorderRadius.circular(28),
+
+                  boxShadow: [
+
+                    BoxShadow(
+                      color: Colors.purple.withOpacity(0.25),
+                      blurRadius: 16,
+                      offset: const Offset(0, 8),
+                    ),
+                  ],
+                ),
+
+                child: Row(
+
+                  children: [
+
+                    Container(
+
+                      padding: const EdgeInsets.all(18),
+
+                      decoration: BoxDecoration(
+
+                        color: Colors.white.withOpacity(0.18),
+                        shape: BoxShape.circle,
+                      ),
+
+                      child: const Icon(
+
+                        Icons.workspace_premium,
+
+                        color: Colors.white,
+                        size: 38,
+                      ),
+                    ),
+
+                    const SizedBox(width: 18),
+
+                    const Expanded(
+
+                      child: Column(
+
+                        crossAxisAlignment: CrossAxisAlignment.start,
+
+                        children: [
+
+                          Text(
+
+                            'SAT Practice',
+
+                            style: TextStyle(
+                              color: Colors.white,
+                              fontSize: 26,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+
+                          SizedBox(height: 8),
+
+                          Text(
+
+                            'SAT Vocabulary & Grammar',
+
+                            style: TextStyle(
+                              color: Colors.white70,
+                              fontSize: 15,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+
+                    Container(
+
+                      padding: const EdgeInsets.all(12),
+
+                      decoration: BoxDecoration(
+
+                        color: Colors.white.withOpacity(0.18),
+                        shape: BoxShape.circle,
+                      ),
+
+                      child: const Icon(
+
+                        Icons.arrow_forward_ios,
+
+                        color: Colors.white,
+                        size: 18,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ),
 
             const SizedBox(height: 22),
 
@@ -553,6 +683,16 @@ class HomeScreen extends StatelessWidget {
 
                           MaterialPageRoute(
                             builder: (_) => const IdiomsLevelsScreen(),
+                          ),
+                        );
+                      }
+                      else if (item['category'] == 'sat') {
+
+                        Navigator.push(
+                          context,
+
+                          MaterialPageRoute(
+                            builder: (_) => const SatScreen(),
                           ),
                         );
                       }

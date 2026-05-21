@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does the word 'Analyze' mean?",
+    "options": [
+      "To examine carefully",
+      "To destroy completely",
+      "To travel quickly",
+      "To hide information"
+    ],
+    "answer": "To examine carefully"
+  },
+  {
+    "question": "What does the word 'Contrast' mean?",
+    "options": [
+      "To compare differences",
+      "To repeat exactly",
+      "To agree fully",
+      "To explain slowly"
+    ],
+    "answer": "To compare differences"
+  },
+  {
+    "question": "What does the word 'Precise' mean?",
+    "options": [
+      "Exact and accurate",
+      "Very confusing",
+      "Extremely loud",
+      "Hard to notice"
+    ],
+    "answer": "Exact and accurate"
+  },
+  {
+    "question": "What does the word 'Evidence' mean?",
+    "options": [
+      "Proof or facts",
+      "A dangerous animal",
+      "A type of machine",
+      "An old tradition"
+    ],
+    "answer": "Proof or facts"
+  },
+  {
+    "question": "What does the word 'Interpret' mean?",
+    "options": [
+      "To explain meaning",
+      "To jump suddenly",
+      "To break apart",
+      "To remove quickly"
+    ],
+    "answer": "To explain meaning"
+  },
+  {
+    "question": "What does the word 'Significant' mean?",
+    "options": [
+      "Important",
+      "Very small",
+      "Temporary",
+      "Impossible"
+    ],
+    "answer": "Important"
+  },
+  {
+    "question": "What does the word 'Conclude' mean?",
+    "options": [
+      "To finish or decide",
+      "To begin again",
+      "To move slowly",
+      "To forget completely"
+    ],
+    "answer": "To finish or decide"
+  },
+  {
+    "question": "What does the word 'Establish' mean?",
+    "options": [
+      "To create or set up",
+      "To destroy fully",
+      "To ignore something",
+      "To reduce size"
+    ],
+    "answer": "To create or set up"
+  },
+  {
+    "question": "What does the word 'Relevant' mean?",
+    "options": [
+      "Closely connected",
+      "Very dangerous",
+      "Highly expensive",
+      "Completely hidden"
+    ],
+    "answer": "Closely connected"
+  },
+  {
+    "question": "What does the word 'Assume' mean?",
+    "options": [
+      "To suppose something is true",
+      "To explain carefully",
+      "To travel abroad",
+      "To cancel a meeting"
+    ],
+    "answer": "To suppose something is true"
+  }
+]

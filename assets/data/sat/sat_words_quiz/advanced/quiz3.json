@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does the word 'Austere' mean?",
+    "options": [
+      "Strict or severe in appearance",
+      "Very humorous",
+      "Easygoing and friendly",
+      "Highly emotional"
+    ],
+    "answer": "Strict or severe in appearance"
+  },
+  {
+    "question": "What does the word 'Convoluted' mean?",
+    "options": [
+      "Complicated and difficult to follow",
+      "Very simple",
+      "Highly organized",
+      "Easy to explain"
+    ],
+    "answer": "Complicated and difficult to follow"
+  },
+  {
+    "question": "What does the word 'Derive' mean?",
+    "options": [
+      "To obtain from a source",
+      "To destroy completely",
+      "To hide secretly",
+      "To travel frequently"
+    ],
+    "answer": "To obtain from a source"
+  },
+  {
+    "question": "What does the word 'Empathy' mean?",
+    "options": [
+      "Understanding another person’s feelings",
+      "Strong disagreement",
+      "A scientific theory",
+      "Extreme confusion"
+    ],
+    "answer": "Understanding another person’s feelings"
+  },
+  {
+    "question": "What does the word 'Futile' mean?",
+    "options": [
+      "Useless or ineffective",
+      "Highly successful",
+      "Very creative",
+      "Easy to complete"
+    ],
+    "answer": "Useless or ineffective"
+  },
+  {
+    "question": "What does the word 'Impartial' mean?",
+    "options": [
+      "Fair and unbiased",
+      "Strongly opinionated",
+      "Highly emotional",
+      "Very impatient"
+    ],
+    "answer": "Fair and unbiased"
+  },
+  {
+    "question": "What does the word 'Lethargic' mean?",
+    "options": [
+      "Lacking energy or enthusiasm",
+      "Very energetic",
+      "Highly intelligent",
+      "Naturally cheerful"
+    ],
+    "answer": "Lacking energy or enthusiasm"
+  },
+  {
+    "question": "What does the word 'Meticulous' mean?",
+    "options": [
+      "Very careful and detailed",
+      "Quick and careless",
+      "Easygoing",
+      "Hard to notice"
+    ],
+    "answer": "Very careful and detailed"
+  },
+  {
+    "question": "What does the word 'Obsolete' mean?",
+    "options": [
+      "No longer useful or modern",
+      "Very advanced",
+      "Highly respected",
+      "Easy to repair"
+    ],
+    "answer": "No longer useful or modern"
+  },
+  {
+    "question": "What does the word 'Vindicate' mean?",
+    "options": [
+      "To clear from blame",
+      "To accuse strongly",
+      "To weaken gradually",
+      "To ignore completely"
+    ],
+    "answer": "To clear from blame"
+  }
+]

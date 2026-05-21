@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does the word 'Alleviate' mean?",
+    "options": [
+      "To make less severe",
+      "To increase rapidly",
+      "To hide completely",
+      "To confuse intentionally"
+    ],
+    "answer": "To make less severe"
+  },
+  {
+    "question": "What does the word 'Bolster' mean?",
+    "options": [
+      "To support or strengthen",
+      "To weaken gradually",
+      "To remove entirely",
+      "To delay intentionally"
+    ],
+    "answer": "To support or strengthen"
+  },
+  {
+    "question": "What does the word 'Coherent' mean?",
+    "options": [
+      "Logical and consistent",
+      "Very confusing",
+      "Highly emotional",
+      "Impossible to explain"
+    ],
+    "answer": "Logical and consistent"
+  },
+  {
+    "question": "What does the word 'Discern' mean?",
+    "options": [
+      "To recognize or understand",
+      "To ignore completely",
+      "To criticize publicly",
+      "To travel secretly"
+    ],
+    "answer": "To recognize or understand"
+  },
+  {
+    "question": "What does the word 'Endorse' mean?",
+    "options": [
+      "To publicly support or approve",
+      "To strongly oppose",
+      "To remove carefully",
+      "To weaken significantly"
+    ],
+    "answer": "To publicly support or approve"
+  },
+  {
+    "question": "What does the word 'Formidable' mean?",
+    "options": [
+      "Powerful or difficult to overcome",
+      "Easy to defeat",
+      "Very ordinary",
+      "Naturally weak"
+    ],
+    "answer": "Powerful or difficult to overcome"
+  },
+  {
+    "question": "What does the word 'Imply' mean?",
+    "options": [
+      "To suggest indirectly",
+      "To explain clearly",
+      "To announce publicly",
+      "To repeat constantly"
+    ],
+    "answer": "To suggest indirectly"
+  },
+  {
+    "question": "What does the word 'Profound' mean?",
+    "options": [
+      "Deep or intellectually meaningful",
+      "Very shallow",
+      "Easy to ignore",
+      "Highly temporary"
+    ],
+    "answer": "Deep or intellectually meaningful"
+  },
+  {
+    "question": "What does the word 'Resilient' mean?",
+    "options": [
+      "Able to recover quickly",
+      "Very fragile",
+      "Highly careless",
+      "Quick to surrender"
+    ],
+    "answer": "Able to recover quickly"
+  },
+  {
+    "question": "What does the word 'Validate' mean?",
+    "options": [
+      "To confirm or prove accuracy",
+      "To reject entirely",
+      "To weaken intentionally",
+      "To avoid responsibility"
+    ],
+    "answer": "To confirm or prove accuracy"
+  }
+]

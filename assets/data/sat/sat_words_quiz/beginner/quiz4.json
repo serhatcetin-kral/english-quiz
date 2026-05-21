@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does the word 'Convey' mean?",
+    "options": [
+      "To communicate or express",
+      "To hide completely",
+      "To damage severely",
+      "To move slowly"
+    ],
+    "answer": "To communicate or express"
+  },
+  {
+    "question": "What does the word 'Deficient' mean?",
+    "options": [
+      "Lacking something important",
+      "Very successful",
+      "Highly energetic",
+      "Easy to understand"
+    ],
+    "answer": "Lacking something important"
+  },
+  {
+    "question": "What does the word 'Enhance' mean?",
+    "options": [
+      "To improve or increase quality",
+      "To remove completely",
+      "To confuse intentionally",
+      "To delay progress"
+    ],
+    "answer": "To improve or increase quality"
+  },
+  {
+    "question": "What does the word 'Feasible' mean?",
+    "options": [
+      "Possible or practical",
+      "Extremely dangerous",
+      "Impossible to explain",
+      "Highly emotional"
+    ],
+    "answer": "Possible or practical"
+  },
+  {
+    "question": "What does the word 'Inevitable' mean?",
+    "options": [
+      "Certain to happen",
+      "Easy to avoid",
+      "Very surprising",
+      "Highly expensive"
+    ],
+    "answer": "Certain to happen"
+  },
+  {
+    "question": "What does the word 'Justify' mean?",
+    "options": [
+      "To give a valid reason",
+      "To ignore completely",
+      "To repeat endlessly",
+      "To weaken gradually"
+    ],
+    "answer": "To give a valid reason"
+  },
+  {
+    "question": "What does the word 'Novel' mean?",
+    "options": [
+      "New and original",
+      "Very traditional",
+      "Hard to carry",
+      "Extremely noisy"
+    ],
+    "answer": "New and original"
+  },
+  {
+    "question": "What does the word 'Persistent' mean?",
+    "options": [
+      "Continuing firmly despite difficulty",
+      "Very careless",
+      "Quick to quit",
+      "Easy to forget"
+    ],
+    "answer": "Continuing firmly despite difficulty"
+  },
+  {
+    "question": "What does the word 'Restrict' mean?",
+    "options": [
+      "To limit or control",
+      "To encourage strongly",
+      "To improve rapidly",
+      "To explain publicly"
+    ],
+    "answer": "To limit or control"
+  },
+  {
+    "question": "What does the word 'Valid' mean?",
+    "options": [
+      "Logically correct or acceptable",
+      "Impossible to understand",
+      "Highly dangerous",
+      "Naturally creative"
+    ],
+    "answer": "Logically correct or acceptable"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does the word 'Articulate' mean?",
+    "options": [
+      "Able to express ideas clearly",
+      "Very nervous",
+      "Hard to notice",
+      "Easy to forget"
+    ],
+    "answer": "Able to express ideas clearly"
+  },
+  {
+    "question": "What does the word 'Benevolent' mean?",
+    "options": [
+      "Kind and generous",
+      "Very aggressive",
+      "Highly secretive",
+      "Extremely careless"
+    ],
+    "answer": "Kind and generous"
+  },
+  {
+    "question": "What does the word 'Coherent' mean?",
+    "options": [
+      "Logical and well organized",
+      "Very confusing",
+      "Impossible to solve",
+      "Highly emotional"
+    ],
+    "answer": "Logical and well organized"
+  },
+  {
+    "question": "What does the word 'Deteriorate' mean?",
+    "options": [
+      "To become worse",
+      "To improve quickly",
+      "To explain carefully",
+      "To increase suddenly"
+    ],
+    "answer": "To become worse"
+  },
+  {
+    "question": "What does the word 'Explicit' mean?",
+    "options": [
+      "Clear and direct",
+      "Hidden and secret",
+      "Very complicated",
+      "Naturally funny"
+    ],
+    "answer": "Clear and direct"
+  },
+  {
+    "question": "What does the word 'Formidable' mean?",
+    "options": [
+      "Powerful or difficult to overcome",
+      "Easy to defeat",
+      "Very ordinary",
+      "Extremely friendly"
+    ],
+    "answer": "Powerful or difficult to overcome"
+  },
+  {
+    "question": "What does the word 'Imply' mean?",
+    "options": [
+      "To suggest indirectly",
+      "To announce publicly",
+      "To remove completely",
+      "To travel abroad"
+    ],
+    "answer": "To suggest indirectly"
+  },
+  {
+    "question": "What does the word 'Mandatory' mean?",
+    "options": [
+      "Required by rule or law",
+      "Optional and flexible",
+      "Hard to understand",
+      "Very temporary"
+    ],
+    "answer": "Required by rule or law"
+  },
+  {
+    "question": "What does the word 'Refine' mean?",
+    "options": [
+      "To improve by making small changes",
+      "To destroy completely",
+      "To hide secretly",
+      "To delay intentionally"
+    ],
+    "answer": "To improve by making small changes"
+  },
+  {
+    "question": "What does the word 'Versatile' mean?",
+    "options": [
+      "Able to adapt to many uses",
+      "Very fragile",
+      "Impossible to change",
+      "Highly expensive"
+    ],
+    "answer": "Able to adapt to many uses"
+  }
+]

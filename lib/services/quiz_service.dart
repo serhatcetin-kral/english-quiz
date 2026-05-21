@@ -15,10 +15,21 @@ class QuizService {
 
       ) async {
 
+    String path;
+
+    if (category.startsWith('sat_')) {
+
+      path =
+      'assets/data/sat/$category/$level/$quizNumber.json';
+
+    } else {
+
+      path =
+      'assets/data/$category/$level/$quizNumber.json';
+    }
+
     final String data =
-    await rootBundle.loadString(
-      'assets/data/$category/$level/$quizNumber.json',
-    );
+    await rootBundle.loadString(path);
 
     final decoded = json.decode(data);
 

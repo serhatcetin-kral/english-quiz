@@ -209,7 +209,29 @@ class _QuizScreenState extends State<QuizScreen> {
         ),
       );
     }
+    final percentage =
+        (score / questions.length) * 100;
 
+    if (percentage >= 80) {
+
+      final completedPrefs =
+      await SharedPreferences.getInstance();
+
+      final completedList =
+          completedPrefs.getStringList(
+            '${widget.category}_${widget.level}_completed',
+          ) ?? [];
+
+      if (!completedList.contains(widget.quizNumber)) {
+
+        completedList.add(widget.quizNumber);
+
+        await completedPrefs.setStringList(
+          '${widget.category}_${widget.level}_completed',
+          completedList,
+        );
+      }
+    }
     Navigator.pushReplacement(
       context,
 

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 import 'quiz_screen.dart';
-
-class LevelScreen extends StatelessWidget {
+import 'package:shared_preferences/shared_preferences.dart';
+class LevelScreen extends StatefulWidget {
   final String category;
   final String level;
 
@@ -12,6 +12,33 @@ class LevelScreen extends StatelessWidget {
     required this.level,
   });
 
+  @override
+  State<LevelScreen> createState() => _LevelScreenState();
+}
+class _LevelScreenState extends State<LevelScreen> {
+
+  Set<String> completedQuizzes = {};
+
+  @override
+  void initState() {
+    super.initState();
+    loadCompletedQuizzes();
+  }
+
+  Future<void> loadCompletedQuizzes() async {
+
+    final prefs =
+    await SharedPreferences.getInstance();
+
+    final saved =
+        prefs.getStringList(
+          '${widget.category}_${widget.level}_completed',
+        ) ?? [];
+
+    setState(() {
+      completedQuizzes = saved.toSet();
+    });
+  }
   List<String> getQuizList(String category, String level) {
 
     // VOCABULARY
@@ -220,6 +247,36 @@ class LevelScreen extends StatelessWidget {
         'quiz5',
       ];
     }
+    // SAT WORDS QUIZ
+    if (category == 'sat_words_quiz' && level == 'beginner') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
+
+    if (category == 'sat_words_quiz' && level == 'intermediate') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
+
+    if (category == 'sat_words_quiz' && level == 'advanced') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
 
     // DEFAULT
     return ['quiz1'];
@@ -228,12 +285,14 @@ class LevelScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 
-    final quizzes = getQuizList(category, level);
+    final quizzes =
+    getQuizList(widget.category, widget.level);
 
     return Scaffold(
+
       appBar: AppBar(
         title: Text(
-          '${category.toUpperCase()} - ${level.toUpperCase()}',
+          '${widget.category.toUpperCase()} - ${widget.level.toUpperCase()}',
         ),
       ),
 
@@ -249,34 +308,78 @@ class LevelScreen extends StatelessWidget {
 
             Text(
               'Select Quiz',
-              style: Theme.of(context).textTheme.headlineSmall,
+              style:
+              Theme.of(context).textTheme.headlineSmall,
             ),
 
             const SizedBox(height: 20),
 
             Expanded(
               child: ListView.builder(
+
                 itemCount: quizzes.length,
 
                 itemBuilder: (context, index) {
 
                   final quizNumber = quizzes[index];
 
+                  final isCompleted =
+                  completedQuizzes.contains(
+                    quizNumber,
+                  );
+
                   return Card(
+
+                    color:
+                    isCompleted
+                        ? Colors.green.shade100
+                        : Colors.white,
+
                     elevation: 3,
-                    margin: const EdgeInsets.only(bottom: 12),
+
+                    margin:
+                    const EdgeInsets.only(bottom: 12),
 
                     child: ListTile(
 
                       leading: CircleAvatar(
-                        child: Text('${index + 1}'),
+                        backgroundColor:
+                        isCompleted
+                            ? Colors.green
+                            : Colors.blue,
+
+                        child: Text(
+                          '${index + 1}',
+
+                          style: const TextStyle(
+                            color: Colors.white,
+                          ),
+                        ),
                       ),
 
                       title: Text(
                         'Quiz ${index + 1}',
                       ),
 
-                      trailing: const Icon(
+                      subtitle:
+                      isCompleted
+                          ? const Text(
+                        'Completed',
+                        style: TextStyle(
+                          color: Colors.green,
+                          fontWeight:
+                          FontWeight.bold,
+                        ),
+                      )
+                          : null,
+
+                      trailing:
+                      isCompleted
+                          ? const Icon(
+                        Icons.check_circle,
+                        color: Colors.green,
+                      )
+                          : const Icon(
                         Icons.arrow_forward_ios,
                       ),
 
@@ -287,12 +390,16 @@ class LevelScreen extends StatelessWidget {
 
                           MaterialPageRoute(
                             builder: (_) => QuizScreen(
-                              category: category,
-                              level: level,
+                              category: widget.category,
+                              level: widget.level,
                               quizNumber: quizNumber,
                             ),
                           ),
-                        );
+                        ).then((_) {
+
+                          loadCompletedQuizzes();
+
+                        });
                       },
                     ),
                   );

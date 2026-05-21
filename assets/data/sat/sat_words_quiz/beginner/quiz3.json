@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does the word 'Aberration' mean?",
+    "options": [
+      "Something unusual or unexpected",
+      "A formal agreement",
+      "A scientific tool",
+      "A loud celebration"
+    ],
+    "answer": "Something unusual or unexpected"
+  },
+  {
+    "question": "What does the word 'Belligerent' mean?",
+    "options": [
+      "Hostile and aggressive",
+      "Very intelligent",
+      "Quiet and calm",
+      "Highly creative"
+    ],
+    "answer": "Hostile and aggressive"
+  },
+  {
+    "question": "What does the word 'Debilitate' mean?",
+    "options": [
+      "To weaken",
+      "To improve rapidly",
+      "To organize carefully",
+      "To celebrate loudly"
+    ],
+    "answer": "To weaken"
+  },
+  {
+    "question": "What does the word 'Emulate' mean?",
+    "options": [
+      "To imitate or match",
+      "To destroy completely",
+      "To hide secretly",
+      "To speak softly"
+    ],
+    "answer": "To imitate or match"
+  },
+  {
+    "question": "What does the word 'Fortify' mean?",
+    "options": [
+      "To strengthen",
+      "To remove",
+      "To confuse",
+      "To shorten"
+    ],
+    "answer": "To strengthen"
+  },
+  {
+    "question": "What does the word 'Gregarious' mean?",
+    "options": [
+      "Sociable and outgoing",
+      "Very nervous",
+      "Difficult to understand",
+      "Highly secretive"
+    ],
+    "answer": "Sociable and outgoing"
+  },
+  {
+    "question": "What does the word 'Hostile' mean?",
+    "options": [
+      "Unfriendly or aggressive",
+      "Very supportive",
+      "Highly skilled",
+      "Easygoing"
+    ],
+    "answer": "Unfriendly or aggressive"
+  },
+  {
+    "question": "What does the word 'Lucid' mean?",
+    "options": [
+      "Clear and easy to understand",
+      "Very dark",
+      "Highly emotional",
+      "Extremely noisy"
+    ],
+    "answer": "Clear and easy to understand"
+  },
+  {
+    "question": "What does the word 'Meticulous' mean?",
+    "options": [
+      "Very careful and detailed",
+      "Quick and careless",
+      "Naturally funny",
+      "Very impatient"
+    ],
+    "answer": "Very careful and detailed"
+  },
+  {
+    "question": "What does the word 'Obsolete' mean?",
+    "options": [
+      "No longer useful or modern",
+      "Very expensive",
+      "Easy to repair",
+      "Highly respected"
+    ],
+    "answer": "No longer useful or modern"
+  }
+]

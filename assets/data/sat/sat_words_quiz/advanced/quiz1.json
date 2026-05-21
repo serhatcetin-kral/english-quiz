@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does the word 'Anomaly' mean?",
+    "options": [
+      "Something that differs from what is normal",
+      "A scientific invention",
+      "A formal ceremony",
+      "A difficult journey"
+    ],
+    "answer": "Something that differs from what is normal"
+  },
+  {
+    "question": "What does the word 'Capricious' mean?",
+    "options": [
+      "Changing suddenly and unpredictably",
+      "Very logical",
+      "Easy to understand",
+      "Highly disciplined"
+    ],
+    "answer": "Changing suddenly and unpredictably"
+  },
+  {
+    "question": "What does the word 'Disdain' mean?",
+    "options": [
+      "Strong dislike or disrespect",
+      "Deep admiration",
+      "Careful planning",
+      "A friendly discussion"
+    ],
+    "answer": "Strong dislike or disrespect"
+  },
+  {
+    "question": "What does the word 'Euphoric' mean?",
+    "options": [
+      "Extremely happy",
+      "Very nervous",
+      "Highly confused",
+      "Completely silent"
+    ],
+    "answer": "Extremely happy"
+  },
+  {
+    "question": "What does the word 'Frivolous' mean?",
+    "options": [
+      "Not serious or important",
+      "Very meaningful",
+      "Highly respected",
+      "Carefully organized"
+    ],
+    "answer": "Not serious or important"
+  },
+  {
+    "question": "What does the word 'Imminent' mean?",
+    "options": [
+      "About to happen",
+      "Very distant",
+      "Hard to explain",
+      "Completely impossible"
+    ],
+    "answer": "About to happen"
+  },
+  {
+    "question": "What does the word 'Obscure' mean?",
+    "options": [
+      "Not well known or difficult to understand",
+      "Very popular",
+      "Highly visible",
+      "Easy to explain"
+    ],
+    "answer": "Not well known or difficult to understand"
+  },
+  {
+    "question": "What does the word 'Revere' mean?",
+    "options": [
+      "To deeply respect",
+      "To strongly criticize",
+      "To ignore intentionally",
+      "To weaken gradually"
+    ],
+    "answer": "To deeply respect"
+  },
+  {
+    "question": "What does the word 'Tangible' mean?",
+    "options": [
+      "Able to be touched or clearly understood",
+      "Completely imaginary",
+      "Very dangerous",
+      "Highly emotional"
+    ],
+    "answer": "Able to be touched or clearly understood"
+  },
+  {
+    "question": "What does the word 'Vigilant' mean?",
+    "options": [
+      "Carefully watchful and alert",
+      "Very careless",
+      "Naturally shy",
+      "Quick to surrender"
+    ],
+    "answer": "Carefully watchful and alert"
+  }
+]

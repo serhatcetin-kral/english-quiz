@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does the word 'Abundant' mean?",
+    "options": [
+      "Existing in large amounts",
+      "Very dangerous",
+      "Hard to notice",
+      "Impossible to understand"
+    ],
+    "answer": "Existing in large amounts"
+  },
+  {
+    "question": "What does the word 'Conspicuous' mean?",
+    "options": [
+      "Easy to notice",
+      "Highly secretive",
+      "Very confusing",
+      "Naturally quiet"
+    ],
+    "answer": "Easy to notice"
+  },
+  {
+    "question": "What does the word 'Deplete' mean?",
+    "options": [
+      "To reduce greatly",
+      "To improve quickly",
+      "To explain publicly",
+      "To organize carefully"
+    ],
+    "answer": "To reduce greatly"
+  },
+  {
+    "question": "What does the word 'Elusive' mean?",
+    "options": [
+      "Difficult to find or understand",
+      "Very friendly",
+      "Highly energetic",
+      "Easy to solve"
+    ],
+    "answer": "Difficult to find or understand"
+  },
+  {
+    "question": "What does the word 'Fluctuate' mean?",
+    "options": [
+      "To change constantly",
+      "To remain stable",
+      "To disappear forever",
+      "To speak clearly"
+    ],
+    "answer": "To change constantly"
+  },
+  {
+    "question": "What does the word 'Hostility' mean?",
+    "options": [
+      "Strong unfriendliness",
+      "Great happiness",
+      "Deep respect",
+      "Careful planning"
+    ],
+    "answer": "Strong unfriendliness"
+  },
+  {
+    "question": "What does the word 'Indifferent' mean?",
+    "options": [
+      "Not caring",
+      "Very emotional",
+      "Highly motivated",
+      "Easygoing and friendly"
+    ],
+    "answer": "Not caring"
+  },
+  {
+    "question": "What does the word 'Mandatory' mean?",
+    "options": [
+      "Required",
+      "Optional",
+      "Highly expensive",
+      "Naturally creative"
+    ],
+    "answer": "Required"
+  },
+  {
+    "question": "What does the word 'Resilient' mean?",
+    "options": [
+      "Able to recover quickly",
+      "Very weak",
+      "Hard to explain",
+      "Impossible to repair"
+    ],
+    "answer": "Able to recover quickly"
+  },
+  {
+    "question": "What does the word 'Scarce' mean?",
+    "options": [
+      "Rare or limited",
+      "Very common",
+      "Highly organized",
+      "Easy to replace"
+    ],
+    "answer": "Rare or limited"
+  }
+]

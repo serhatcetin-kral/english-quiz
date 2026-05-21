@@ -106,6 +106,27 @@ flutter:
     - assets/data/idioms/advanced/quiz3.json
     - assets/data/idioms/advanced/quiz4.json
     - assets/data/idioms/advanced/quiz5.json
+    - assets/data/sat/sat_words_quiz/beginner/quiz1.json
+    - assets/data/sat/sat_words_quiz/beginner/quiz2.json
+    - assets/data/sat/sat_words_quiz/beginner/quiz3.json
+    - assets/data/sat/sat_words_quiz/beginner/quiz4.json
+    - assets/data/sat/sat_words_quiz/beginner/quiz5.json
+    - assets/data/sat/sat_words_quiz/intermediate/quiz1.json
+    - assets/data/sat/sat_words_quiz/intermediate/quiz2.json
+    - assets/data/sat/sat_words_quiz/intermediate/quiz3.json
+    - assets/data/sat/sat_words_quiz/intermediate/quiz4.json
+    - assets/data/sat/sat_words_quiz/intermediate/quiz5.json
+
+    - assets/data/sat/sat_words_quiz/advanced/quiz1.json
+    - assets/data/sat/sat_words_quiz/advanced/quiz2.json
+    - assets/data/sat/sat_words_quiz/advanced/quiz3.json
+    - assets/data/sat/sat_words_quiz/advanced/quiz4.json
+    - assets/data/sat/sat_words_quiz/advanced/quiz5.json
+    - assets/data/sat/sat_words/beginner1.json
+    - assets/data/sat/sat_words/intermediate1.json
+    - assets/data/sat/sat_words/advanced1.json
+
+
 
 flutter_launcher_icons:
     android: true
