@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-
+import 'package:shared_preferences/shared_preferences.dart';
 class SATWordsListScreen extends StatefulWidget {
 
   final String level;
@@ -23,11 +23,13 @@ class _SATWordsListScreenState
   List<Map<String, dynamic>> words = [];
 
   bool loading = true;
+  final ScrollController _scrollController =
+  ScrollController();
 
   @override
   void initState() {
     super.initState();
-
+    _scrollController.addListener(savePosition);
     loadWords();
   }
 
@@ -75,6 +77,8 @@ class _SATWordsListScreenState
         loading = false;
       });
 
+      restorePosition();
+
     } catch (e) {
 
       print('SAT WORD ERROR: $e');
@@ -84,6 +88,40 @@ class _SATWordsListScreenState
         loading = false;
       });
     }
+  }
+  Future<void> savePosition() async {
+
+    final prefs =
+    await SharedPreferences.getInstance();
+
+    prefs.setDouble(
+      'sat_words_${widget.level}',
+      _scrollController.offset,
+    );
+  }
+
+  Future<void> restorePosition() async {
+
+    final prefs =
+    await SharedPreferences.getInstance();
+
+    final savedOffset =
+        prefs.getDouble(
+          'sat_words_${widget.level}',
+        ) ?? 0;
+
+    Future.delayed(
+      const Duration(milliseconds: 300),
+          () {
+
+        if (_scrollController.hasClients) {
+
+          _scrollController.jumpTo(
+            savedOffset,
+          );
+        }
+      },
+    );
   }
 
   @override
@@ -119,6 +157,7 @@ class _SATWordsListScreenState
       ),
 
       body: ListView.builder(
+        controller: _scrollController,
 
         padding: const EdgeInsets.all(16),
 
