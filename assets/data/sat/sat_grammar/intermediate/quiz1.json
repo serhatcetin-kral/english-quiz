@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the sentence with the correct use of a semicolon.",
+    "options": [
+      "I enjoy reading; and writing.",
+      "I enjoy reading; writing is relaxing.",
+      "I enjoy; reading and writing.",
+      "I enjoy reading writing; is relaxing."
+    ],
+    "answer": "I enjoy reading; writing is relaxing."
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "Neither the teacher nor the students was ready.",
+      "Neither the teacher nor the students were ready.",
+      "Neither the teacher nor the students is ready.",
+      "Neither the teacher nor the students be ready."
+    ],
+    "answer": "Neither the teacher nor the students were ready."
+  },
+  {
+    "question": "Choose the sentence with proper modifier placement.",
+    "options": [
+      "Walking down the street, the flowers smelled wonderful.",
+      "Walking down the street, I smelled the wonderful flowers.",
+      "The flowers smelled wonderful walking down the street.",
+      "Walking down the street, wonderful flowers were smelled."
+    ],
+    "answer": "Walking down the street, I smelled the wonderful flowers."
+  },
+  {
+    "question": "Which sentence avoids redundancy?",
+    "options": [
+      "The final outcome surprised everyone.",
+      "The outcome surprised everyone.",
+      "The unexpected surprise shocked everyone.",
+      "The end result outcome surprised everyone."
+    ],
+    "answer": "The outcome surprised everyone."
+  },
+  {
+    "question": "Choose the sentence with correct pronoun agreement.",
+    "options": [
+      "Every student must bring their notebook.",
+      "Every student must bring his or her notebook.",
+      "Every student must bring there notebook.",
+      "Every student must brings his notebook."
+    ],
+    "answer": "Every student must bring his or her notebook."
+  },
+  {
+    "question": "Which sentence uses commas correctly?",
+    "options": [
+      "My brother who lives in Boston is visiting.",
+      "My brother, who lives in Boston, is visiting.",
+      "My brother who lives in Boston, is visiting.",
+      "My brother, who lives in Boston is visiting."
+    ],
+    "answer": "My brother, who lives in Boston, is visiting."
+  },
+  {
+    "question": "Choose the sentence with parallel structure.",
+    "options": [
+      "She enjoys swimming, hiking, and to bike.",
+      "She enjoys swimming, hiking, and biking.",
+      "She enjoys to swim, hiking, and biking.",
+      "She enjoys swimming, to hike, and biking."
+    ],
+    "answer": "She enjoys swimming, hiking, and biking."
+  },
+  {
+    "question": "Which sentence is punctuated correctly?",
+    "options": [
+      "However I decided to stay home.",
+      "However, I decided to stay home.",
+      "However I, decided to stay home.",
+      "However, I decided, to stay home."
+    ],
+    "answer": "However, I decided to stay home."
+  },
+  {
+    "question": "Choose the sentence with correct verb usage.",
+    "options": [
+      "If I was taller, I would play basketball.",
+      "If I were taller, I would play basketball.",
+      "If I am taller, I would play basketball.",
+      "If I be taller, I would play basketball."
+    ],
+    "answer": "If I were taller, I would play basketball."
+  },
+  {
+    "question": "Which sentence avoids a run-on sentence?",
+    "options": [
+      "The lecture ended the students left quickly.",
+      "The lecture ended, the students left quickly.",
+      "The lecture ended, and the students left quickly.",
+      "The lecture ended and, the students left quickly."
+    ],
+    "answer": "The lecture ended, and the students left quickly."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Acheivement",
+      "Achievement",
+      "Acheivment",
+      "Achievment"
+    ],
+    "answer": "Achievement"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Conscience",
+      "Consciense",
+      "Concsience",
+      "Consience"
+    ],
+    "answer": "Conscience"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Familiar",
+      "Familliar",
+      "Familar",
+      "Famillier"
+    ],
+    "answer": "Familiar"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Guarantee",
+      "Gaurantee",
+      "Garanty",
+      "Guarentee"
+    ],
+    "answer": "Guarantee"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Inteligent",
+      "Intelligent",
+      "Intellgent",
+      "Intellegent"
+    ],
+    "answer": "Intelligent"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Knowlege",
+      "Knowledge",
+      "Knowlodge",
+      "Knowledg"
+    ],
+    "answer": "Knowledge"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Lisence",
+      "License",
+      "Licensce",
+      "Liscense"
+    ],
+    "answer": "License"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Millennium",
+      "Millenium",
+      "Milennium",
+      "Milleniumm"
+    ],
+    "answer": "Millennium"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Questionnaire",
+      "Questionare",
+      "Questionnairee",
+      "Questionnair"
+    ],
+    "answer": "Questionnaire"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Restaurant",
+      "Restaraunt",
+      "Resturant",
+      "Resteraunt"
+    ],
+    "answer": "Restaurant"
+  }
+]

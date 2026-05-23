@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 
 import 'sat_words_quiz_levels_screen.dart';
-
+import 'sat_words_levels_screen.dart';
+import 'sat_grammar_levels_screen.dart';
+import 'sat_spelling_levels_screen.dart';
+import 'sat_reading_levels_screen.dart';
 class SatScreen extends StatelessWidget {
   const SatScreen({super.key});
 
@@ -121,13 +124,48 @@ class SatScreen extends StatelessWidget {
         // SAT WORDS
         else if (title == 'SAT Words') {
 
-          ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(
-              content: Text('SAT Words Coming Soon'),
+          Navigator.push(
+            context,
+
+            MaterialPageRoute(
+              builder: (_) =>
+              const SATWordsLevelsScreen(),
             ),
           );
         }
+        else if (title == 'SAT Grammar') {
 
+          Navigator.push(
+            context,
+
+            MaterialPageRoute(
+              builder: (_) =>
+              const SATGrammarLevelsScreen(),
+            ),
+          );
+        }
+        else if (title == 'SAT Spelling') {
+
+          Navigator.push(
+            context,
+
+            MaterialPageRoute(
+              builder: (_) =>
+              const SATSpellingLevelsScreen(),
+            ),
+          );
+        }
+        else if (title == 'SAT Reading') {
+
+          Navigator.push(
+            context,
+
+            MaterialPageRoute(
+              builder: (_) =>
+              const SATReadingLevelsScreen(),
+            ),
+          );
+        }
         // OTHER SECTIONS
         else {
 

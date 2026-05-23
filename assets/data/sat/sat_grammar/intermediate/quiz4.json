@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the sentence with correct punctuation.",
+    "options": [
+      "The project was difficult however, the team succeeded.",
+      "The project was difficult; however, the team succeeded.",
+      "The project was difficult however the team succeeded.",
+      "The project was difficult, however the team succeeded."
+    ],
+    "answer": "The project was difficult; however, the team succeeded."
+  },
+  {
+    "question": "Which sentence uses parallel structure correctly?",
+    "options": [
+      "She enjoys painting, to dance, and singing.",
+      "She enjoys painting, dancing, and singing.",
+      "She enjoys to paint, dancing, and singing.",
+      "She enjoys painting, dancing, and to sing."
+    ],
+    "answer": "She enjoys painting, dancing, and singing."
+  },
+  {
+    "question": "Choose the sentence with proper pronoun usage.",
+    "options": [
+      "Each of the workers must submit their report.",
+      "Each of the workers must submit his or her report.",
+      "Each of the workers must submits their report.",
+      "Each of the workers must submit there report."
+    ],
+    "answer": "Each of the workers must submit his or her report."
+  },
+  {
+    "question": "Which sentence avoids a misplaced modifier?",
+    "options": [
+      "Running through the park, the flowers smelled wonderful.",
+      "Running through the park, I noticed the wonderful flowers.",
+      "The flowers smelled wonderful running through the park.",
+      "Running through the park, wonderful flowers were noticed."
+    ],
+    "answer": "Running through the park, I noticed the wonderful flowers."
+  },
+  {
+    "question": "Choose the most concise sentence.",
+    "options": [
+      "Due to the fact that it rained, the game was canceled.",
+      "Because it rained, the game was canceled.",
+      "The game was canceled because of the reason that it rained.",
+      "The rain was the reason why the game was canceled."
+    ],
+    "answer": "Because it rained, the game was canceled."
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "Neither the manager nor the employees was satisfied.",
+      "Neither the manager nor the employees were satisfied.",
+      "Neither the manager nor the employees is satisfied.",
+      "Neither the manager nor the employees be satisfied."
+    ],
+    "answer": "Neither the manager nor the employees were satisfied."
+  },
+  {
+    "question": "Choose the sentence with correct comma usage.",
+    "options": [
+      "After the performance the actors greeted the audience.",
+      "After the performance, the actors greeted the audience.",
+      "After, the performance the actors greeted the audience.",
+      "After the performance the actors, greeted the audience."
+    ],
+    "answer": "After the performance, the actors greeted the audience."
+  },
+  {
+    "question": "Which sentence uses the correct verb form?",
+    "options": [
+      "If he was more patient, he would succeed.",
+      "If he were more patient, he would succeed.",
+      "If he be more patient, he would succeed.",
+      "If he is more patient, he would succeed."
+    ],
+    "answer": "If he were more patient, he would succeed."
+  },
+  {
+    "question": "Choose the sentence with proper capitalization.",
+    "options": [
+      "We learned about the Civil war in class.",
+      "We learned about the Civil War in class.",
+      "We learned about the civil War in class.",
+      "We learned about the civil war in Class."
+    ],
+    "answer": "We learned about the Civil War in class."
+  },
+  {
+    "question": "Which sentence avoids a sentence fragment?",
+    "options": [
+      "While the students were studying.",
+      "Because the traffic was heavy.",
+      "The audience waited patiently for the show.",
+      "After the movie had ended."
+    ],
+    "answer": "The audience waited patiently for the show."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the sentence with correct punctuation.",
+    "options": [
+      "We visited Paris France and Rome.",
+      "We visited Paris, France, and Rome.",
+      "We visited Paris France, and Rome.",
+      "We visited, Paris France and Rome."
+    ],
+    "answer": "We visited Paris, France, and Rome."
+  },
+  {
+    "question": "Which sentence uses the correct verb form?",
+    "options": [
+      "She have completed her homework.",
+      "She has completed her homework.",
+      "She having completed her homework.",
+      "She had complete her homework."
+    ],
+    "answer": "She has completed her homework."
+  },
+  {
+    "question": "Choose the correctly written sentence.",
+    "options": [
+      "Its raining outside.",
+      "It’s raining outside.",
+      "Its’ raining outside.",
+      "Its raining outside!"
+    ],
+    "answer": "It’s raining outside."
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "The team are winning the game.",
+      "The team is winning the game.",
+      "The team were winning the game.",
+      "The team be winning the game."
+    ],
+    "answer": "The team is winning the game."
+  },
+  {
+    "question": "Choose the sentence with correct capitalization.",
+    "options": [
+      "My uncle lives in california.",
+      "My Uncle lives in California.",
+      "My uncle lives in California.",
+      "My uncle Lives in california."
+    ],
+    "answer": "My uncle lives in California."
+  },
+  {
+    "question": "Which sentence avoids a fragment?",
+    "options": [
+      "After finishing the assignment.",
+      "Although the weather was cold.",
+      "The children played outside.",
+      "Because she studied all night."
+    ],
+    "answer": "The children played outside."
+  },
+  {
+    "question": "Choose the correct pronoun.",
+    "options": [
+      "Him and Jake went fishing.",
+      "Jake and him went fishing.",
+      "Jake and he went fishing.",
+      "He and Jake went fishing."
+    ],
+    "answer": "He and Jake went fishing."
+  },
+  {
+    "question": "Which sentence uses commas correctly?",
+    "options": [
+      "Before dinner we washed our hands.",
+      "Before dinner, we washed our hands.",
+      "Before, dinner we washed our hands.",
+      "Before dinner we, washed our hands."
+    ],
+    "answer": "Before dinner, we washed our hands."
+  },
+  {
+    "question": "Choose the sentence with correct subject-verb agreement.",
+    "options": [
+      "Each of the students have a book.",
+      "Each of the students has a book.",
+      "Each of the students having a book.",
+      "Each of the students were given a book."
+    ],
+    "answer": "Each of the students has a book."
+  },
+  {
+    "question": "Which sentence is written correctly?",
+    "options": [
+      "The movie was boring however, we stayed.",
+      "The movie was boring, however we stayed.",
+      "The movie was boring; however, we stayed.",
+      "The movie was boring however we stayed."
+    ],
+    "answer": "The movie was boring; however, we stayed."
+  }
+]

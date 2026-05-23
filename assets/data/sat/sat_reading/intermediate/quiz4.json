@@ -1,0 +1,105 @@
+{
+  "passage": "Throughout history, libraries have served as centers of knowledge and learning. Ancient civilizations stored valuable texts in libraries to preserve information for future generations. Today, libraries continue to provide access to books, research materials, and digital resources. In addition to supporting education, many libraries offer community programs, technology training, and quiet spaces for study. Although the internet has changed how people access information, libraries remain important institutions in many communities.",
+  "questions": [
+    {
+      "question": "What have libraries historically served as?",
+      "options": [
+        "Factories",
+        "Centers of knowledge",
+        "Government offices",
+        "Sports facilities"
+      ],
+      "answer": "Centers of knowledge"
+    },
+    {
+      "question": "Why did ancient civilizations store texts?",
+      "options": [
+        "To decorate buildings",
+        "To preserve information",
+        "To hide books",
+        "To sell paper"
+      ],
+      "answer": "To preserve information"
+    },
+    {
+      "question": "What do modern libraries provide?",
+      "options": [
+        "Only printed books",
+        "Research and digital resources",
+        "Factories",
+        "Transportation"
+      ],
+      "answer": "Research and digital resources"
+    },
+    {
+      "question": "What programs do many libraries offer?",
+      "options": [
+        "Cooking competitions",
+        "Technology training",
+        "Sports leagues",
+        "Construction classes"
+      ],
+      "answer": "Technology training"
+    },
+    {
+      "question": "How has the internet affected libraries?",
+      "options": [
+        "Libraries disappeared",
+        "It changed information access",
+        "Books stopped existing",
+        "Libraries became illegal"
+      ],
+      "answer": "It changed information access"
+    },
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Libraries remain valuable institutions",
+        "Ancient books are useless",
+        "The internet replaced education",
+        "Libraries only existed in the past"
+      ],
+      "answer": "Libraries remain valuable institutions"
+    },
+    {
+      "question": "Which word best describes libraries?",
+      "options": [
+        "Important",
+        "Outdated",
+        "Dangerous",
+        "Expensive"
+      ],
+      "answer": "Important"
+    },
+    {
+      "question": "What can be inferred about libraries?",
+      "options": [
+        "They adapt to changes",
+        "They reject technology",
+        "They are becoming smaller",
+        "They only help students"
+      ],
+      "answer": "They adapt to changes"
+    },
+    {
+      "question": "What spaces do libraries provide?",
+      "options": [
+        "Factories",
+        "Quiet study spaces",
+        "Gyms",
+        "Parking lots"
+      ],
+      "answer": "Quiet study spaces"
+    },
+    {
+      "question": "Why are libraries still important?",
+      "options": [
+        "They provide community resources",
+        "They replace schools",
+        "They prevent internet use",
+        "They only store old books"
+      ],
+      "answer": "They provide community resources"
+    }
+  ]
+}

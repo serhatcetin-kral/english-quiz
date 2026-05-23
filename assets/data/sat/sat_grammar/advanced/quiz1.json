@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the sentence with the correct use of a semicolon.",
+    "options": [
+      "The experiment was successful; the scientists celebrated.",
+      "The experiment was successful,; the scientists celebrated.",
+      "The experiment was successful the scientists; celebrated.",
+      "The experiment; was successful, the scientists celebrated."
+    ],
+    "answer": "The experiment was successful; the scientists celebrated."
+  },
+  {
+    "question": "Which sentence uses parallel structure correctly?",
+    "options": [
+      "The professor valued intelligence, creativity, and being disciplined.",
+      "The professor valued intelligence, creativity, and discipline.",
+      "The professor valued being intelligent, creativity, and discipline.",
+      "The professor valued intelligence, being creative, and discipline."
+    ],
+    "answer": "The professor valued intelligence, creativity, and discipline."
+  },
+  {
+    "question": "Choose the sentence that avoids a dangling modifier.",
+    "options": [
+      "Driving through the mountains, the scenery was breathtaking.",
+      "Driving through the mountains, we admired the breathtaking scenery.",
+      "The scenery was breathtaking driving through the mountains.",
+      "Driving through the mountains, breathtaking scenery appeared."
+    ],
+    "answer": "Driving through the mountains, we admired the breathtaking scenery."
+  },
+  {
+    "question": "Which sentence is the most concise?",
+    "options": [
+      "Due to the fact that the meeting was canceled, we stayed home.",
+      "Because the meeting was canceled, we stayed home.",
+      "The reason we stayed home was because the meeting was canceled.",
+      "The meeting cancellation was the reason why we stayed home."
+    ],
+    "answer": "Because the meeting was canceled, we stayed home."
+  },
+  {
+    "question": "Choose the sentence with proper subject-verb agreement.",
+    "options": [
+      "Neither the author nor the editors was available.",
+      "Neither the author nor the editors were available.",
+      "Neither the author nor the editors is available.",
+      "Neither the author nor the editors be available."
+    ],
+    "answer": "Neither the author nor the editors were available."
+  },
+  {
+    "question": "Which sentence uses commas correctly?",
+    "options": [
+      "The book which was published last year became a bestseller.",
+      "The book, which was published last year, became a bestseller.",
+      "The book which was published last year, became a bestseller.",
+      "The book, which was published last year became a bestseller."
+    ],
+    "answer": "The book, which was published last year, became a bestseller."
+  },
+  {
+    "question": "Choose the sentence with correct pronoun usage.",
+    "options": [
+      "Each candidate must submit their résumé.",
+      "Each candidate must submit his or her résumé.",
+      "Each candidate must submits their résumé.",
+      "Each candidate must submit there résumé."
+    ],
+    "answer": "Each candidate must submit his or her résumé."
+  },
+  {
+    "question": "Which sentence uses the correct verb mood?",
+    "options": [
+      "If she was more attentive, she would understand.",
+      "If she were more attentive, she would understand.",
+      "If she is more attentive, she would understand.",
+      "If she be more attentive, she would understand."
+    ],
+    "answer": "If she were more attentive, she would understand."
+  },
+  {
+    "question": "Choose the sentence with proper punctuation.",
+    "options": [
+      "The lecture ended however the discussion continued.",
+      "The lecture ended; however, the discussion continued.",
+      "The lecture ended however, the discussion continued.",
+      "The lecture ended, however the discussion continued."
+    ],
+    "answer": "The lecture ended; however, the discussion continued."
+  },
+  {
+    "question": "Which sentence avoids a run-on sentence?",
+    "options": [
+      "The deadline approached the team worked overtime.",
+      "The deadline approached, the team worked overtime.",
+      "The deadline approached, and the team worked overtime.",
+      "The deadline approached and, the team worked overtime."
+    ],
+    "answer": "The deadline approached, and the team worked overtime."
+  }
+]

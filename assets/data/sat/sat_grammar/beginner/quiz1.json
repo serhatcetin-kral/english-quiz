@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the grammatically correct sentence.",
+    "options": [
+      "She don’t like coffee.",
+      "She doesn’t like coffee.",
+      "She not likes coffee.",
+      "She didn’t likes coffee."
+    ],
+    "answer": "She doesn’t like coffee."
+  },
+  {
+    "question": "Which sentence uses correct punctuation?",
+    "options": [
+      "I bought apples oranges and bananas.",
+      "I bought apples, oranges, and bananas.",
+      "I bought apples oranges, and bananas.",
+      "I bought, apples oranges and bananas."
+    ],
+    "answer": "I bought apples, oranges, and bananas."
+  },
+  {
+    "question": "Choose the correct word.",
+    "options": [
+      "Their going to the park.",
+      "There going to the park.",
+      "They’re going to the park.",
+      "Theyr’e going to the park."
+    ],
+    "answer": "They’re going to the park."
+  },
+  {
+    "question": "Which sentence is complete?",
+    "options": [
+      "Because it was raining.",
+      "Running through the park.",
+      "The dog barked loudly.",
+      "After the movie ended."
+    ],
+    "answer": "The dog barked loudly."
+  },
+  {
+    "question": "Choose the correct verb tense.",
+    "options": [
+      "Yesterday I go to school.",
+      "Yesterday I gone to school.",
+      "Yesterday I went to school.",
+      "Yesterday I going to school."
+    ],
+    "answer": "Yesterday I went to school."
+  },
+  {
+    "question": "Which sentence is capitalized correctly?",
+    "options": [
+      "my favorite subject is Math.",
+      "My favorite subject is math.",
+      "My Favorite Subject is Math.",
+      "my Favorite subject is math."
+    ],
+    "answer": "My favorite subject is math."
+  },
+  {
+    "question": "Choose the sentence with correct grammar.",
+    "options": [
+      "The students was excited.",
+      "The students were excited.",
+      "The students is excited.",
+      "The students be excited."
+    ],
+    "answer": "The students were excited."
+  },
+  {
+    "question": "Which sentence uses the correct pronoun?",
+    "options": [
+      "Me and Sarah went shopping.",
+      "Sarah and me went shopping.",
+      "Sarah and I went shopping.",
+      "I and Sarah went shopping."
+    ],
+    "answer": "Sarah and I went shopping."
+  },
+  {
+    "question": "Choose the correct sentence.",
+    "options": [
+      "He can sings very well.",
+      "He can sing very well.",
+      "He can singing very well.",
+      "He can sung very well."
+    ],
+    "answer": "He can sing very well."
+  },
+  {
+    "question": "Which sentence avoids a run-on sentence?",
+    "options": [
+      "I was tired I went to sleep.",
+      "I was tired, I went to sleep.",
+      "I was tired, so I went to sleep.",
+      "I was tired so, I went to sleep."
+    ],
+    "answer": "I was tired, so I went to sleep."
+  }
+]

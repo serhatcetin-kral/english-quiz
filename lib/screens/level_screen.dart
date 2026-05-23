@@ -277,7 +277,97 @@ class _LevelScreenState extends State<LevelScreen> {
         'quiz5',
       ];
     }
+    // SAT GRAMMAR
+    if (category == 'sat_grammar' && level == 'beginner') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
 
+    if (category == 'sat_grammar' && level == 'intermediate') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
+
+    if (category == 'sat_grammar' && level == 'advanced') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
+
+    // SAT SPELLING
+    if (category == 'sat_spelling' && level == 'beginner') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
+
+    if (category == 'sat_spelling' && level == 'intermediate') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
+
+    if (category == 'sat_spelling' && level == 'advanced') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
+    // SAT READING
+    if (category == 'sat_reading' && level == 'beginner') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
+
+    if (category == 'sat_reading' && level == 'intermediate') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
+
+    if (category == 'sat_reading' && level == 'advanced') {
+      return [
+        'quiz1',
+        'quiz2',
+        'quiz3',
+        'quiz4',
+        'quiz5',
+      ];
+    }
     // DEFAULT
     return ['quiz1'];
   }

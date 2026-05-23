@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the sentence with correct punctuation.",
+    "options": [
+      "The investigation was thorough however several details remained unclear.",
+      "The investigation was thorough; however, several details remained unclear.",
+      "The investigation was thorough however, several details remained unclear.",
+      "The investigation was thorough, however several details remained unclear."
+    ],
+    "answer": "The investigation was thorough; however, several details remained unclear."
+  },
+  {
+    "question": "Which sentence demonstrates correct parallel structure?",
+    "options": [
+      "The program encourages creativity, teamwork, and to think critically.",
+      "The program encourages creativity, teamwork, and critical thinking.",
+      "The program encourages being creative, teamwork, and critical thinking.",
+      "The program encourages creativity, to work as a team, and critical thinking."
+    ],
+    "answer": "The program encourages creativity, teamwork, and critical thinking."
+  },
+  {
+    "question": "Choose the sentence that avoids a dangling modifier.",
+    "options": [
+      "While reviewing the report, several mistakes became obvious.",
+      "While reviewing the report, I noticed several mistakes.",
+      "Several mistakes became obvious while reviewing the report.",
+      "While reviewing the report, obvious mistakes appeared."
+    ],
+    "answer": "While reviewing the report, I noticed several mistakes."
+  },
+  {
+    "question": "Which sentence is the most concise?",
+    "options": [
+      "At this point in time, we should begin the project.",
+      "We should begin the project at this point in time.",
+      "We should begin the project now.",
+      "The project should be initiated currently."
+    ],
+    "answer": "We should begin the project now."
+  },
+  {
+    "question": "Choose the sentence with correct subject-verb agreement.",
+    "options": [
+      "Neither the director nor the actors was prepared.",
+      "Neither the director nor the actors were prepared.",
+      "Neither the director nor the actors is prepared.",
+      "Neither the director nor the actors be prepared."
+    ],
+    "answer": "Neither the director nor the actors were prepared."
+  },
+  {
+    "question": "Which sentence uses commas correctly?",
+    "options": [
+      "The athlete who won the championship thanked her coach.",
+      "The athlete, who won the championship, thanked her coach.",
+      "The athlete who won the championship, thanked her coach.",
+      "The athlete, who won the championship thanked her coach."
+    ],
+    "answer": "The athlete who won the championship thanked her coach."
+  },
+  {
+    "question": "Choose the sentence with proper pronoun usage.",
+    "options": [
+      "Every researcher must submit their findings.",
+      "Every researcher must submit his or her findings.",
+      "Every researcher must submits their findings.",
+      "Every researcher must submit there findings."
+    ],
+    "answer": "Every researcher must submit his or her findings."
+  },
+  {
+    "question": "Which sentence uses the correct verb mood?",
+    "options": [
+      "If she was more organized, she would succeed.",
+      "If she were more organized, she would succeed.",
+      "If she is more organized, she would succeed.",
+      "If she be more organized, she would succeed."
+    ],
+    "answer": "If she were more organized, she would succeed."
+  },
+  {
+    "question": "Choose the sentence with proper punctuation.",
+    "options": [
+      "The economy improved nevertheless unemployment remained high.",
+      "The economy improved; nevertheless, unemployment remained high.",
+      "The economy improved nevertheless, unemployment remained high.",
+      "The economy improved, nevertheless unemployment remained high."
+    ],
+    "answer": "The economy improved; nevertheless, unemployment remained high."
+  },
+  {
+    "question": "Which sentence avoids a run-on sentence?",
+    "options": [
+      "The meeting concluded everyone returned to work.",
+      "The meeting concluded, everyone returned to work.",
+      "The meeting concluded, and everyone returned to work.",
+      "The meeting concluded and, everyone returned to work."
+    ],
+    "answer": "The meeting concluded, and everyone returned to work."
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "passage": "Public transportation systems are becoming increasingly important in modern cities. As populations grow, traffic congestion and pollution continue to rise. Buses, trains, and subways provide efficient alternatives to private vehicles, reducing the number of cars on the road. Many governments have invested heavily in transportation infrastructure to encourage more citizens to use public transit. Although some people prefer the convenience of personal cars, public transportation often saves money, reduces environmental damage, and improves overall urban mobility.",
+  "questions": [
+    {
+      "question": "Why are public transportation systems important?",
+      "options": [
+        "They increase traffic",
+        "They reduce congestion and pollution",
+        "They replace schools",
+        "They make cities smaller"
+      ],
+      "answer": "They reduce congestion and pollution"
+    },
+    {
+      "question": "What has continued to rise in cities?",
+      "options": [
+        "Rainfall",
+        "Pollution and traffic congestion",
+        "Farming",
+        "Ocean levels"
+      ],
+      "answer": "Pollution and traffic congestion"
+    },
+    {
+      "question": "What do buses and trains reduce?",
+      "options": [
+        "Roads",
+        "Cars on the road",
+        "Citizens",
+        "Buildings"
+      ],
+      "answer": "Cars on the road"
+    },
+    {
+      "question": "Why have governments invested in transportation?",
+      "options": [
+        "To build airports",
+        "To encourage public transit use",
+        "To close roads",
+        "To increase pollution"
+      ],
+      "answer": "To encourage public transit use"
+    },
+    {
+      "question": "What do some people prefer?",
+      "options": [
+        "Walking everywhere",
+        "Personal cars",
+        "Bicycles only",
+        "Air travel"
+      ],
+      "answer": "Personal cars"
+    },
+    {
+      "question": "What is one advantage of public transportation?",
+      "options": [
+        "Higher pollution",
+        "Reduced environmental damage",
+        "Longer travel times",
+        "More traffic"
+      ],
+      "answer": "Reduced environmental damage"
+    },
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Cars are disappearing",
+        "Public transportation benefits cities",
+        "Governments dislike transportation",
+        "Cities are shrinking"
+      ],
+      "answer": "Public transportation benefits cities"
+    },
+    {
+      "question": "Which word best describes public transportation?",
+      "options": [
+        "Efficient",
+        "Useless",
+        "Dangerous",
+        "Expensive"
+      ],
+      "answer": "Efficient"
+    },
+    {
+      "question": "What can be inferred about urban mobility?",
+      "options": [
+        "It improves with good transportation",
+        "It is unrelated to traffic",
+        "It decreases with trains",
+        "It only matters in small towns"
+      ],
+      "answer": "It improves with good transportation"
+    },
+    {
+      "question": "What problem do growing populations create?",
+      "options": [
+        "Less transportation",
+        "Traffic congestion",
+        "Lower pollution",
+        "Smaller cities"
+      ],
+      "answer": "Traffic congestion"
+    }
+  ]
+}

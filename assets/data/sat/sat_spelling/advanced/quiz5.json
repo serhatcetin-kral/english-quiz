@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Questionable",
+      "Questionnable",
+      "Questionible",
+      "Questionabel"
+    ],
+    "answer": "Questionable"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Resilience",
+      "Resiliance",
+      "Resillience",
+      "Resilence"
+    ],
+    "answer": "Resilience"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Superintendent",
+      "Superintendant",
+      "Superintendentt",
+      "Superintendet"
+    ],
+    "answer": "Superintendent"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Temperature",
+      "Temprature",
+      "Tempereture",
+      "Temparature"
+    ],
+    "answer": "Temperature"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Unnecessary",
+      "Unneccessary",
+      "Unnecessery",
+      "Unnesessary"
+    ],
+    "answer": "Unnecessary"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Visualization",
+      "Visualisation",
+      "Vizualization",
+      "Visualizasion"
+    ],
+    "answer": "Visualization"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Whimsical",
+      "Wimsical",
+      "Whimiscal",
+      "Whimsicle"
+    ],
+    "answer": "Whimsical"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Xenophobia",
+      "Zenophobia",
+      "Xenofobia",
+      "Xenophoby"
+    ],
+    "answer": "Xenophobia"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Yielding",
+      "Yeilding",
+      "Yieldeng",
+      "Yelding"
+    ],
+    "answer": "Yielding"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Zoological",
+      "Zoologicle",
+      "Zoolagical",
+      "Zoologicale"
+    ],
+    "answer": "Zoological"
+  }
+]

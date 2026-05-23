@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the sentence with correct grammar.",
+    "options": [
+      "Everyone need to finish the project.",
+      "Everyone needs to finish the project.",
+      "Everyone needing to finish the project.",
+      "Everyone need finishing the project."
+    ],
+    "answer": "Everyone needs to finish the project."
+  },
+  {
+    "question": "Which sentence uses commas correctly?",
+    "options": [
+      "On Friday we will have a meeting.",
+      "On Friday, we will have a meeting.",
+      "On, Friday we will have a meeting.",
+      "On Friday we, will have a meeting."
+    ],
+    "answer": "On Friday, we will have a meeting."
+  },
+  {
+    "question": "Choose the correctly written sentence.",
+    "options": [
+      "The dog wagged it's tail.",
+      "The dog wagged its tail.",
+      "The dog wagged its' tail.",
+      "The dog wagged it’s tail."
+    ],
+    "answer": "The dog wagged its tail."
+  },
+  {
+    "question": "Which sentence is complete?",
+    "options": [
+      "Although the book was long.",
+      "Because she felt tired.",
+      "The children laughed loudly.",
+      "After finishing his homework."
+    ],
+    "answer": "The children laughed loudly."
+  },
+  {
+    "question": "Choose the sentence with correct capitalization.",
+    "options": [
+      "My favorite month is december.",
+      "My favorite month is December.",
+      "My Favorite Month is December.",
+      "My favorite Month is december."
+    ],
+    "answer": "My favorite month is December."
+  },
+  {
+    "question": "Which sentence uses the correct pronoun?",
+    "options": [
+      "Her and James went hiking.",
+      "James and her went hiking.",
+      "James and she went hiking.",
+      "She and James goes hiking."
+    ],
+    "answer": "James and she went hiking."
+  },
+  {
+    "question": "Choose the sentence with correct punctuation.",
+    "options": [
+      "I need milk eggs bread and butter.",
+      "I need milk, eggs, bread, and butter.",
+      "I need milk eggs, bread and butter.",
+      "I need, milk eggs bread and butter."
+    ],
+    "answer": "I need milk, eggs, bread, and butter."
+  },
+  {
+    "question": "Which sentence has correct subject-verb agreement?",
+    "options": [
+      "The bouquet of flowers smell wonderful.",
+      "The bouquet of flowers smells wonderful.",
+      "The bouquet of flowers smelling wonderful.",
+      "The bouquet of flowers were wonderful."
+    ],
+    "answer": "The bouquet of flowers smells wonderful."
+  },
+  {
+    "question": "Choose the correctly written sentence.",
+    "options": [
+      "We watched the movie it was exciting.",
+      "We watched the movie, it was exciting.",
+      "We watched the movie; it was exciting.",
+      "We watched the movie it, was exciting."
+    ],
+    "answer": "We watched the movie; it was exciting."
+  },
+  {
+    "question": "Which sentence avoids a fragment?",
+    "options": [
+      "While the rain continued.",
+      "After the game had ended.",
+      "The students prepared for the test.",
+      "Because the lights went out."
+    ],
+    "answer": "The students prepared for the test."
+  }
+]

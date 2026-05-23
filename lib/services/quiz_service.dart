@@ -34,12 +34,17 @@ class QuizService {
     final decoded = json.decode(data);
 
     // IELTS + TOEFL Reading Passages
+    // Reading Passages
     if (
 
     (category == 'ielts' ||
         category == 'toefl') &&
 
         level == 'reading'
+
+        ||
+
+        category == 'sat_reading'
 
     ) {
 

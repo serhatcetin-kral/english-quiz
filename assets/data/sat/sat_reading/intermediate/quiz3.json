@@ -1,0 +1,105 @@
+{
+  "passage": "Renewable energy sources such as solar and wind power have gained popularity in recent decades. Unlike fossil fuels, renewable resources can be replenished naturally and produce less pollution. Many countries are investing in renewable energy to reduce dependence on oil and coal. Although renewable technologies can be expensive to develop initially, supporters argue that long-term environmental and economic benefits outweigh the costs. As technology improves, renewable energy may become even more accessible and efficient.",
+  "questions": [
+    {
+      "question": "Which energy sources are mentioned?",
+      "options": [
+        "Nuclear and gas",
+        "Solar and wind",
+        "Coal and oil",
+        "Wood and water"
+      ],
+      "answer": "Solar and wind"
+    },
+    {
+      "question": "How are renewable resources different from fossil fuels?",
+      "options": [
+        "They are more dangerous",
+        "They produce more pollution",
+        "They can be replenished naturally",
+        "They are harder to find"
+      ],
+      "answer": "They can be replenished naturally"
+    },
+    {
+      "question": "Why are countries investing in renewable energy?",
+      "options": [
+        "To increase pollution",
+        "To reduce dependence on fossil fuels",
+        "To stop technological progress",
+        "To lower electricity use"
+      ],
+      "answer": "To reduce dependence on fossil fuels"
+    },
+    {
+      "question": "What challenge is mentioned?",
+      "options": [
+        "Renewables are noisy",
+        "Development can be expensive",
+        "People dislike technology",
+        "Coal is disappearing"
+      ],
+      "answer": "Development can be expensive"
+    },
+    {
+      "question": "What do supporters believe?",
+      "options": [
+        "Renewables are ineffective",
+        "Benefits outweigh costs",
+        "Coal is better",
+        "Technology should stop improving"
+      ],
+      "answer": "Benefits outweigh costs"
+    },
+    {
+      "question": "What may happen as technology improves?",
+      "options": [
+        "Energy will disappear",
+        "Renewables will become more accessible",
+        "Pollution will increase",
+        "Countries will stop investing"
+      ],
+      "answer": "Renewables will become more accessible"
+    },
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Renewable energy has advantages and challenges",
+        "Coal is the best energy source",
+        "Technology harms the environment",
+        "Renewables are unpopular"
+      ],
+      "answer": "Renewable energy has advantages and challenges"
+    },
+    {
+      "question": "Which word best describes the tone?",
+      "options": [
+        "Optimistic",
+        "Angry",
+        "Fearful",
+        "Humorous"
+      ],
+      "answer": "Optimistic"
+    },
+    {
+      "question": "What can be inferred about renewable energy?",
+      "options": [
+        "It may grow in the future",
+        "It is disappearing",
+        "It only works in Europe",
+        "It is less efficient than coal forever"
+      ],
+      "answer": "It may grow in the future"
+    },
+    {
+      "question": "What is one environmental benefit mentioned?",
+      "options": [
+        "More traffic",
+        "Less pollution",
+        "Higher temperatures",
+        "Reduced technology"
+      ],
+      "answer": "Less pollution"
+    }
+  ]
+}

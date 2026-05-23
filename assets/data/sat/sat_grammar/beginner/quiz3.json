@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the sentence with correct grammar.",
+    "options": [
+      "Neither of the boys are ready.",
+      "Neither of the boys is ready.",
+      "Neither of the boys were ready.",
+      "Neither of the boys be ready."
+    ],
+    "answer": "Neither of the boys is ready."
+  },
+  {
+    "question": "Which sentence uses punctuation correctly?",
+    "options": [
+      "Yes I would love to join you.",
+      "Yes, I would love to join you.",
+      "Yes I, would love to join you.",
+      "Yes, I would love, to join you."
+    ],
+    "answer": "Yes, I would love to join you."
+  },
+  {
+    "question": "Choose the correctly written sentence.",
+    "options": [
+      "The teacher gave the students their assignments.",
+      "The teacher give the students their assignments.",
+      "The teacher giving the students their assignments.",
+      "The teacher gave the students his assignments."
+    ],
+    "answer": "The teacher gave the students their assignments."
+  },
+  {
+    "question": "Which sentence is a complete sentence?",
+    "options": [
+      "While waiting for the bus.",
+      "Because he studied hard.",
+      "The birds flew south for winter.",
+      "After the concert ended."
+    ],
+    "answer": "The birds flew south for winter."
+  },
+  {
+    "question": "Choose the sentence with correct capitalization.",
+    "options": [
+      "We visited the Grand canyon last summer.",
+      "We visited the grand Canyon last summer.",
+      "We visited the Grand Canyon last summer.",
+      "We visited The Grand Canyon last summer."
+    ],
+    "answer": "We visited the Grand Canyon last summer."
+  },
+  {
+    "question": "Which sentence uses the correct word?",
+    "options": [
+      "Your going to enjoy the concert.",
+      "You’re going to enjoy the concert.",
+      "Youre going to enjoy the concert.",
+      "You’r going to enjoy the concert."
+    ],
+    "answer": "You’re going to enjoy the concert."
+  },
+  {
+    "question": "Choose the sentence with proper comma usage.",
+    "options": [
+      "After school we went to the library.",
+      "After school, we went to the library.",
+      "After, school we went to the library.",
+      "After school we, went to the library."
+    ],
+    "answer": "After school, we went to the library."
+  },
+  {
+    "question": "Which sentence has correct subject-verb agreement?",
+    "options": [
+      "The list of names are on the table.",
+      "The list of names is on the table.",
+      "The list of names were on the table.",
+      "The list of names be on the table."
+    ],
+    "answer": "The list of names is on the table."
+  },
+  {
+    "question": "Choose the sentence written correctly.",
+    "options": [
+      "I enjoy reading writing and painting.",
+      "I enjoy reading, writing, and painting.",
+      "I enjoy reading writing, and painting.",
+      "I enjoy, reading writing and painting."
+    ],
+    "answer": "I enjoy reading, writing, and painting."
+  },
+  {
+    "question": "Which sentence avoids a run-on sentence?",
+    "options": [
+      "The sun set we went inside.",
+      "The sun set, we went inside.",
+      "The sun set, and we went inside.",
+      "The sun set and, we went inside."
+    ],
+    "answer": "The sun set, and we went inside."
+  }
+]

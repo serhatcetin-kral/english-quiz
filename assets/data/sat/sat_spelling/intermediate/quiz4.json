@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Apparent",
+      "Aparent",
+      "Apparant",
+      "Aparrent"
+    ],
+    "answer": "Apparent"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Consequence",
+      "Consequense",
+      "Consequance",
+      "Consiquence"
+    ],
+    "answer": "Consequence"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Determination",
+      "Determinasion",
+      "Determenation",
+      "Determinatoin"
+    ],
+    "answer": "Determination"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Extraordinary",
+      "Extraordinery",
+      "Extrordinary",
+      "Extraordanary"
+    ],
+    "answer": "Extraordinary"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Fascinating",
+      "Fasinating",
+      "Facinating",
+      "Fascinaiting"
+    ],
+    "answer": "Fascinating"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Grateful",
+      "Greatful",
+      "Gratefull",
+      "Gratful"
+    ],
+    "answer": "Grateful"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Harassment",
+      "Harrassment",
+      "Harasment",
+      "Harassement"
+    ],
+    "answer": "Harassment"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Immediately",
+      "Immediatly",
+      "Imediately",
+      "Immediateley"
+    ],
+    "answer": "Immediately"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Laboratory",
+      "Labratory",
+      "Laborotory",
+      "Labaratory"
+    ],
+    "answer": "Laboratory"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Millennium",
+      "Millenium",
+      "Milennium",
+      "Milleniumm"
+    ],
+    "answer": "Millennium"
+  }
+]

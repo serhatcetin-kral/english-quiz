@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the sentence with proper parallel structure.",
+    "options": [
+      "The internship requires communication skills, leadership, and to solve problems.",
+      "The internship requires communication skills, leadership, and problem-solving abilities.",
+      "The internship requires communicating, leadership, and solving problems.",
+      "The internship requires communication skills, to lead, and problem-solving."
+    ],
+    "answer": "The internship requires communication skills, leadership, and problem-solving abilities."
+  },
+  {
+    "question": "Which sentence uses punctuation correctly?",
+    "options": [
+      "The evidence was convincing nevertheless, the jury remained uncertain.",
+      "The evidence was convincing; nevertheless, the jury remained uncertain.",
+      "The evidence was convincing nevertheless the jury remained uncertain.",
+      "The evidence was convincing, nevertheless the jury remained uncertain."
+    ],
+    "answer": "The evidence was convincing; nevertheless, the jury remained uncertain."
+  },
+  {
+    "question": "Choose the sentence that avoids a misplaced modifier.",
+    "options": [
+      "Flying above the clouds, the city looked tiny.",
+      "Flying above the clouds, we saw the tiny city below.",
+      "The city looked tiny flying above the clouds.",
+      "Flying above the clouds, tiny buildings appeared below."
+    ],
+    "answer": "Flying above the clouds, we saw the tiny city below."
+  },
+  {
+    "question": "Which sentence is the most concise?",
+    "options": [
+      "At this point in time, we are unable to continue.",
+      "We are unable to continue at this point in time.",
+      "We cannot continue now.",
+      "The continuation process cannot proceed currently."
+    ],
+    "answer": "We cannot continue now."
+  },
+  {
+    "question": "Choose the sentence with correct subject-verb agreement.",
+    "options": [
+      "Neither the CEO nor the managers was informed.",
+      "Neither the CEO nor the managers were informed.",
+      "Neither the CEO nor the managers is informed.",
+      "Neither the CEO nor the managers be informed."
+    ],
+    "answer": "Neither the CEO nor the managers were informed."
+  },
+  {
+    "question": "Which sentence uses commas correctly?",
+    "options": [
+      "The museum which opened recently attracts many tourists.",
+      "The museum, which opened recently, attracts many tourists.",
+      "The museum which opened recently, attracts many tourists.",
+      "The museum, which opened recently attracts many tourists."
+    ],
+    "answer": "The museum, which opened recently, attracts many tourists."
+  },
+  {
+    "question": "Choose the sentence with proper pronoun usage.",
+    "options": [
+      "Every participant should bring their identification.",
+      "Every participant should bring his or her identification.",
+      "Every participant should brings their identification.",
+      "Every participant should bring there identification."
+    ],
+    "answer": "Every participant should bring his or her identification."
+  },
+  {
+    "question": "Which sentence uses the correct verb mood?",
+    "options": [
+      "If he was more patient, he would succeed.",
+      "If he were more patient, he would succeed.",
+      "If he is more patient, he would succeed.",
+      "If he be more patient, he would succeed."
+    ],
+    "answer": "If he were more patient, he would succeed."
+  },
+  {
+    "question": "Choose the sentence with correct punctuation.",
+    "options": [
+      "The project was delayed however the team stayed motivated.",
+      "The project was delayed; however, the team stayed motivated.",
+      "The project was delayed however, the team stayed motivated.",
+      "The project was delayed, however the team stayed motivated."
+    ],
+    "answer": "The project was delayed; however, the team stayed motivated."
+  },
+  {
+    "question": "Which sentence avoids a run-on sentence?",
+    "options": [
+      "The conference ended the attendees exchanged contact information.",
+      "The conference ended, the attendees exchanged contact information.",
+      "The conference ended, and the attendees exchanged contact information.",
+      "The conference ended and, the attendees exchanged contact information."
+    ],
+    "answer": "The conference ended, and the attendees exchanged contact information."
+  }
+]

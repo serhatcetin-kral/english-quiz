@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Accomodate",
+      "Acommodate",
+      "Accommodate",
+      "Acomodate"
+    ],
+    "answer": "Accommodate"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Definately",
+      "Definitely",
+      "Definetly",
+      "Definatly"
+    ],
+    "answer": "Definitely"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Occured",
+      "Occurred",
+      "Ocurred",
+      "Occurrd"
+    ],
+    "answer": "Occurred"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Seperate",
+      "Separate",
+      "Separete",
+      "Seperete"
+    ],
+    "answer": "Separate"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Recieve",
+      "Receive",
+      "Receeve",
+      "Receve"
+    ],
+    "answer": "Receive"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Neccessary",
+      "Necessary",
+      "Necassary",
+      "Necessery"
+    ],
+    "answer": "Necessary"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Enviroment",
+      "Environment",
+      "Envirenment",
+      "Environmant"
+    ],
+    "answer": "Environment"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Embarras",
+      "Embarrass",
+      "Embarass",
+      "Embarras"
+    ],
+    "answer": "Embarrass"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Privilege",
+      "Priviledge",
+      "Privelege",
+      "Privlege"
+    ],
+    "answer": "Privilege"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Tommorow",
+      "Tomorrow",
+      "Tomorow",
+      "Tommorrow"
+    ],
+    "answer": "Tomorrow"
+  }
+]

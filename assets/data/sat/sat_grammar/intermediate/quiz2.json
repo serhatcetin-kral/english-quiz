@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the sentence with correct punctuation.",
+    "options": [
+      "The storm ended however the roads remained flooded.",
+      "The storm ended; however, the roads remained flooded.",
+      "The storm ended however, the roads remained flooded.",
+      "The storm ended, however the roads remained flooded."
+    ],
+    "answer": "The storm ended; however, the roads remained flooded."
+  },
+  {
+    "question": "Which sentence uses parallel structure correctly?",
+    "options": [
+      "He likes running, swimming, and to hike.",
+      "He likes running, swimming, and hiking.",
+      "He likes to run, swimming, and hiking.",
+      "He likes running, to swim, and hiking."
+    ],
+    "answer": "He likes running, swimming, and hiking."
+  },
+  {
+    "question": "Choose the sentence with proper pronoun usage.",
+    "options": [
+      "Neither Anna nor her sisters forgot their tickets.",
+      "Neither Anna nor her sisters forgot her tickets.",
+      "Neither Anna nor her sisters forgot there tickets.",
+      "Neither Anna nor her sisters forget their tickets."
+    ],
+    "answer": "Neither Anna nor her sisters forgot their tickets."
+  },
+  {
+    "question": "Which sentence avoids a misplaced modifier?",
+    "options": [
+      "Covered in chocolate, Sarah ate the strawberries.",
+      "Sarah ate the strawberries covered in chocolate.",
+      "Covered in chocolate, the strawberries were eaten by Sarah.",
+      "Sarah, covered in chocolate, ate the strawberries."
+    ],
+    "answer": "Sarah ate the strawberries covered in chocolate."
+  },
+  {
+    "question": "Choose the sentence that is concise.",
+    "options": [
+      "The reason is because he was late.",
+      "He was late due to the fact that he missed the bus.",
+      "He was late because he missed the bus.",
+      "The reason for his lateness was because he missed the bus."
+    ],
+    "answer": "He was late because he missed the bus."
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "Everyone in the classes are excited.",
+      "Everyone in the classes is excited.",
+      "Everyone in the classes were excited.",
+      "Everyone in the classes be excited."
+    ],
+    "answer": "Everyone in the classes is excited."
+  },
+  {
+    "question": "Choose the sentence with correct comma usage.",
+    "options": [
+      "After finishing the exam the students left quietly.",
+      "After finishing the exam, the students left quietly.",
+      "After finishing, the exam the students left quietly.",
+      "After finishing the exam the students, left quietly."
+    ],
+    "answer": "After finishing the exam, the students left quietly."
+  },
+  {
+    "question": "Which sentence uses the correct verb form?",
+    "options": [
+      "She would have went earlier if possible.",
+      "She would have gone earlier if possible.",
+      "She would gone earlier if possible.",
+      "She would have go earlier if possible."
+    ],
+    "answer": "She would have gone earlier if possible."
+  },
+  {
+    "question": "Choose the sentence with proper capitalization.",
+    "options": [
+      "We visited the Pacific ocean during summer.",
+      "We visited the Pacific Ocean during summer.",
+      "We visited the pacific Ocean during summer.",
+      "We visited the pacific ocean during Summer."
+    ],
+    "answer": "We visited the Pacific Ocean during summer."
+  },
+  {
+    "question": "Which sentence avoids a sentence fragment?",
+    "options": [
+      "Because the weather improved.",
+      "After the meeting had ended.",
+      "The audience applauded loudly.",
+      "While waiting for the train."
+    ],
+    "answer": "The audience applauded loudly."
+  }
+]

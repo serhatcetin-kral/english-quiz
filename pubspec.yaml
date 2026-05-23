@@ -123,9 +123,40 @@ flutter:
     - assets/data/sat/sat_words_quiz/advanced/quiz4.json
     - assets/data/sat/sat_words_quiz/advanced/quiz5.json
     - assets/data/sat/sat_words/beginner1.json
+    - assets/data/sat/sat_words/beginner2.json
+    - assets/data/sat/sat_words/beginner3.json
+    - assets/data/sat/sat_words/beginner4.json
+    - assets/data/sat/sat_words/beginner5.json
+#
     - assets/data/sat/sat_words/intermediate1.json
-    - assets/data/sat/sat_words/advanced1.json
+    - assets/data/sat/sat_words/intermediate2.json
+    - assets/data/sat/sat_words/intermediate3.json
+    - assets/data/sat/sat_words/intermediate4.json
+    - assets/data/sat/sat_words/intermediate5.json
+    - assets/data/sat/sat_words/intermediate6.json
+    - assets/data/sat/sat_words/intermediate7.json
 
+
+    - assets/data/sat/sat_words/advanced1.json
+    - assets/data/sat/sat_words/advanced2.json
+    - assets/data/sat/sat_words/advanced3.json
+    - assets/data/sat/sat_words/advanced4.json
+    - assets/data/sat/sat_words/advanced5.json
+    - assets/data/sat/sat_words/advanced6.json
+    - assets/data/sat/sat_words/advanced7.json
+    - assets/data/sat/sat_words/advanced8.json
+    - assets/data/sat/sat_words/advanced9.json
+
+    - assets/data/sat/
+    - assets/data/sat/sat_grammar/beginner/
+    - assets/data/sat/sat_grammar/intermediate/
+    - assets/data/sat/sat_grammar/advanced/
+    - assets/data/sat/sat_spelling/beginner/
+    - assets/data/sat/sat_spelling/intermediate/
+    - assets/data/sat/sat_spelling/advanced/
+    - assets/data/sat/sat_reading/beginner/
+    - assets/data/sat/sat_reading/intermediate/
+    - assets/data/sat/sat_reading/advanced/
 
 
 flutter_launcher_icons:

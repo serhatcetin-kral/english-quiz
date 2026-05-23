@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the sentence with proper punctuation.",
+    "options": [
+      "The presentation was persuasive however several questions remained.",
+      "The presentation was persuasive; however, several questions remained.",
+      "The presentation was persuasive however, several questions remained.",
+      "The presentation was persuasive, however several questions remained."
+    ],
+    "answer": "The presentation was persuasive; however, several questions remained."
+  },
+  {
+    "question": "Which sentence demonstrates correct parallel structure?",
+    "options": [
+      "The committee values honesty, efficiency, and being dependable.",
+      "The committee values honesty, efficiency, and dependability.",
+      "The committee values being honest, efficiency, and dependability.",
+      "The committee values honesty, to be efficient, and dependability."
+    ],
+    "answer": "The committee values honesty, efficiency, and dependability."
+  },
+  {
+    "question": "Choose the sentence that avoids a dangling modifier.",
+    "options": [
+      "After reading the article, the argument seemed convincing.",
+      "After reading the article, I found the argument convincing.",
+      "The argument seemed convincing after reading the article.",
+      "After reading the article, convincing ideas appeared."
+    ],
+    "answer": "After reading the article, I found the argument convincing."
+  },
+  {
+    "question": "Which sentence is the most concise?",
+    "options": [
+      "Due to the fact that the roads were icy, school was canceled.",
+      "Because the roads were icy, school was canceled.",
+      "The reason school was canceled was because the roads were icy.",
+      "School cancellation occurred because of icy road conditions."
+    ],
+    "answer": "Because the roads were icy, school was canceled."
+  },
+  {
+    "question": "Choose the sentence with correct subject-verb agreement.",
+    "options": [
+      "Neither the manager nor the employees was available.",
+      "Neither the manager nor the employees were available.",
+      "Neither the manager nor the employees is available.",
+      "Neither the manager nor the employees be available."
+    ],
+    "answer": "Neither the manager nor the employees were available."
+  },
+  {
+    "question": "Which sentence uses commas correctly?",
+    "options": [
+      "The documentary which aired last night received positive reviews.",
+      "The documentary, which aired last night, received positive reviews.",
+      "The documentary which aired last night, received positive reviews.",
+      "The documentary, which aired last night received positive reviews."
+    ],
+    "answer": "The documentary, which aired last night, received positive reviews."
+  },
+  {
+    "question": "Choose the sentence with proper pronoun usage.",
+    "options": [
+      "Every applicant must include their signature.",
+      "Every applicant must include his or her signature.",
+      "Every applicant must includes their signature.",
+      "Every applicant must include there signature."
+    ],
+    "answer": "Every applicant must include his or her signature."
+  },
+  {
+    "question": "Which sentence uses the correct verb mood?",
+    "options": [
+      "If I was better prepared, I would perform confidently.",
+      "If I were better prepared, I would perform confidently.",
+      "If I am better prepared, I would perform confidently.",
+      "If I be better prepared, I would perform confidently."
+    ],
+    "answer": "If I were better prepared, I would perform confidently."
+  },
+  {
+    "question": "Choose the sentence with proper punctuation.",
+    "options": [
+      "The policy changed nevertheless employees adapted quickly.",
+      "The policy changed; nevertheless, employees adapted quickly.",
+      "The policy changed nevertheless, employees adapted quickly.",
+      "The policy changed, nevertheless employees adapted quickly."
+    ],
+    "answer": "The policy changed; nevertheless, employees adapted quickly."
+  },
+  {
+    "question": "Which sentence avoids a run-on sentence?",
+    "options": [
+      "The seminar ended participants continued networking.",
+      "The seminar ended, participants continued networking.",
+      "The seminar ended, and participants continued networking.",
+      "The seminar ended and, participants continued networking."
+    ],
+    "answer": "The seminar ended, and participants continued networking."
+  }
+]

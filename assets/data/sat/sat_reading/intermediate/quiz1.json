@@ -1,0 +1,105 @@
+{
+  "passage": "For many years, scientists believed that sleep was simply a period of rest for the body. However, recent studies suggest that sleep plays a critical role in memory, learning, and emotional health. During sleep, the brain processes information gathered throughout the day and strengthens important connections between neurons. Researchers have also discovered that lack of sleep can reduce concentration, weaken the immune system, and increase stress levels. As a result, many health experts encourage teenagers and adults to maintain consistent sleep schedules in order to improve both physical and mental performance.",
+  "questions": [
+    {
+      "question": "What did scientists once believe about sleep?",
+      "options": [
+        "It improved intelligence",
+        "It was only a time of rest",
+        "It increased stress",
+        "It weakened memory"
+      ],
+      "answer": "It was only a time of rest"
+    },
+    {
+      "question": "What does sleep help strengthen?",
+      "options": [
+        "Muscles",
+        "Bones",
+        "Neuron connections",
+        "Vision"
+      ],
+      "answer": "Neuron connections"
+    },
+    {
+      "question": "What can lack of sleep reduce?",
+      "options": [
+        "Height",
+        "Concentration",
+        "Creativity",
+        "Curiosity"
+      ],
+      "answer": "Concentration"
+    },
+    {
+      "question": "Which system can weaken due to poor sleep?",
+      "options": [
+        "Transportation system",
+        "Immune system",
+        "Education system",
+        "Communication system"
+      ],
+      "answer": "Immune system"
+    },
+    {
+      "question": "What do health experts recommend?",
+      "options": [
+        "Skipping naps",
+        "Studying late at night",
+        "Maintaining consistent sleep schedules",
+        "Drinking more coffee"
+      ],
+      "answer": "Maintaining consistent sleep schedules"
+    },
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Sleep is unnecessary",
+        "Sleep is important for health and learning",
+        "Teenagers dislike sleep",
+        "Scientists dislike research"
+      ],
+      "answer": "Sleep is important for health and learning"
+    },
+    {
+      "question": "What happens during sleep?",
+      "options": [
+        "The brain stops functioning",
+        "The brain processes information",
+        "The body grows taller",
+        "The immune system disappears"
+      ],
+      "answer": "The brain processes information"
+    },
+    {
+      "question": "Which word best describes the author's tone?",
+      "options": [
+        "Humorous",
+        "Informative",
+        "Angry",
+        "Sarcastic"
+      ],
+      "answer": "Informative"
+    },
+    {
+      "question": "What can be inferred about sleep?",
+      "options": [
+        "It only affects children",
+        "It influences mental performance",
+        "It is less important than exercise",
+        "It has no effect on memory"
+      ],
+      "answer": "It influences mental performance"
+    },
+    {
+      "question": "Why do experts encourage consistent sleep schedules?",
+      "options": [
+        "To improve performance",
+        "To save time",
+        "To reduce homework",
+        "To increase stress"
+      ],
+      "answer": "To improve performance"
+    }
+  ]
+}

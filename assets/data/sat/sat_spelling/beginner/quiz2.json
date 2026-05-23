@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Perserverance",
+      "Perseverance",
+      "Perseverence",
+      "Perserverence"
+    ],
+    "answer": "Perseverance"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Succesful",
+      "Successful",
+      "Successfull",
+      "Succesfull"
+    ],
+    "answer": "Successful"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Committment",
+      "Commitment",
+      "Committment",
+      "Commitmant"
+    ],
+    "answer": "Commitment"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Independent",
+      "Independant",
+      "Independet",
+      "Independantt"
+    ],
+    "answer": "Independent"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Existance",
+      "Existence",
+      "Existance",
+      "Exsistence"
+    ],
+    "answer": "Existence"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Maintainance",
+      "Maintenance",
+      "Maintenence",
+      "Maintanance"
+    ],
+    "answer": "Maintenance"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Pronounciation",
+      "Pronunciation",
+      "Prononcation",
+      "Pronuncation"
+    ],
+    "answer": "Pronunciation"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Calender",
+      "Calendar",
+      "Calandar",
+      "Calindar"
+    ],
+    "answer": "Calendar"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Argument",
+      "Arguement",
+      "Arguemint",
+      "Argumant"
+    ],
+    "answer": "Argument"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Business",
+      "Buisness",
+      "Busines",
+      "Bussiness"
+    ],
+    "answer": "Business"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the sentence with correct punctuation.",
+    "options": [
+      "The weather improved therefore we continued hiking.",
+      "The weather improved; therefore, we continued hiking.",
+      "The weather improved therefore, we continued hiking.",
+      "The weather improved, therefore we continued hiking."
+    ],
+    "answer": "The weather improved; therefore, we continued hiking."
+  },
+  {
+    "question": "Which sentence uses parallel structure correctly?",
+    "options": [
+      "The course teaches reading, writing, and how to analyze texts.",
+      "The course teaches reading, writing, and analyzing texts.",
+      "The course teaches to read, writing, and analyzing texts.",
+      "The course teaches reading, to write, and analyzing texts."
+    ],
+    "answer": "The course teaches reading, writing, and analyzing texts."
+  },
+  {
+    "question": "Choose the sentence with proper pronoun agreement.",
+    "options": [
+      "Every employee should submit their application on time.",
+      "Every employee should submit his or her application on time.",
+      "Every employee should submits their application on time.",
+      "Every employee should submit there application on time."
+    ],
+    "answer": "Every employee should submit his or her application on time."
+  },
+  {
+    "question": "Which sentence avoids redundancy?",
+    "options": [
+      "The final outcome was unexpected.",
+      "The outcome was unexpected.",
+      "The unexpected surprise shocked us.",
+      "The end result outcome was confusing."
+    ],
+    "answer": "The outcome was unexpected."
+  },
+  {
+    "question": "Choose the sentence with proper modifier placement.",
+    "options": [
+      "Walking through the museum, the paintings impressed me.",
+      "Walking through the museum, I was impressed by the paintings.",
+      "The paintings impressed me walking through the museum.",
+      "Walking through the museum, impressive paintings were seen."
+    ],
+    "answer": "Walking through the museum, I was impressed by the paintings."
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "Neither the coach nor the players was prepared.",
+      "Neither the coach nor the players were prepared.",
+      "Neither the coach nor the players is prepared.",
+      "Neither the coach nor the players be prepared."
+    ],
+    "answer": "Neither the coach nor the players were prepared."
+  },
+  {
+    "question": "Choose the sentence with correct comma usage.",
+    "options": [
+      "Before leaving the office she locked the door.",
+      "Before leaving the office, she locked the door.",
+      "Before leaving, the office she locked the door.",
+      "Before leaving the office she, locked the door."
+    ],
+    "answer": "Before leaving the office, she locked the door."
+  },
+  {
+    "question": "Which sentence uses the correct verb form?",
+    "options": [
+      "If I was more organized, I would finish earlier.",
+      "If I were more organized, I would finish earlier.",
+      "If I be more organized, I would finish earlier.",
+      "If I am more organized, I would finish earlier."
+    ],
+    "answer": "If I were more organized, I would finish earlier."
+  },
+  {
+    "question": "Choose the sentence with proper capitalization.",
+    "options": [
+      "We studied the Industrial revolution in class.",
+      "We studied the Industrial Revolution in class.",
+      "We studied the industrial Revolution in class.",
+      "We studied the industrial revolution in History."
+    ],
+    "answer": "We studied the Industrial Revolution in class."
+  },
+  {
+    "question": "Which sentence avoids a run-on sentence?",
+    "options": [
+      "The presentation ended the audience applauded loudly.",
+      "The presentation ended, the audience applauded loudly.",
+      "The presentation ended, and the audience applauded loudly.",
+      "The presentation ended and, the audience applauded loudly."
+    ],
+    "answer": "The presentation ended, and the audience applauded loudly."
+  }
+]

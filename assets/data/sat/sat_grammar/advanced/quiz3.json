@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the sentence with correct punctuation.",
+    "options": [
+      "The proposal seemed effective however, several issues remained.",
+      "The proposal seemed effective; however, several issues remained.",
+      "The proposal seemed effective however several issues remained.",
+      "The proposal seemed effective, however several issues remained."
+    ],
+    "answer": "The proposal seemed effective; however, several issues remained."
+  },
+  {
+    "question": "Which sentence uses proper parallel structure?",
+    "options": [
+      "The scholarship rewards leadership, academic excellence, and volunteering.",
+      "The scholarship rewards leadership, academic excellence, and community service.",
+      "The scholarship rewards leading, academic excellence, and volunteering.",
+      "The scholarship rewards leadership, to excel academically, and volunteering."
+    ],
+    "answer": "The scholarship rewards leadership, academic excellence, and community service."
+  },
+  {
+    "question": "Choose the sentence that avoids a dangling modifier.",
+    "options": [
+      "While studying late at night, the textbook became confusing.",
+      "While studying late at night, I found the textbook confusing.",
+      "The textbook became confusing while studying late at night.",
+      "While studying late at night, confusing ideas appeared."
+    ],
+    "answer": "While studying late at night, I found the textbook confusing."
+  },
+  {
+    "question": "Which sentence is the most concise?",
+    "options": [
+      "At this point in time, we must make a final decision.",
+      "We must make a final decision at this point in time.",
+      "We must decide now.",
+      "A final decision must be made currently."
+    ],
+    "answer": "We must decide now."
+  },
+  {
+    "question": "Choose the sentence with correct subject-verb agreement.",
+    "options": [
+      "Neither the professor nor the students was prepared.",
+      "Neither the professor nor the students were prepared.",
+      "Neither the professor nor the students is prepared.",
+      "Neither the professor nor the students be prepared."
+    ],
+    "answer": "Neither the professor nor the students were prepared."
+  },
+  {
+    "question": "Which sentence uses commas correctly?",
+    "options": [
+      "The article which was published yesterday became popular.",
+      "The article, which was published yesterday, became popular.",
+      "The article which was published yesterday, became popular.",
+      "The article, which was published yesterday became popular."
+    ],
+    "answer": "The article, which was published yesterday, became popular."
+  },
+  {
+    "question": "Choose the sentence with proper pronoun usage.",
+    "options": [
+      "Every contestant must submit their essay.",
+      "Every contestant must submit his or her essay.",
+      "Every contestant must submits their essay.",
+      "Every contestant must submit there essay."
+    ],
+    "answer": "Every contestant must submit his or her essay."
+  },
+  {
+    "question": "Which sentence uses the correct verb mood?",
+    "options": [
+      "If she was more careful, she would avoid mistakes.",
+      "If she were more careful, she would avoid mistakes.",
+      "If she is more careful, she would avoid mistakes.",
+      "If she be more careful, she would avoid mistakes."
+    ],
+    "answer": "If she were more careful, she would avoid mistakes."
+  },
+  {
+    "question": "Choose the sentence with correct punctuation.",
+    "options": [
+      "The lecture was informative nevertheless some students were confused.",
+      "The lecture was informative; nevertheless, some students were confused.",
+      "The lecture was informative nevertheless, some students were confused.",
+      "The lecture was informative, nevertheless some students were confused."
+    ],
+    "answer": "The lecture was informative; nevertheless, some students were confused."
+  },
+  {
+    "question": "Which sentence avoids a run-on sentence?",
+    "options": [
+      "The research concluded the scientists published their findings.",
+      "The research concluded, the scientists published their findings.",
+      "The research concluded, and the scientists published their findings.",
+      "The research concluded and, the scientists published their findings."
+    ],
+    "answer": "The research concluded, and the scientists published their findings."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Knowledgeable",
+      "Knowledgable",
+      "Knowlegeable",
+      "Knowledgible"
+    ],
+    "answer": "Knowledgeable"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Leisure",
+      "Lesiure",
+      "Leasure",
+      "Leisur"
+    ],
+    "answer": "Leisure"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Necessary",
+      "Necesary",
+      "Necassary",
+      "Necessay"
+    ],
+    "answer": "Necessary"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Occasionally",
+      "Occassionally",
+      "Ocasionally",
+      "Occasionaly"
+    ],
+    "answer": "Occasionally"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Possession",
+      "Posession",
+      "Possesion",
+      "Possesion"
+    ],
+    "answer": "Possession"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Recommend",
+      "Reccomend",
+      "Recomend",
+      "Reccamend"
+    ],
+    "answer": "Recommend"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Scholarship",
+      "Scholorship",
+      "Scholarshipp",
+      "Scholership"
+    ],
+    "answer": "Scholarship"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Temperature",
+      "Temprature",
+      "Tempereture",
+      "Temparature"
+    ],
+    "answer": "Temperature"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "University",
+      "Univercity",
+      "Universaty",
+      "Univeristy"
+    ],
+    "answer": "University"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Vocabulary",
+      "Vocabulary",
+      "Vocabulery",
+      "Vocubalary"
+    ],
+    "answer": "Vocabulary"
+  }
+]

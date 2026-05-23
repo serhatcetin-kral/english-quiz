@@ -1,0 +1,105 @@
+{
+  "passage": "Maria had always enjoyed reading books about space exploration. Every afternoon after school, she visited the local library to learn more about astronauts, planets, and distant galaxies. One day, she discovered a book about the first moon landing. The story inspired her deeply, and she began dreaming of becoming an aerospace engineer. Maria started studying science more seriously and joined her school's robotics club. Although the work was challenging, she remained determined to achieve her goal.",
+  "questions": [
+    {
+      "question": "What did Maria enjoy reading about?",
+      "options": [
+        "Ancient history",
+        "Space exploration",
+        "Ocean animals",
+        "Cooking recipes"
+      ],
+      "answer": "Space exploration"
+    },
+    {
+      "question": "Where did Maria go after school?",
+      "options": [
+        "The science museum",
+        "The library",
+        "The robotics lab",
+        "The bookstore"
+      ],
+      "answer": "The library"
+    },
+    {
+      "question": "What inspired Maria deeply?",
+      "options": [
+        "A robotics competition",
+        "A science teacher",
+        "A book about the moon landing",
+        "A television program"
+      ],
+      "answer": "A book about the moon landing"
+    },
+    {
+      "question": "What career did Maria dream of pursuing?",
+      "options": [
+        "Astronaut",
+        "Teacher",
+        "Aerospace engineer",
+        "Pilot"
+      ],
+      "answer": "Aerospace engineer"
+    },
+    {
+      "question": "Which club did Maria join?",
+      "options": [
+        "Drama club",
+        "Debate club",
+        "Art club",
+        "Robotics club"
+      ],
+      "answer": "Robotics club"
+    },
+    {
+      "question": "How did Maria respond to difficult work?",
+      "options": [
+        "She quit immediately",
+        "She ignored it",
+        "She stayed determined",
+        "She asked others to do it"
+      ],
+      "answer": "She stayed determined"
+    },
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Libraries are expensive",
+        "Maria became famous",
+        "Reading inspired Maria to pursue her goals",
+        "Robotics clubs are difficult"
+      ],
+      "answer": "Reading inspired Maria to pursue her goals"
+    },
+    {
+      "question": "What can be inferred about Maria?",
+      "options": [
+        "She dislikes science",
+        "She is hardworking",
+        "She wants to become a writer",
+        "She prefers sports"
+      ],
+      "answer": "She is hardworking"
+    },
+    {
+      "question": "Why did Maria study science more seriously?",
+      "options": [
+        "Her parents forced her",
+        "She wanted better grades",
+        "She wanted to achieve her dream",
+        "She wanted to impress friends"
+      ],
+      "answer": "She wanted to achieve her dream"
+    },
+    {
+      "question": "Which word best describes Maria?",
+      "options": [
+        "Lazy",
+        "Curious",
+        "Careless",
+        "Uninterested"
+      ],
+      "answer": "Curious"
+    }
+  ]
+}

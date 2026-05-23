@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Acquaintance",
+      "Aquantance",
+      "Acquantance",
+      "Acaintance"
+    ],
+    "answer": "Acquaintance"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Beautiful",
+      "Beautifull",
+      "Beutiful",
+      "Beautifal"
+    ],
+    "answer": "Beautiful"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Colonel",
+      "Colnel",
+      "Colonal",
+      "Colenel"
+    ],
+    "answer": "Colonel"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Disappear",
+      "Dissapear",
+      "Disapear",
+      "Dissappear"
+    ],
+    "answer": "Disappear"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Excellent",
+      "Exellent",
+      "Excelent",
+      "Excellant"
+    ],
+    "answer": "Excellent"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Foreign",
+      "Foriegn",
+      "Forein",
+      "Forign"
+    ],
+    "answer": "Foreign"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Grammar",
+      "Grammer",
+      "Grammer",
+      "Gramaar"
+    ],
+    "answer": "Grammar"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Hierarchy",
+      "Heirarchy",
+      "Hierachy",
+      "Hiearchy"
+    ],
+    "answer": "Hierarchy"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Immediately",
+      "Immediatly",
+      "Immediateley",
+      "Imediately"
+    ],
+    "answer": "Immediately"
+  },
+  {
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Judgment",
+      "Judgement",
+      "Judgmant",
+      "Judgament"
+    ],
+    "answer": "Judgment"
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "passage": "Jason loved solving problems. As a child, he often spent hours building puzzles and experimenting with small machines. In high school, he joined the engineering club and participated in science competitions. Although his team did not always win, Jason learned valuable lessons from each experience. His teachers admired his persistence and creativity. Over time, Jason realized that failure was not something to fear but an opportunity to improve and grow.",
+  "questions": [
+    {
+      "question": "What did Jason enjoy doing as a child?",
+      "options": [
+        "Playing sports",
+        "Watching television",
+        "Solving problems",
+        "Drawing cartoons"
+      ],
+      "answer": "Solving problems"
+    },
+    {
+      "question": "Which club did Jason join in high school?",
+      "options": [
+        "Drama club",
+        "Engineering club",
+        "Music club",
+        "Debate club"
+      ],
+      "answer": "Engineering club"
+    },
+    {
+      "question": "What did Jason participate in?",
+      "options": [
+        "Cooking contests",
+        "Science competitions",
+        "Dance shows",
+        "Writing contests"
+      ],
+      "answer": "Science competitions"
+    },
+    {
+      "question": "How did Jason react to failure?",
+      "options": [
+        "He quit immediately",
+        "He became angry",
+        "He learned from it",
+        "He ignored it"
+      ],
+      "answer": "He learned from it"
+    },
+    {
+      "question": "What qualities did teachers admire?",
+      "options": [
+        "Strength and speed",
+        "Persistence and creativity",
+        "Humor and kindness",
+        "Leadership and bravery"
+      ],
+      "answer": "Persistence and creativity"
+    },
+    {
+      "question": "What lesson did Jason learn?",
+      "options": [
+        "Failure should be avoided",
+        "Winning is everything",
+        "Failure helps people improve",
+        "Competitions are useless"
+      ],
+      "answer": "Failure helps people improve"
+    },
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Jason disliked teamwork",
+        "Jason learned through experience",
+        "Engineering is difficult",
+        "Teachers enjoy competitions"
+      ],
+      "answer": "Jason learned through experience"
+    },
+    {
+      "question": "Which word best describes Jason?",
+      "options": [
+        "Determined",
+        "Careless",
+        "Lazy",
+        "Fearful"
+      ],
+      "answer": "Determined"
+    },
+    {
+      "question": "What can be inferred about Jason?",
+      "options": [
+        "He avoids challenges",
+        "He values learning",
+        "He dislikes science",
+        "He only cares about winning"
+      ],
+      "answer": "He values learning"
+    },
+    {
+      "question": "Why did Jason continue participating?",
+      "options": [
+        "To become famous",
+        "To avoid homework",
+        "To gain experience",
+        "To impress classmates"
+      ],
+      "answer": "To gain experience"
+    }
+  ]
+}

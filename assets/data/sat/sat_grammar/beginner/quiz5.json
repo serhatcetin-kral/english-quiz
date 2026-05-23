@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Choose the sentence with correct punctuation.",
+    "options": [
+      "After dinner we watched a movie.",
+      "After dinner, we watched a movie.",
+      "After, dinner we watched a movie.",
+      "After dinner we, watched a movie."
+    ],
+    "answer": "After dinner, we watched a movie."
+  },
+  {
+    "question": "Which sentence uses the correct verb tense?",
+    "options": [
+      "She has went to the store.",
+      "She have gone to the store.",
+      "She has gone to the store.",
+      "She gone to the store."
+    ],
+    "answer": "She has gone to the store."
+  },
+  {
+    "question": "Choose the correctly written sentence.",
+    "options": [
+      "The students forgot there books.",
+      "The students forgot their books.",
+      "The students forgot they’re books.",
+      "The students forgot theirs books."
+    ],
+    "answer": "The students forgot their books."
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "Each player have a uniform.",
+      "Each player has a uniform.",
+      "Each player having a uniform.",
+      "Each player were given a uniform."
+    ],
+    "answer": "Each player has a uniform."
+  },
+  {
+    "question": "Choose the sentence with correct capitalization.",
+    "options": [
+      "My favorite holiday is thanksgiving.",
+      "My favorite holiday is Thanksgiving.",
+      "My Favorite Holiday is thanksgiving.",
+      "My favorite Holiday is Thanksgiving."
+    ],
+    "answer": "My favorite holiday is Thanksgiving."
+  },
+  {
+    "question": "Which sentence uses commas correctly?",
+    "options": [
+      "Before leaving lock the door.",
+      "Before leaving, lock the door.",
+      "Before, leaving lock the door.",
+      "Before leaving lock, the door."
+    ],
+    "answer": "Before leaving, lock the door."
+  },
+  {
+    "question": "Choose the sentence with correct subject-verb agreement.",
+    "options": [
+      "The group of tourists are visiting the museum.",
+      "The group of tourists is visiting the museum.",
+      "The group of tourists were visiting the museum.",
+      "The group of tourists be visiting the museum."
+    ],
+    "answer": "The group of tourists is visiting the museum."
+  },
+  {
+    "question": "Which sentence is complete?",
+    "options": [
+      "Because the weather was beautiful.",
+      "After they arrived at the station.",
+      "The children played in the park.",
+      "While waiting for the teacher."
+    ],
+    "answer": "The children played in the park."
+  },
+  {
+    "question": "Choose the correctly written sentence.",
+    "options": [
+      "He enjoys soccer basketball and tennis.",
+      "He enjoys soccer, basketball, and tennis.",
+      "He enjoys soccer basketball, and tennis.",
+      "He enjoys, soccer basketball and tennis."
+    ],
+    "answer": "He enjoys soccer, basketball, and tennis."
+  },
+  {
+    "question": "Which sentence avoids a run-on sentence?",
+    "options": [
+      "I was hungry I made a sandwich.",
+      "I was hungry, I made a sandwich.",
+      "I was hungry, so I made a sandwich.",
+      "I was hungry so, I made a sandwich."
+    ],
+    "answer": "I was hungry, so I made a sandwich."
+  }
+]

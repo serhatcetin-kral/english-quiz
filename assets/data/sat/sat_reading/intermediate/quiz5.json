@@ -1,0 +1,105 @@
+{
+  "passage": "Artificial intelligence, often called AI, has become increasingly common in everyday life. AI systems are used in smartphones, online shopping recommendations, navigation apps, and even medical research. Supporters argue that AI improves efficiency and helps solve complex problems more quickly than humans alone. However, some critics worry that automation could replace certain jobs and create ethical concerns about privacy and decision-making. As AI technology continues to develop, societies must balance innovation with responsibility.",
+  "questions": [
+    {
+      "question": "Where is AI commonly used?",
+      "options": [
+        "Only in factories",
+        "In smartphones and apps",
+        "Only in hospitals",
+        "Only in schools"
+      ],
+      "answer": "In smartphones and apps"
+    },
+    {
+      "question": "What do supporters believe about AI?",
+      "options": [
+        "It reduces efficiency",
+        "It solves problems quickly",
+        "It should be banned",
+        "It harms all industries"
+      ],
+      "answer": "It solves problems quickly"
+    },
+    {
+      "question": "What concern do critics have?",
+      "options": [
+        "Too many books",
+        "Job replacement",
+        "Lack of electricity",
+        "Too much transportation"
+      ],
+      "answer": "Job replacement"
+    },
+    {
+      "question": "What ethical concern is mentioned?",
+      "options": [
+        "Cooking",
+        "Privacy",
+        "Sports",
+        "Weather"
+      ],
+      "answer": "Privacy"
+    },
+    {
+      "question": "What must societies balance?",
+      "options": [
+        "Innovation and responsibility",
+        "Technology and farming",
+        "Money and travel",
+        "Science and sports"
+      ],
+      "answer": "Innovation and responsibility"
+    },
+    {
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "AI has benefits and concerns",
+        "AI is only dangerous",
+        "Technology should stop developing",
+        "AI only exists in phones"
+      ],
+      "answer": "AI has benefits and concerns"
+    },
+    {
+      "question": "Which word best describes the author's tone?",
+      "options": [
+        "Balanced",
+        "Angry",
+        "Excited",
+        "Sarcastic"
+      ],
+      "answer": "Balanced"
+    },
+    {
+      "question": "What can be inferred about AI?",
+      "options": [
+        "It will continue growing",
+        "It is disappearing",
+        "It only helps businesses",
+        "It cannot affect society"
+      ],
+      "answer": "It will continue growing"
+    },
+    {
+      "question": "What does AI improve?",
+      "options": [
+        "Pollution",
+        "Efficiency",
+        "Traffic",
+        "Weather"
+      ],
+      "answer": "Efficiency"
+    },
+    {
+      "question": "Why is responsibility important?",
+      "options": [
+        "To manage ethical concerns",
+        "To reduce electricity",
+        "To stop smartphones",
+        "To avoid education"
+      ],
+      "answer": "To manage ethical concerns"
+    }
+  ]
+}
