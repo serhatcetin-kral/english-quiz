@@ -1,9 +1,13 @@
 import 'package:flutter/material.dart';
 
 import 'level_screen.dart';
+import '../widgets/banner_ad_widget.dart';
 
 class IdiomsLevelsScreen extends StatelessWidget {
-  const IdiomsLevelsScreen({super.key});
+
+  const IdiomsLevelsScreen({
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -36,131 +40,159 @@ class IdiomsLevelsScreen extends StatelessWidget {
       appBar: AppBar(
 
         title: const Text(
+
           'Idioms',
+
           style: TextStyle(
             fontWeight: FontWeight.bold,
           ),
         ),
 
         centerTitle: true,
+
         elevation: 0,
       ),
 
-      body: Padding(
+      body: SafeArea(
 
-        padding: const EdgeInsets.all(18),
+        child: Column(
 
-        child: GridView.builder(
+          children: [
 
-          itemCount: levels.length,
+            Expanded(
 
-          gridDelegate:
-          const SliverGridDelegateWithFixedCrossAxisCount(
+              child: Padding(
 
-            crossAxisCount: 2,
-            crossAxisSpacing: 18,
-            mainAxisSpacing: 18,
-            childAspectRatio: 1,
-          ),
+                padding: const EdgeInsets.all(18),
 
-          itemBuilder: (context, index) {
+                child: GridView.builder(
 
-            final level = levels[index];
+                  itemCount: levels.length,
 
-            return InkWell(
+                  gridDelegate:
+                  const SliverGridDelegateWithFixedCrossAxisCount(
 
-              borderRadius: BorderRadius.circular(30),
+                    crossAxisCount: 2,
 
-              onTap: () {
+                    crossAxisSpacing: 18,
 
-                Navigator.push(
+                    mainAxisSpacing: 18,
 
-                  context,
-
-                  MaterialPageRoute(
-
-                    builder: (_) => LevelScreen(
-
-                      category: 'idioms',
-
-                      level:
-                      level['title']
-                          .toString()
-                          .toLowerCase(),
-                    ),
-                  ),
-                );
-              },
-
-              child: Container(
-
-                decoration: BoxDecoration(
-
-                  gradient: LinearGradient(
-
-                    colors: [
-
-                      level['color1'] as Color,
-                      level['color2'] as Color,
-                    ],
-
-                    begin: Alignment.topLeft,
-                    end: Alignment.bottomRight,
+                    childAspectRatio: 1,
                   ),
 
-                  borderRadius:
-                  BorderRadius.circular(30),
+                  itemBuilder: (context, index) {
 
-                  boxShadow: [
+                    final level = levels[index];
 
-                    BoxShadow(
+                    return InkWell(
 
-                      color:
-                      (level['color1'] as Color)
-                          .withOpacity(0.35),
+                      borderRadius:
+                      BorderRadius.circular(30),
 
-                      blurRadius: 12,
-                      offset: const Offset(0, 6),
-                    ),
-                  ],
-                ),
+                      onTap: () {
 
-                child: Center(
+                        Navigator.push(
 
-                  child: Column(
+                          context,
 
-                    mainAxisAlignment:
-                    MainAxisAlignment.center,
+                          MaterialPageRoute(
 
-                    children: [
+                            builder: (_) => LevelScreen(
 
-                      const Icon(
+                              category: 'idioms',
 
-                        Icons.record_voice_over,
+                              level:
+                              level['title']
+                                  .toString()
+                                  .toLowerCase(),
+                            ),
+                          ),
+                        );
+                      },
 
-                        color: Colors.white,
-                        size: 44,
-                      ),
+                      child: Container(
 
-                      const SizedBox(height: 14),
+                        decoration: BoxDecoration(
 
-                      Text(
+                          gradient: LinearGradient(
 
-                        level['title'].toString(),
+                            colors: [
 
-                        style: const TextStyle(
+                              level['color1'] as Color,
+                              level['color2'] as Color,
+                            ],
 
-                          color: Colors.white,
-                          fontSize: 22,
-                          fontWeight: FontWeight.bold,
+                            begin: Alignment.topLeft,
+
+                            end: Alignment.bottomRight,
+                          ),
+
+                          borderRadius:
+                          BorderRadius.circular(30),
+
+                          boxShadow: [
+
+                            BoxShadow(
+
+                              color:
+                              (level['color1'] as Color)
+                                  .withOpacity(0.35),
+
+                              blurRadius: 12,
+
+                              offset: const Offset(0, 6),
+                            ),
+                          ],
+                        ),
+
+                        child: Center(
+
+                          child: Column(
+
+                            mainAxisAlignment:
+                            MainAxisAlignment.center,
+
+                            children: [
+
+                              const Icon(
+
+                                Icons.record_voice_over,
+
+                                color: Colors.white,
+
+                                size: 44,
+                              ),
+
+                              const SizedBox(height: 14),
+
+                              Text(
+
+                                level['title'].toString(),
+
+                                style: const TextStyle(
+
+                                  color: Colors.white,
+
+                                  fontSize: 22,
+
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                            ],
+                          ),
                         ),
                       ),
-                    ],
-                  ),
+                    );
+                  },
                 ),
               ),
-            );
-          },
+            ),
+
+            const BannerAdWidget(),
+
+            const SizedBox(height: 8),
+          ],
         ),
       ),
     );

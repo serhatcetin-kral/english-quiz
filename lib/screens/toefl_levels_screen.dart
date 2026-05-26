@@ -1,9 +1,13 @@
 import 'package:flutter/material.dart';
 
 import 'level_screen.dart';
+import '../widgets/banner_ad_widget.dart';
 
 class ToeflLevelsScreen extends StatelessWidget {
-  const ToeflLevelsScreen({super.key});
+
+  const ToeflLevelsScreen({
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -14,39 +18,74 @@ class ToeflLevelsScreen extends StatelessWidget {
         title: const Text('TOEFL Practice'),
       ),
 
-      body: Padding(
-        padding: const EdgeInsets.all(16),
+      body: SafeArea(
 
         child: Column(
 
           children: [
 
-            levelCard(
-              context,
-              title: 'Reading TOEFL',
-              quizzes: 'Academic Reading',
-              color: Colors.blue,
-              level: 'reading',
-              icon: Icons.chrome_reader_mode,
+            Expanded(
+
+              child: Padding(
+
+                padding: const EdgeInsets.all(16),
+
+                child: Column(
+
+                  children: [
+
+                    levelCard(
+
+                      context,
+
+                      title: 'Reading TOEFL',
+
+                      quizzes: 'Academic Reading',
+
+                      color: Colors.blue,
+
+                      level: 'reading',
+
+                      icon: Icons.chrome_reader_mode,
+                    ),
+
+                    levelCard(
+
+                      context,
+
+                      title: 'Vocabulary TOEFL',
+
+                      quizzes: 'Advanced Vocabulary',
+
+                      color: Colors.orange,
+
+                      level: 'vocabulary',
+
+                      icon: Icons.menu_book,
+                    ),
+
+                    levelCard(
+
+                      context,
+
+                      title: 'Grammar TOEFL',
+
+                      quizzes: 'Formal Grammar',
+
+                      color: Colors.green,
+
+                      level: 'grammar',
+
+                      icon: Icons.spellcheck,
+                    ),
+                  ],
+                ),
+              ),
             ),
 
-            levelCard(
-              context,
-              title: 'Vocabulary TOEFL',
-              quizzes: 'Advanced Vocabulary',
-              color: Colors.orange,
-              level: 'vocabulary',
-              icon: Icons.menu_book,
-            ),
+            const BannerAdWidget(),
 
-            levelCard(
-              context,
-              title: 'Grammar TOEFL',
-              quizzes: 'Formal Grammar',
-              color: Colors.green,
-              level: 'grammar',
-              icon: Icons.spellcheck,
-            ),
+            const SizedBox(height: 8),
           ],
         ),
       ),
@@ -54,15 +93,22 @@ class ToeflLevelsScreen extends StatelessWidget {
   }
 
   Widget levelCard(
+
       BuildContext context, {
+
         required String title,
+
         required String quizzes,
+
         required Color color,
+
         required String level,
+
         required IconData icon,
       }) {
 
     return Padding(
+
       padding: const EdgeInsets.only(bottom: 16),
 
       child: InkWell(
@@ -72,12 +118,15 @@ class ToeflLevelsScreen extends StatelessWidget {
         onTap: () {
 
           Navigator.push(
+
             context,
 
             MaterialPageRoute(
+
               builder: (_) => LevelScreen(
 
                 category: 'toefl',
+
                 level: level,
               ),
             ),
@@ -97,7 +146,9 @@ class ToeflLevelsScreen extends StatelessWidget {
             boxShadow: [
 
               BoxShadow(
+
                 color: Colors.black.withOpacity(0.05),
+
                 blurRadius: 10,
               ),
             ],
@@ -108,14 +159,18 @@ class ToeflLevelsScreen extends StatelessWidget {
             children: [
 
               CircleAvatar(
+
                 radius: 28,
 
                 backgroundColor:
                 color.withOpacity(0.15),
 
                 child: Icon(
+
                   icon,
+
                   color: color,
+
                   size: 30,
                 ),
               ),
@@ -123,6 +178,7 @@ class ToeflLevelsScreen extends StatelessWidget {
               const SizedBox(width: 16),
 
               Expanded(
+
                 child: Column(
 
                   crossAxisAlignment:
@@ -131,10 +187,13 @@ class ToeflLevelsScreen extends StatelessWidget {
                   children: [
 
                     Text(
+
                       title,
 
                       style: const TextStyle(
+
                         fontSize: 22,
+
                         fontWeight:
                         FontWeight.bold,
                       ),
@@ -143,9 +202,11 @@ class ToeflLevelsScreen extends StatelessWidget {
                     const SizedBox(height: 4),
 
                     Text(
+
                       quizzes,
 
                       style: TextStyle(
+
                         color:
                         Colors.grey.shade600,
                       ),

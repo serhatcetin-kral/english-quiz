@@ -1,4 +1,4 @@
-{
+[{
   "question": "What is the opposite of 'flexible'?",
   "options": ["Rigid", "Soft", "Gentle", "Calm"],
   "answer": "Rigid"
@@ -47,4 +47,4 @@
 "question": "What does 'encourage' mean?",
 "options": ["Give confidence", "Cause fear", "Create confusion", "Hide information"],
 "answer": "Give confidence"
-},
+}]

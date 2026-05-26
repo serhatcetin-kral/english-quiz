@@ -1,9 +1,13 @@
 import 'package:flutter/material.dart';
 
 import 'level_screen.dart';
+import '../widgets/banner_ad_widget.dart';
 
 class GrammarLevelsScreen extends StatelessWidget {
-  const GrammarLevelsScreen({super.key});
+
+  const GrammarLevelsScreen({
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -14,36 +18,68 @@ class GrammarLevelsScreen extends StatelessWidget {
         title: const Text('Grammar'),
       ),
 
-      body: Padding(
-        padding: const EdgeInsets.all(16),
+      body: SafeArea(
 
         child: Column(
 
           children: [
 
-            levelCard(
-              context,
-              title: 'Beginner',
-              quizzes: '4 Grammar Quizzes',
-              color: Colors.green,
-              level: 'beginner',
+            Expanded(
+
+              child: Padding(
+
+                padding: const EdgeInsets.all(16),
+
+                child: Column(
+
+                  children: [
+
+                    levelCard(
+
+                      context,
+
+                      title: 'Beginner',
+
+                      quizzes: '5 Quizzes',
+
+                      color: Colors.blue,
+
+                      level: 'beginner',
+                    ),
+
+                    levelCard(
+
+                      context,
+
+                      title: 'Intermediate',
+
+                      quizzes: '5 Quizzes',
+
+                      color: Colors.orange,
+
+                      level: 'intermediate',
+                    ),
+
+                    levelCard(
+
+                      context,
+
+                      title: 'Advanced',
+
+                      quizzes: '5 Quizzes',
+
+                      color: Colors.red,
+
+                      level: 'advanced',
+                    ),
+                  ],
+                ),
+              ),
             ),
 
-            levelCard(
-              context,
-              title: 'Intermediate',
-              quizzes: '4 Grammar Quizzes',
-              color: Colors.orange,
-              level: 'intermediate',
-            ),
+            const BannerAdWidget(),
 
-            levelCard(
-              context,
-              title: 'Advanced',
-              quizzes: '4 Grammar Quizzes',
-              color: Colors.red,
-              level: 'advanced',
-            ),
+            const SizedBox(height: 8),
           ],
         ),
       ),
@@ -51,14 +87,20 @@ class GrammarLevelsScreen extends StatelessWidget {
   }
 
   Widget levelCard(
+
       BuildContext context, {
+
         required String title,
+
         required String quizzes,
+
         required Color color,
+
         required String level,
       }) {
 
     return Padding(
+
       padding: const EdgeInsets.only(bottom: 16),
 
       child: InkWell(
@@ -68,14 +110,16 @@ class GrammarLevelsScreen extends StatelessWidget {
         onTap: () {
 
           Navigator.push(
+
             context,
 
             MaterialPageRoute(
+
               builder: (_) => LevelScreen(
 
                 category: 'grammar',
-                level: level,
 
+                level: level,
               ),
             ),
           );
@@ -94,7 +138,9 @@ class GrammarLevelsScreen extends StatelessWidget {
             boxShadow: [
 
               BoxShadow(
+
                 color: Colors.black.withOpacity(0.05),
+
                 blurRadius: 10,
               ),
             ],
@@ -105,12 +151,18 @@ class GrammarLevelsScreen extends StatelessWidget {
             children: [
 
               CircleAvatar(
+
                 radius: 28,
-                backgroundColor: color.withOpacity(0.15),
+
+                backgroundColor:
+                color.withOpacity(0.15),
 
                 child: Icon(
+
                   Icons.spellcheck,
+
                   color: color,
+
                   size: 30,
                 ),
               ),
@@ -118,16 +170,22 @@ class GrammarLevelsScreen extends StatelessWidget {
               const SizedBox(width: 16),
 
               Expanded(
+
                 child: Column(
 
-                  crossAxisAlignment: CrossAxisAlignment.start,
+                  crossAxisAlignment:
+                  CrossAxisAlignment.start,
 
                   children: [
 
                     Text(
+
                       title,
+
                       style: const TextStyle(
+
                         fontSize: 22,
+
                         fontWeight: FontWeight.bold,
                       ),
                     ),
@@ -135,8 +193,11 @@ class GrammarLevelsScreen extends StatelessWidget {
                     const SizedBox(height: 4),
 
                     Text(
+
                       quizzes,
+
                       style: TextStyle(
+
                         color: Colors.grey.shade600,
                       ),
                     ),
@@ -144,7 +205,9 @@ class GrammarLevelsScreen extends StatelessWidget {
                 ),
               ),
 
-              const Icon(Icons.arrow_forward_ios),
+              const Icon(
+                Icons.arrow_forward_ios,
+              ),
             ],
           ),
         ),

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'sat_words_list_screen.dart';
+import '../widgets/banner_ad_widget.dart';
 
 class SATWordsLevelsScreen extends StatelessWidget {
 
@@ -14,47 +15,80 @@ class SATWordsLevelsScreen extends StatelessWidget {
     return Scaffold(
 
       appBar: AppBar(
-        title: const Text('SAT Words'),
+
+        title: const Text(
+          'SAT Words',
+        ),
+
         centerTitle: true,
       ),
 
-      body: Padding(
-        padding: const EdgeInsets.all(18),
+      body: SafeArea(
 
         child: Column(
 
           children: [
 
-            _buildLevelCard(
-              context,
-              title: 'Beginner',
-              color1: const Color(0xFF11998E),
-              color2: const Color(0xFF38EF7D),
+            Expanded(
 
-              level: 'beginner',
+              child: Padding(
+
+                padding: const EdgeInsets.all(18),
+
+                child: Column(
+
+                  children: [
+
+                    _buildLevelCard(
+
+                      context,
+
+                      title: 'Beginner',
+
+                      color1: const Color(0xFF11998E),
+
+                      color2: const Color(0xFF38EF7D),
+
+                      level: 'beginner',
+                    ),
+
+                    const SizedBox(height: 18),
+
+                    _buildLevelCard(
+
+                      context,
+
+                      title: 'Intermediate',
+
+                      color1: const Color(0xFFFF9966),
+
+                      color2: const Color(0xFFFF5E62),
+
+                      level: 'intermediate',
+                    ),
+
+                    const SizedBox(height: 18),
+
+                    _buildLevelCard(
+
+                      context,
+
+                      title: 'Advanced',
+
+                      color1: const Color(0xFF8E2DE2),
+
+                      color2: const Color(0xFF4A00E0),
+
+                      level: 'advanced',
+                    ),
+                  ],
+                ),
+              ),
             ),
 
-            const SizedBox(height: 18),
+            const BannerAdWidget(),
 
-            _buildLevelCard(
-              context,
-              title: 'Intermediate',
-              color1: const Color(0xFFFF9966),
-              color2: const Color(0xFFFF5E62),
-
-              level: 'intermediate',
-            ),
-
-            const SizedBox(height: 18),
-
-            _buildLevelCard(
-              context,
-              title: 'Advanced',
-              color1: const Color(0xFF8E2DE2),
-              color2: const Color(0xFF4A00E0),
-
-              level: 'advanced',
-            ),
+            const SizedBox(height: 8),
           ],
         ),
       ),
@@ -66,8 +100,11 @@ class SATWordsLevelsScreen extends StatelessWidget {
       BuildContext context, {
 
         required String title,
+
         required Color color1,
+
         required Color color2,
+
         required String level,
       }) {
 
@@ -79,9 +116,11 @@ class SATWordsLevelsScreen extends StatelessWidget {
       onTap: () {
 
         Navigator.push(
+
           context,
 
           MaterialPageRoute(
+
             builder: (_) =>
                 SATWordsListScreen(
                   level: level,
@@ -100,8 +139,11 @@ class SATWordsLevelsScreen extends StatelessWidget {
         decoration: BoxDecoration(
 
           gradient: LinearGradient(
+
             colors: [color1, color2],
+
             begin: Alignment.topLeft,
+
             end: Alignment.bottomRight,
           ),
 
@@ -111,6 +153,7 @@ class SATWordsLevelsScreen extends StatelessWidget {
           boxShadow: [
 
             BoxShadow(
+
               color:
               color1.withOpacity(0.25),
 
@@ -153,6 +196,7 @@ class SATWordsLevelsScreen extends StatelessWidget {
             Expanded(
 
               child: Text(
+
                 title,
 
                 style: const TextStyle(
@@ -168,6 +212,7 @@ class SATWordsLevelsScreen extends StatelessWidget {
             ),
 
             const Icon(
+
               Icons.arrow_forward_ios,
 
               color: Colors.white,

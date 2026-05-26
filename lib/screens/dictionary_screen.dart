@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-
+import '../widgets/banner_ad_widget.dart';
 class DictionaryScreen extends StatefulWidget {
   const DictionaryScreen({super.key});
 
@@ -127,7 +127,15 @@ class _DictionaryScreenState
         ),
       ),
 
-      body: Padding(
+      body: SafeArea(
+
+        child: Column(
+
+            children: [
+
+        Expanded(
+
+        child: Padding(
         padding: const EdgeInsets.all(18),
 
         child: Column(
@@ -347,6 +355,14 @@ class _DictionaryScreenState
               ),
           ],
         ),
+        ),
+        ),
+
+              const BannerAdWidget(),
+
+              const SizedBox(height: 8),
+            ],
+        ),
       ),
     );
   }
@@ -380,4 +396,5 @@ class _DictionaryScreenState
       ),
     );
   }
+
 }

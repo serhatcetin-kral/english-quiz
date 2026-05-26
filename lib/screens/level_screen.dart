@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'quiz_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import '../widgets/banner_ad_widget.dart';
 class LevelScreen extends StatefulWidget {
   final String category;
   final String level;
@@ -386,116 +387,166 @@ class _LevelScreenState extends State<LevelScreen> {
         ),
       ),
 
-      body: Padding(
-        padding: const EdgeInsets.all(16),
+      body: SafeArea(
 
         child: Column(
+
           crossAxisAlignment: CrossAxisAlignment.start,
 
           children: [
 
-            const SizedBox(height: 10),
-
-            Text(
-              'Select Quiz',
-              style:
-              Theme.of(context).textTheme.headlineSmall,
-            ),
-
-            const SizedBox(height: 20),
-
             Expanded(
-              child: ListView.builder(
 
-                itemCount: quizzes.length,
+              child: Padding(
 
-                itemBuilder: (context, index) {
+                padding: const EdgeInsets.all(16),
 
-                  final quizNumber = quizzes[index];
+                child: Column(
 
-                  final isCompleted =
-                  completedQuizzes.contains(
-                    quizNumber,
-                  );
+                  crossAxisAlignment:
+                  CrossAxisAlignment.start,
 
-                  return Card(
+                  children: [
 
-                    color:
-                    isCompleted
-                        ? Colors.green.shade100
-                        : Colors.white,
+                    const SizedBox(height: 10),
 
-                    elevation: 3,
+                    Text(
 
-                    margin:
-                    const EdgeInsets.only(bottom: 12),
+                      'Select Quiz',
 
-                    child: ListTile(
-
-                      leading: CircleAvatar(
-                        backgroundColor:
-                        isCompleted
-                            ? Colors.green
-                            : Colors.blue,
-
-                        child: Text(
-                          '${index + 1}',
-
-                          style: const TextStyle(
-                            color: Colors.white,
-                          ),
-                        ),
-                      ),
-
-                      title: Text(
-                        'Quiz ${index + 1}',
-                      ),
-
-                      subtitle:
-                      isCompleted
-                          ? const Text(
-                        'Completed',
-                        style: TextStyle(
-                          color: Colors.green,
-                          fontWeight:
-                          FontWeight.bold,
-                        ),
-                      )
-                          : null,
-
-                      trailing:
-                      isCompleted
-                          ? const Icon(
-                        Icons.check_circle,
-                        color: Colors.green,
-                      )
-                          : const Icon(
-                        Icons.arrow_forward_ios,
-                      ),
-
-                      onTap: () {
-
-                        Navigator.push(
-                          context,
-
-                          MaterialPageRoute(
-                            builder: (_) => QuizScreen(
-                              category: widget.category,
-                              level: widget.level,
-                              quizNumber: quizNumber,
-                            ),
-                          ),
-                        ).then((_) {
-
-                          loadCompletedQuizzes();
-
-                        });
-                      },
+                      style:
+                      Theme.of(context)
+                          .textTheme
+                          .headlineSmall,
                     ),
-                  );
-                },
+
+                    const SizedBox(height: 20),
+
+                    Expanded(
+
+                      child: ListView.builder(
+
+                        itemCount: quizzes.length,
+
+                        itemBuilder: (context, index) {
+
+                          final quizNumber =
+                          quizzes[index];
+
+                          final isCompleted =
+                          completedQuizzes.contains(
+                            quizNumber,
+                          );
+
+                          return Card(
+
+                            color:
+                            isCompleted
+                                ? Colors.green.shade100
+                                : Colors.white,
+
+                            elevation: 3,
+
+                            margin:
+                            const EdgeInsets.only(
+                              bottom: 12,
+                            ),
+
+                            child: ListTile(
+
+                              leading: CircleAvatar(
+
+                                backgroundColor:
+                                isCompleted
+                                    ? Colors.green
+                                    : Colors.blue,
+
+                                child: Text(
+
+                                  '${index + 1}',
+
+                                  style: const TextStyle(
+                                    color: Colors.white,
+                                  ),
+                                ),
+                              ),
+
+                              title: Text(
+                                'Quiz ${index + 1}',
+                              ),
+
+                              subtitle:
+                              isCompleted
+
+                                  ? const Text(
+
+                                'Completed',
+
+                                style: TextStyle(
+
+                                  color: Colors.green,
+
+                                  fontWeight:
+                                  FontWeight.bold,
+                                ),
+                              )
+
+                                  : null,
+
+                              trailing:
+                              isCompleted
+
+                                  ? const Icon(
+
+                                Icons.check_circle,
+
+                                color: Colors.green,
+                              )
+
+                                  : const Icon(
+                                Icons.arrow_forward_ios,
+                              ),
+
+                              onTap: () {
+
+                                Navigator.push(
+
+                                  context,
+
+                                  MaterialPageRoute(
+
+                                    builder: (_) =>
+                                        QuizScreen(
+
+                                          category:
+                                          widget.category,
+
+                                          level:
+                                          widget.level,
+
+                                          quizNumber:
+                                          quizNumber,
+                                        ),
+                                  ),
+                                ).then((_) {
+
+                                  loadCompletedQuizzes();
+
+                                });
+                              },
+                            ),
+                          );
+                        },
+                      ),
+                    ),
+                  ],
+                ),
               ),
             ),
+
+            const BannerAdWidget(),
+
+            const SizedBox(height: 8),
           ],
         ),
       ),

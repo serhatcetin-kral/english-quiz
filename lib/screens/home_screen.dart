@@ -11,7 +11,7 @@ import 'grammar_levels_screen.dart';
 import 'dictionary_screen.dart';
 import 'ielts_screen.dart';
 import 'sat_screen.dart';
-
+import '../widgets/banner_ad_widget.dart';
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
@@ -130,7 +130,13 @@ class HomeScreen extends StatelessWidget {
         ),
       ),
 
-      body: Padding(
+      body: Column(
+
+          children: [
+
+      Expanded(
+
+      child:  Padding(
         padding: const EdgeInsets.all(18),
 
         child: Column(
@@ -849,6 +855,13 @@ class HomeScreen extends StatelessWidget {
           ],
         ),
       ),
+      ),
+
+    const BannerAdWidget(),
+
+    const SizedBox(height: 8),
+    ],
+    ),
     );
   }
 }

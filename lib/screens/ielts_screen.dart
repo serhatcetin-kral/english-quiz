@@ -1,9 +1,13 @@
 import 'package:flutter/material.dart';
 
 import 'level_screen.dart';
+import '../widgets/banner_ad_widget.dart';
 
 class IELTScreen extends StatelessWidget {
-  const IELTScreen({super.key});
+
+  const IELTScreen({
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -33,172 +37,215 @@ class IELTScreen extends StatelessWidget {
         'color1': const Color(0xFFFFB75E),
         'color2': const Color(0xFFED8F03),
       },
-
     ];
 
     return Scaffold(
 
       appBar: AppBar(
+
         title: const Text(
           'IELTS Practice',
         ),
+
         centerTitle: true,
       ),
 
-      body: Padding(
-        padding: const EdgeInsets.all(16),
+      body: SafeArea(
 
         child: Column(
 
           children: [
 
-            // TOP BANNER
-
-            Container(
-
-              width: double.infinity,
-              padding: const EdgeInsets.all(20),
-
-              decoration: BoxDecoration(
-
-                gradient: const LinearGradient(
-                  colors: [
-                    Color(0xFF4A00E0),
-                    Color(0xFF8E2DE2),
-                  ],
-                ),
-
-                borderRadius: BorderRadius.circular(24),
-
-              ),
-
-              child: const Column(
-
-                crossAxisAlignment: CrossAxisAlignment.start,
-
-                children: [
-
-                  Text(
-                    'IELTS Academic Practice',
-                    style: TextStyle(
-                      color: Colors.white,
-                      fontSize: 24,
-                      fontWeight: FontWeight.bold,
-                    ),
-                  ),
-
-                  SizedBox(height: 10),
-
-                  Text(
-                    'Improve your Reading, Vocabulary and Grammar skills with IELTS-style questions.',
-                    style: TextStyle(
-                      color: Colors.white70,
-                      fontSize: 15,
-                    ),
-                  ),
-
-                ],
-              ),
-            ),
-
-            const SizedBox(height: 24),
-
             Expanded(
 
-              child: GridView.builder(
+              child: Padding(
 
-                itemCount: items.length,
+                padding: const EdgeInsets.all(16),
 
-                gridDelegate:
-                const SliverGridDelegateWithFixedCrossAxisCount(
+                child: Column(
 
-                  crossAxisCount: 2,
-                  crossAxisSpacing: 16,
-                  mainAxisSpacing: 16,
-                  childAspectRatio: 1.05,
+                  children: [
 
-                ),
+                    Container(
 
-                itemBuilder: (context, index) {
+                      width: double.infinity,
 
-                  final item = items[index];
-
-                  return GestureDetector(
-
-                    onTap: () {
-
-                      Navigator.push(
-
-                        context,
-
-                        MaterialPageRoute(
-
-                          builder: (_) => LevelScreen(
-
-                            category: 'ielts',
-                            level: item['level'].toString(),
-
-                          ),
-                        ),
-                      );
-                    },
-
-                    child: Container(
+                      padding: const EdgeInsets.all(20),
 
                       decoration: BoxDecoration(
 
-                        gradient: LinearGradient(
+                        gradient: const LinearGradient(
+
                           colors: [
-                            item['color1'] as Color,
-                            item['color2'] as Color,
+
+                            Color(0xFF4A00E0),
+                            Color(0xFF8E2DE2),
                           ],
                         ),
 
-                        borderRadius: BorderRadius.circular(24),
-
-                        boxShadow: [
-
-                          BoxShadow(
-                            color: Colors.black.withOpacity(0.15),
-                            blurRadius: 8,
-                            offset: const Offset(0, 4),
-                          ),
-
-                        ],
+                        borderRadius:
+                        BorderRadius.circular(24),
                       ),
 
-                      child: Column(
+                      child: const Column(
 
-                        mainAxisAlignment: MainAxisAlignment.center,
+                        crossAxisAlignment:
+                        CrossAxisAlignment.start,
 
                         children: [
 
-                          Icon(
-                            item['icon'] as IconData,
-                            size: 50,
-                            color: Colors.white,
-                          ),
-
-                          const SizedBox(height: 14),
-
                           Text(
 
-                            item['title'].toString(),
+                            'IELTS Academic Practice',
 
-                            style: const TextStyle(
+                            style: TextStyle(
+
                               color: Colors.white,
-                              fontSize: 18,
+
+                              fontSize: 24,
+
                               fontWeight: FontWeight.bold,
                             ),
                           ),
 
+                          SizedBox(height: 10),
+
+                          Text(
+
+                            'Improve your Reading, Vocabulary and Grammar skills with IELTS-style questions.',
+
+                            style: TextStyle(
+
+                              color: Colors.white70,
+
+                              fontSize: 15,
+                            ),
+                          ),
                         ],
                       ),
                     ),
-                  );
-                },
+
+                    const SizedBox(height: 24),
+
+                    Expanded(
+
+                      child: GridView.builder(
+
+                        itemCount: items.length,
+
+                        gridDelegate:
+                        const SliverGridDelegateWithFixedCrossAxisCount(
+
+                          crossAxisCount: 2,
+
+                          crossAxisSpacing: 16,
+
+                          mainAxisSpacing: 16,
+
+                          childAspectRatio: 1.05,
+                        ),
+
+                        itemBuilder: (context, index) {
+
+                          final item = items[index];
+
+                          return GestureDetector(
+
+                            onTap: () {
+
+                              Navigator.push(
+
+                                context,
+
+                                MaterialPageRoute(
+
+                                  builder: (_) => LevelScreen(
+
+                                    category: 'ielts',
+
+                                    level:
+                                    item['level'].toString(),
+                                  ),
+                                ),
+                              );
+                            },
+
+                            child: Container(
+
+                              decoration: BoxDecoration(
+
+                                gradient: LinearGradient(
+
+                                  colors: [
+
+                                    item['color1'] as Color,
+                                    item['color2'] as Color,
+                                  ],
+                                ),
+
+                                borderRadius:
+                                BorderRadius.circular(24),
+
+                                boxShadow: [
+
+                                  BoxShadow(
+
+                                    color:
+                                    Colors.black.withOpacity(0.15),
+
+                                    blurRadius: 8,
+
+                                    offset: const Offset(0, 4),
+                                  ),
+                                ],
+                              ),
+
+                              child: Column(
+
+                                mainAxisAlignment:
+                                MainAxisAlignment.center,
+
+                                children: [
+
+                                  Icon(
+
+                                    item['icon'] as IconData,
+
+                                    size: 50,
+
+                                    color: Colors.white,
+                                  ),
+
+                                  const SizedBox(height: 14),
+
+                                  Text(
+
+                                    item['title'].toString(),
+
+                                    style: const TextStyle(
+
+                                      color: Colors.white,
+
+                                      fontSize: 18,
+
+                                      fontWeight: FontWeight.bold,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ),
+                          );
+                        },
+                      ),
+                    ),
+                  ],
+                ),
               ),
             ),
+
+            const BannerAdWidget(),
+
+            const SizedBox(height: 8),
           ],
         ),
       ),

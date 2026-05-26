@@ -5,7 +5,7 @@ import 'package:confetti/confetti.dart';
 import '../models/quiz_result.dart';
 
 import 'home_screen.dart';
-
+import '../widgets/banner_ad_widget.dart';
 class ResultScreen extends StatefulWidget {
 
   final int score;
@@ -430,7 +430,12 @@ class _ResultScreenState
                   ),
                 ),
 
+
                 const SizedBox(height: 16),
+
+                const BannerAdWidget(),
+
+                const SizedBox(height: 12),
 
                 Row(
 
