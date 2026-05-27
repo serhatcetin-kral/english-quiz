@@ -40,7 +40,7 @@ class _BannerAdWidgetState
 
           ? 'ca-app-pub-3940256099942544/6300978111'
 
-          : 'ca-app-pub-3940256099942544/2934735716',
+          : 'ca-app-pub-6282915034498194/5011195233',
 
       listener: BannerAdListener(
 
