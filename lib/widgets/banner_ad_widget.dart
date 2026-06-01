@@ -37,8 +37,7 @@ class _BannerAdWidgetState
       adUnitId:
 
       Platform.isAndroid
-
-          ? 'ca-app-pub-3940256099942544/6300978111'
+          ? 'ca-app-pub-6282915034498194/4598218579'
 
           : 'ca-app-pub-6282915034498194/5011195233',
 
@@ -95,4 +94,8 @@ class _BannerAdWidgetState
       ),
     );
   }
+  // @override
+  // Widget build(BuildContext context) {
+  //   return const SizedBox();
+  // }
 }

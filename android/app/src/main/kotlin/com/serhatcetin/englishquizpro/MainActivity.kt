@@ -1,0 +1,5 @@
+package com.serhatcetin.englishquizpro
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
